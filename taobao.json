@@ -1,0 +1,89 @@
+{
+    "cat": {
+        "version": "1.0",
+        "shopid":[],
+        "menu":[],
+        "hongbao": {
+            "taobao": "taobao://m.tb.cn/h.4trcgjg",
+            "tmall": "tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https%3A%2F%2Fm.tb.cn%2Fh.4trcgjg",
+            "taobaolite": "taobaolite://m.tb.cn/h.4trcgjg"
+        },
+        "main": {
+            "taobao": "taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
+            "tmall": "tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https%3A%2F%2Fwww.tmall.com%2F",
+            "taobaolite": "taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%3F"
+        },
+        "catpage": {
+            "taobao": "taobao://pages.tmall.com/wow/z/hdwk/20210618/singlegame?disableNav=YES",
+            "tmall": "tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Fz%2Fhdwk%2F20210618%2Fsinglegame%3FdisableNav%3DYES",
+            "taobaolite": "taobaolite://pages.tmall.com/wow/z/hdwk/20210618/singlegame?disableNav=YES"
+        },
+        "endpage": {
+            "taobao": "taobao://pages.tmall.com/wow/z/hdwk/20210618/singlegame?disableNav=YES",
+            "tmall": "tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Fz%2Fhdwk%2F20210618%2Fsinglegame%3FdisableNav%3DYES",
+            "taobaolite": "taobaolite://pages.tmall.com/wow/z/hdwk/20210618/singlegame?disableNav=YES"
+        },
+        
+        "task": [{
+            "stars": {
+                "title": "领喵币",
+                "type": "stars",
+                "urlScheme": "tbopen://m.taobao.com/tbopen/index.html?h5Url=https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&adScene=2020618-task-list&sourceType=other&fromToken=xBVj6P9UvoVobWAQTnvT7EUqUZUJ&sceneId=1788&hd_from_id=100116&deliveryId=替换文本一&implId=替换文本二",
+                "textEnd": "str1&implId=str2",
+                "item": [
+                    "14366 other_16_0_14366_0",
+                    "15116 cloudsail_1_103565003020001_15116_0",
+                    "15116 cloudsail_1_103565003020002_15116_0",
+                    "15116 cloudsail_1_103565003020003_15116_0",
+                    "15116 cloudsail_1_103565003020004_15116_0",
+                    "15116 cloudsail_1_103565003020005_15116_0",
+                    "15116 cloudsail_1_103565003020006_15116_0",
+                    "15116 cloudsail_1_103565003020007_15116_0",
+                    "15116 cloudsail_1_103565003020008_15116_0",
+                    "15116 cloudsail_1_103565003020009_15116_0",
+                    "15116 cloudsail_1_103565003020000_15116_0",
+                    "14702 other_9_301005_14702_0",
+                    "15102 expo_2_1000000000242502001_15102_0",
+                    "15102 expo_2_1000000000242502002_15102_0",
+                    "15102 expo_2_1000000000242502003_15102_0",
+                    "15102 expo_2_1000000000242502004_15102_0",
+                    "14676 purchase_0_312006_14676_0",
+                    "13964 other_22_262002_13964_0",
+                    "14939 expo_3_304007_14939_0",
+                    "14738 expo_9_1000000000242498002_14738_0",
+                    "15118 cloudsail_1_101910001020001_15118_0",
+                    "15118 cloudsail_1_101910001020002_15118_0",
+                    "15118 cloudsail_1_101910001020003_15118_0",
+                    "15118 cloudsail_1_101910001020004_15118_0",
+                    "15118 cloudsail_1_101910001020005_15118_0",
+                    "13963 cloudsail_22_104503503390001_13963_0",
+                    "13963 cloudsail_22_104503503390002_13963_0",
+                    "13963 cloudsail_22_104503503390003_13963_0",
+                    "15053 expo_5_1000000000242627002_15053_0",
+                    "14083 other_19_306011_14083_0",
+                    "14671 other_10_307023_14671_0",
+                    "14737 expo_9_1000000055284686016_14737_0",
+                    "13984 other_21_258008_13984_0",
+                    "15159 other_0_336018_15159_1",
+                    "15098 expo_2_1000000053806172031_15098_0",
+                    "14672 other_10_0_14672_0",
+                    "14286 search_17_628567749_14286_0",
+                    "13630 other_33_327001_13630_0",
+                    "14373 live_16_312471595884_14373_0",
+                    "14893 other_10_0_14893_0",
+                    "14894 other_10_0_14894_0",
+                    "15163 cloudsail_1_102804504640001_15163_0",
+                    "15163 cloudsail_1_102804504640002_15163_0",
+                    "14007 other_22_1_14007_0",
+                    "14112 other_0_266001_14112_0",
+                    "14945 live_5_334004_14945_0",
+                    "15101 expo_4_1000000000242468001_15101_0",
+                    "15101 expo_4_1000000000242468002_15101_0",
+                    "15177 expo_2_1000000000242121002_15177_0",
+                    "15179 expo_2_1000000054908544031_15179_0",
+                    "15213 expo_2_1000000054908534031_15213_0"
+                ]
+            }
+        }]
+    }
+}
