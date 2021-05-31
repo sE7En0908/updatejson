@@ -1,7 +1,7 @@
 {
     "cat": {
         "version": "1.0",
-        "shopid":[],
+        "shopid":[71955116,62377409],
         "menu":[],
         "hongbao": {
             "taobao": "taobao://m.tb.cn/h.4trcgjg",
@@ -26,9 +26,10 @@
         
         "task": [{
             "stars": {
-                "title": "领喵币",
+                "title": "领金币",
                 "type": "stars",
-                "urlScheme": "tbopen://m.taobao.com/tbopen/index.html?h5Url=https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&adScene=2020618-task-list&sourceType=other&fromToken=xBVj6P9UvoVobWAQTnvT7EUqUZUJ&sceneId=1788&hd_from_id=100116&deliveryId=替换文本一&implId=替换文本二",
+                "baseurl":"tbopen://m.taobao.com/tbopen/index.html?h5Url=",
+                "urlScheme": "https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&adScene=2020618-task-list&sourceType=other&fromToken=xBVj6P9UvoVobWAQTnvT7EUqUZUJ&sceneId=1788&hd_from_id=100116&deliveryId=替换文本一&implId=替换文本二",
                 "textEnd": "str1&implId=str2",
                 "item": [
                     "14366 other_16_0_14366_0",
