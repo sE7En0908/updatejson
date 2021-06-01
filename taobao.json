@@ -3,13 +3,29 @@
         "version": "1.0",
         "shopid":[71955116,62377409],
         "download":"",
+        "wx":"",
         "menu":{
             "cat":"",
             "hongbao":" 每日三次",
-            "moreActivity":" 总有一款适合你"
+            "moreActivity":" 总有一款适合你",
+            "weixin":"实时获取新的快捷指令"
+        },
+        "menuAction":{
+            "moreActivity":{
+                "type":"list",
+                "data":[
+                    {
+                        "title":"活动1",
+                        "subtitle":"我是简介",
+                        "type":"list",
+                        "data":[]
+                    }
+                ]
+            }
         },
         "tip":{
-            "tip1":"618自动养猫\n--------------------\n任务异常请不要停止\n这属于正常现象"
+            "tip1":"618自动养猫\n--------------------\n任务异常请不要停止\n这属于正常现象-----------------------------\n今晚 20点，21点有618惊喜红包，\n点击领618红包可抢",
+            "end":""
         },
         "hongbao": {
             "taobao": "taobao://m.tb.cn/h.4trcgjg",
