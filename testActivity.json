@@ -1,0 +1,35 @@
+{
+    "activity":{
+
+        "tip":"热门活动实时更新\n",
+        "list":{
+                "美团红包":"  每天可以领，吃饭更便宜",
+                "饿了么红包":"  每天可以领，吃饭更便宜",
+                "淘宝实时好券榜":"领取大牌的大额店铺券",
+            },
+        "mapping" :{
+            "美团红包":{
+                "url":"imeituan://www.meituan.com/web?lch=cps:waimai:3:776c2adbab1063dbf7bb27b032eccb42:weixin194:2:80292&url=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D1%26p%3DOWMpZ-uzIFOVe6JyOONs3dXuqV0qcAf-r-KCvHdXiNeHGrf99tjKfEFmfKD5wE8tIKFZ5trT0sOMBI8PYBI709TQrHSowZ35lT3KWxR5a72vQtwrwa1jUpHSHlsPQ3wBH50kzjqu3xTNw3PB3roiT2P2MWrO42CJ2lWJd7PKSHsq7SN-lPlsxVNr-c3nhOZlzawAIr5UyPJjc9kRfnAhGytXnltosMtnrJ4-9fEOLfYcYn1hYyDi1pO1mZxZYFcHVaTZ7wo6zUcGkJ9ItxKfslK20asctpDoufdkj2gOK66MIO_E0-GFVB9nJtuWIF02y5LhdVrEh5ZhzlUhXuwSs7abZ1dbqqz4iLIK-XMwHWFt8hqiPJDLqN1KPbyuqfK0C-muxSJTCZNQxRHJYI6zQAskG7LvEhXxrmu3vEcbJ4hhFalkXdPf0W5opucJJRXCEr47CL5dm9L95FIVMLqeCJJ5CE_ghZ2nAjHWmMLUIxXFy6IujV9DipHPcMPs8ZmoZ0SpSCfFgFHdEXj0cRllpHsledjfVhcds2gty75ozk5vwCDgaO6ixMXqlH1193CtPpMtUDqH-iLaM2A0gxcmJ3gXk5UWz5vX-oQbH-Yjy0Ql7Mn_OEV_b_qDyBYgyrb7unXIthK-lehqig2yh0Nd0PV85jl3TZYOTtcA3YycoWhilLGW2wcCjY31r1QDkEgP"
+            },
+            "饿了么红包":{
+                "url":"tbopen://m.tb.cn/h.4tJDhjt"
+            },
+            "淘宝实时好券榜":{
+                "url":"tbopen://m.tb.cn/h.4Hu4EIt"
+            },
+            "更多淘宝活动":{
+                "tip":"欢迎下载app",
+                "list":{
+                    "活动1里的活动1":"618红包"
+                },
+                "mapping":{
+                    "活动1里的活动1":{
+                        "url":"tbopen://"
+                    }
+                }
+            }
+        }
+                
+    },
+    "more":{}
+}
