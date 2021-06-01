@@ -9,7 +9,8 @@
                 },
                 "mapping":{
                     "活动1里的活动1":{
-                        "url":""
+                        "type":"scheme",
+                        "url":"tbopen://"
                     }
                 }
             }
