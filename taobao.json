@@ -2,7 +2,15 @@
     "cat": {
         "version": "1.0",
         "shopid":[71955116,62377409],
-        "menu":[],
+        "download":"",
+        "menu":{
+            "cat":"",
+            "hongbao":" 每日三次",
+            "moreActivity":" 总有一款适合你"
+        },
+        "tip":{
+            "tip1":""
+        },
         "hongbao": {
             "taobao": "taobao://m.tb.cn/h.4trcgjg",
             "tmall": "tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https%3A%2F%2Fm.tb.cn%2Fh.4trcgjg",
