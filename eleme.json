@@ -6,6 +6,8 @@
                 "美团红包":"  每天可以领，吃饭更便宜",
                 "饿了么红包":"  每天可以领，吃饭更便宜",
                 "淘宝实时好券榜":"领取大牌的大额店铺券",
+                "与作者交流":"",
+                "饿了么自动领豆":""
             },
         "mapping" :{
             "美团红包":{
@@ -16,9 +18,38 @@
             },
             "淘宝实时好券榜":{
                 "url":"tbopen://m.tb.cn/h.4Hu4EIt"
+            },
+            "与作者交流":{
+                "list":{
+                    "qq":""
+                }
+            },
+            "饿了么自动领豆":{
+                "type":"task1",
+              
+                "endpage": {
+                    "taobao": "taobaolite://m.tb.cn/h.4tJRVhg",
+                    "tmall": "tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Fz%2Fhdwk%2F20210618%2Fsinglegame%3FdisableNav%3DYES",
+                    "taobaolite": "taobaolite://pages.tmall.com/wow/z/hdwk/20210618/singlegame?disableNav=YES"
+                },
+                "main": {
+                    "taobao": "taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
+                    "tmall": "tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https%3A%2F%2Fwww.tmall.com%2F",
+                    "taobaolite": "taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%3F"
+                },
+             
+                "before":[
+                    
+                ],
+                "task":{
+                    "scheme":"eleme://web?url=",
+                    "baseurl":"https://api.mjt520.shop/static/html/eleme.html?index=占位参数1",
+                    "wait":20,
+                    "item":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
+                }
             }
             
         }
                 
-    },
+    }
 }
