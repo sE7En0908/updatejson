@@ -40,14 +40,17 @@
              
                 
                 "task":{
+                    "tag":"eleme",
                     "scheme":"eleme://web?url=",
-                    "baseurl":"https://api.mjt520.shop/static/html/eleme.html?index=占位参数1&bbbb=占位参数2&suji=随机参数1",
-                    "wait":20,
-                    
+                    "baseurl":"https://api.mjt520.shop/static/html/eleme.html?index=占位参数1",
+                    "wait":22,
+                    "param":{
+                        "随机参数1":[999,888,777]
+                    },
                     "before":[
                     
                     ],
-                    "item":["0 ppp",1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
+                    "item":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
                 }
             }
             
