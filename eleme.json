@@ -43,9 +43,7 @@
                     "scheme":"eleme://web?url=",
                     "baseurl":"https://api.mjt520.shop/static/html/eleme.html?index=占位参数1&bbbb=占位参数2&suji=随机参数1",
                     "wait":20,
-                    "param":{
-                        "随机参数1":[999,888,777]
-                    },
+                    
                     "before":[
                     
                     ],
