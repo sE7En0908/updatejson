@@ -78,6 +78,7 @@
             },
 
             "自动领淘金币2":{
+                "type":"task1",
                 "endpage": "taobao://web?url=https://m.tb.cn/h.4tJDhjt",
                 "main": "taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
                 "endMessage":"自动领淘金币逛店铺结束啦",
