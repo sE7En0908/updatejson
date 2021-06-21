@@ -6,7 +6,8 @@
                 "❤️饿了么自动领豆 更新2021-06-17❤️",
                 "美团红包",
                 "饿了么红包",
-                "自动领淘金币"
+                "自动领淘金币",
+                "自动领淘金币2"
             
               
                 
@@ -101,6 +102,47 @@
                         "3511 other_0_0_3511_0",
                         "5138 other_0_61120_5138_0",
                         "5997 other_0_0_5997_0"
+                    ]
+                }
+            },
+            "自动领淘金币2":{
+
+                "type":"task1",
+              
+                "endpage": {
+                    "eleme":"taobao://web?url=https://m.tb.cn/h.4tJDhjt"
+                },
+                "main": {
+                    "eleme":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com"
+                },
+             
+                
+                "task":{
+                    "tag":"taojinbi",
+                    "scheme":"tbopen://m.taobao.com/tbopen/index.html?h5Url=",
+                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=随机参数1&shop_id=随机参数1&achievementType=1&spm=a217e.achievement.btn1&achievementSetId=占位参数1",
+                    "wait":22,
+                    "param":{
+                        "随机参数1":[71955116,62377409,104736810,229005812,116845644,60790435,68491548,110224300]
+                    },
+                    "before":[
+                    {
+                        "url":"taobao://pages.tmall.com/wow/z/tmtjb/town/home?disableNav=YES",
+                        "wait":3
+                    }
+                    ],
+                    "item":[
+                        "301000060",
+                        "301000061",
+                        "301000063",
+                        "301000064",
+                        "301000065",
+                        "301000067",
+                        "301000068",
+                        "301000069",
+                        "301000070",
+                        "301000071",
+                        "301000072"
                     ]
                 }
             }
