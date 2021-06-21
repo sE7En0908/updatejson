@@ -86,7 +86,10 @@
                         "随机参数1":[71955116,62377409,104736810,229005812,116845644,60790435,68491548,110224300]
                     },
                     "before":[
-                    
+                    {
+                        "url":"taobao://pages.tmall.com/wow/z/tmtjb/town/home?disableNav=YES",
+                        "wait":3
+                    }
                     ],
                     "item":[
                         "6022 other_0_0_6022_0",
