@@ -120,7 +120,7 @@
                 "task":{
                     "tag":"taojinbi",
                     "scheme":"tbopen://m.taobao.com/tbopen/index.html?h5Url=",
-                    "baseurl":"https://market.m.taobao.com/apps/market/tjb/achievement-commodity.html?wh_weex=true&wx_navbar_transparent=true&achievementType=1&spm=a217e.achievement.btn1&achievementSetId=占位参数1",
+                    "baseurl":"https://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=随机参数1&wh_dataservice=false&spm=a217e.17632374&sourceId=占位参数1",
                     "wait":22,
                     "param":{
                         "随机参数1":[71955116,62377409,104736810,229005812,116845644,60790435,68491548,110224300]
