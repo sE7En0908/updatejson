@@ -6,7 +6,7 @@
                 "❤️饿了么自动领豆 更新2021-06-21❤️",
                 "美团红包",
                 "饿了么红包1",
-               
+                "淘宝1元购转0元购"
                 
             
               
@@ -72,16 +72,16 @@
                             
                         "task":{
                             "tag":"ling",
-                            "scheme":"alipays://platformapi/startapp?appId=",
-                            "baseurl":"2021001140676678",
+                            "scheme":"alipays://platformapi/startapp?appId=2021001140676678",
+                            "baseurl":"",
                             "wait":3,
                             "param":{
-                                "随机参数1":[999,888,777]
+                               
                             },
                             "before":[
                             
                             ],
-                            "item":[0]
+                            "item":[1]
                         }
                     }
                 }
