@@ -42,7 +42,7 @@
                 "type":"task1",
               
                 "endpage": "eleme://web?url=https://m.tb.cn/h.4tJDhjt",
-                "main":"eleme:eleme://home",
+                "main":"eleme://home",
                 "endMessage":"饿了么果园任务结束",
                 
                 "task":{
@@ -54,16 +54,30 @@
                         "随机参数1":[999,888,777]
                     },
                     "before":[
-                       
+                       {
+                        "url":"eleme://web?url=https%3A%2F%2Ftb.ele.me%2Fwow%2Falsc%2Fmod%2F11c23eeeecc8e2db0c38e8b8%3FactId%3D20200629151859103125248022%26taskId%3D20210705115829004304829981%26collectionId%3D20200629151949169972229509%26tagId%3D20210427160012454519000000000060%26from%3Da13.b20058%26alscBpBlockCode%3D603040_6723057310%26taskFrom%3Da13.b20058%26bizScene%3DKB_ORCHARD",
+                        "wait":4
+                        },
+                        {
+                        "url":"eleme://web?url=https%3A%2F%2Ftb.ele.me%2Fwow%2Falsc%2Fmod%2F7027c22cd7826add68a54d8f%3FactId%3D20200629151859103125248022%26taskId%3D20210430190847526379071349%26collectionId%3D20200629151949169972229509%26tagId%3D20210427160012454519000000000060%26from%3Da13.b20058%26alscBpBlockCode%3D603040_6723057310%26taskFrom%3Da13.b20058%26bizScene%3DKB_ORCHARD",
+                        "wait":4
+                        },
+                         {
+                        "url":"eleme://web?url=https%3A%2F%2Ftb.ele.me%2Fwow%2Falsc%2Fmod%2F7027c22cd7826add68a54d8f%3FactId%3D20200629151859103125248022%26taskId%3D20210622134247474367199456%26collectionId%3D20200629151949169972229509%26tagId%3D20210427160012454519000000000060%26from%3Da13.b20058%26alscBpBlockCode%3D603040_6723057310%26taskFrom%3Da13.b20058%26bizScene%3DKB_ORCHARD",
+                        "wait":4
+                        },
+                         {
+                        "url":"eleme://home",
+                        "wait":2
+                        },
                     ],
                     "item":[
                         "7027c22cd7826add68a54d8f 20210310144157836303406057",
-                        "11c23eeeecc8e2db0c38e8b8 20210705115829004304829981",
-                        "7027c22cd7826add68a54d8f 20210430190847526379071349",
+                        
                         "385c2746dab002598833d63c 20210528173648498380726064",
 
-                        "7027c22cd7826add68a54d8f 20210622134247474367199456",
-                        "7027c22cd7826add68a54d8f 20210621211302246332331902",
+                        
+                        "7027c22cd7826add68a54d8f 20210621211302246332331902"
                     ]
                 }
             }
