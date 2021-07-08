@@ -7,7 +7,7 @@
                 "美团红包",
                 "饿了么红包",
                 
-            
+                "交流·反馈 qq群"
               
                 
             ],
@@ -21,7 +21,9 @@
             "饿了么红包2 两个红包不同，都可领":{
                 "url":"eleme://web?url=https://h5.ele.me/ant/qrcode%3Fopen_type%3Dminiapp%26url_id%3D35%26inviterId%3D2200cb%26_ltracker_f%3Dtjyj_app_fuceng"
             },
-        
+            "交流·反馈 qq群":{
+                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=208944131&card_type=group&source=qrcode"
+            },
             "交流群":{
                 "list":{
                     "qq":""
