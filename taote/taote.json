@@ -27,7 +27,7 @@
             },
             "❤️淘特 天天赚特币任务 更新2021-07-10❤️":{
                 "type":"task",
-                "key":["猫"]
+                "key":["猫粮食"]
                 
             }
             
@@ -48,7 +48,7 @@
                 "task":{
                     "tag":"taotecat",
                     "scheme":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=",
-                    "baseurl":"https://h5.m.taobao.com/taolive/video.html?disableNav=YES&needLogin=true&wh_kangarooprefetch=true&bizType=helloKitty&subType=helloKittyCoin&&deliveryId=占位参数1&implId=占位参数2",
+                    "baseurl":"https://h5.m.taobao.com/taolive/video.html?disableNav=YES&needLogin=true&wh_kangarooprefetch=true&bizType=helloKitty&subType=helloKittyCoin&deliveryId=占位参数1&implId=占位参数2",
                     "wait":23,
                     "param":{
                         "随机参数1":[999,888,777]
@@ -69,6 +69,44 @@
                         "12026 other_425_0_12026_0",
                         "8083 other_425_0_8083_0",
                         "8080 other_425_0_8080_0",
+                        "7738 other_425_0_7738_0",
+                        "5113 other_425_0_5113_0"
+                        
+                    ]
+                }
+            },
+
+            "猫粮食":{
+                "type":"task1",
+              
+                "endpage": "taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage",
+                "main":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage",
+                "endMessage":"饿了么果园任务结束",
+                
+                "task":{
+                    "tag":"taotecatlinag",
+                    "scheme":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=",
+                    "baseurl":"https://h5.m.taobao.com/taolive/video.html?disableNav=YES&needLogin=true&wh_kangarooprefetch=true&bizType=helloKitty&subType=default&deliveryId=占位参数1&implId=占位参数2",
+                    "wait":23,
+                    "param":{
+                        "随机参数1":[999,888,777]
+                    },
+                    "before":[
+                      
+                         {
+                        "url":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage",
+                        "wait":2
+                        }
+                    ],
+                    "item":[
+                         "7912 other_378_0_7912_0",
+
+                        "7902 other_378_0_7902_0",
+
+                        "7909 other_378_0_7909_0",
+                        "7785 other_378_0_7785_0",
+                        "7905 other_378_0_7905_0",
+                        "7899 other_378_0_7899_0",
                         "7738 other_425_0_7738_0",
                         "5113 other_425_0_5113_0"
                         
