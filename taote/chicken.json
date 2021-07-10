@@ -48,7 +48,7 @@
                 "endMessage":"饿了么果园任务结束",
                 
                 "task":{
-                    "tag":"taotecatlinag",
+                    "tag":"taotechicken",
                     "scheme":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=",
                     "baseurl":"https://h5.m.taobao.com/taolive/video.html?disableNav=YES&needLogin=true&wh_kangarooprefetch=true&bizType=chicken&subType=default&deliveryId=占位参数1&implId=占位参数2",
                     "wait":23,
@@ -68,7 +68,7 @@
 
                          "10662 other_0_0_10662_0",
                          "8130 other_0_0_8130_0",
-                         "8130 other_0_0_8130_1",
+                         "14832 other_390_0_14832_0",
                          "8130 other_0_0_8130_2",
                          "8229 other_390_0_8229_0",
 
@@ -78,12 +78,10 @@
                         
 
                         "15581 other_390_0_15581_0",
+                        "15592 other_390_0_15592_0",
 
-                        "7909 other_1_0_7909_0",
 
-                        "7785 other_0_0_7785_0",
-
-                        "7899 other_0_0_7899_0",
+                       
                         "15577 other_390_0_15577_0"
                         
                     ]
