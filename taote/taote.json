@@ -41,13 +41,13 @@
              "猫":{
                 "type":"task1",
               
-                "endpage": "eleme://web?url=https://m.tb.cn/h.4CxfWfY",
-                "main":"eleme://home",
+                "endpage": "taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage",
+                "main":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage",
                 "endMessage":"饿了么果园任务结束",
                 
                 "task":{
                     "tag":"taotecat",
-                    "scheme":"eleme://web?url=",
+                    "scheme":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage",
                     "baseurl":"https://h5.m.taobao.com/taolive/video.html?disableNav=YES&needLogin=true&wh_kangarooprefetch=true&bizType=helloKitty&subType=helloKittyCoin&sceneId=1145&hd_from_id=100094&deliveryId=占位参数1&implId=占位参数2",
                     "wait":20,
                     "param":{
@@ -56,7 +56,7 @@
                     "before":[
                       
                          {
-                        "url":"eleme://home",
+                        "url":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage",
                         "wait":2
                         }
                     ],
