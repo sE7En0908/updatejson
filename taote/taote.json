@@ -3,7 +3,7 @@
 
         "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n有些任务需要饿了么账号绑定淘宝\n不做可以不用管\n",
         "list":[
-                "❤️饿了么0元水果任务 更新2021-07-07❤️",
+                "❤️淘特 天天赚特币任务 更新2021-07-10❤️",
                 "美团红包",
                 "饿了么红包"
             
@@ -25,9 +25,9 @@
                     "qq":""
                 }
             },
-            "❤️饿了么0元水果任务 更新2021-07-07❤️":{
+            "❤️淘特 天天赚特币任务 更新2021-07-10❤️":{
                 "type":"task",
-                "key":["饿了么果园"]
+                "key":["猫"]
                 
             }
             
@@ -38,7 +38,7 @@
 
     "taskData":{
            
-             "饿了么果园":{
+             "猫":{
                 "type":"task1",
               
                 "endpage": "eleme://web?url=https://m.tb.cn/h.4CxfWfY",
@@ -48,7 +48,7 @@
                 "task":{
                     "tag":"taotecat",
                     "scheme":"eleme://web?url=",
-                    "baseurl":"https://h5.m.taobao.com/taolive/video.html?disableNav=YES&needLogin=true&wh_kangarooprefetch=true&bizType=占位参数1&subType=占位参数2&sceneId=1145&hd_from_id=100094&deliveryId=占位参数3&implId=占位参数4",
+                    "baseurl":"https://h5.m.taobao.com/taolive/video.html?disableNav=YES&needLogin=true&wh_kangarooprefetch=true&bizType=helloKitty&subType=helloKittyCoin&sceneId=1145&hd_from_id=100094&deliveryId=占位参数1&implId=占位参数2",
                     "wait":20,
                     "param":{
                         "随机参数1":[999,888,777]
@@ -61,9 +61,16 @@
                         }
                     ],
                     "item":[
-                        "helloKitty helloKittyCoin 8081 other_1_0_8081_0",
+                         "8081 other_1_0_8081_0",
 
-                        "helloKitty helloKittyCoin 13052 other_425_0_13052_0",
+                        "13052 other_425_0_13052_0",
+
+                        "8233 other_425_0_8233_0",
+                        "12026 other_425_0_12026_0",
+                        "8083 other_425_0_8083_0",
+                        "8080 other_425_0_8080_0",
+                        "7738 other_425_0_7738_0",
+                        "5113 other_425_0_5113_0"
                         
                     ]
                 }
