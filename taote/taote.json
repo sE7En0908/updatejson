@@ -29,11 +29,11 @@
             "陶特天天领红包":{
                 "type":"urlarr",
                 "wait":3,
-                "endpage":"taobaolite://",
+                "endpage":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Fsale%2Fact%2Fsign-2020-recovery%3FsceneId%3Dsign_receive_hong_bao%26wx_navbar_transparent%3Dtrue%26needLogin%3Dtrue%26itemId%3D%26scene%3Dscene_two%26pid%3Dmm_128558070_2223700177_111163950042%26bc_fl_src%3Dtaobaolite_dld_mmlm_jiheye",
                 "arr":[
-                    "taobao://m.tb.cn/h.4xH8cBP",
-                    "taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Fsale%2Fact%2Fsign-2020-recovery%3FsceneId%3Dsign_receive_hong_bao%26wx_navbar_transparent%3Dtrue%26needLogin%3Dtrue%26itemId%3D%26scene%3Dscene_two%26pid%3Dmm_128558070_2223700177_111163950042%26bc_fl_src%3Dtaobaolite_dld_mmlm_jiheye"
+                    "taobao://m.tb.cn/h.4xH8cBP"
                     
+            
                 ]
             },
             "❤️淘特 特币任务 更新2021-07-10❤️":{
