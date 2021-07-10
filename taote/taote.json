@@ -30,8 +30,8 @@
                 "wait":3,
                 "endpage":"taobaolite://",
                 "arr":[
-                    "http://www.baidu.com",
-                    "http://www.taobao.com"
+                    "taobao://m.tb.cn/h.4xH8cBP",
+                    "taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&module=h5&bootImage=0&packageName=com.taobao.litetao&h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Fsale%2Fact%2Fsign-2020-recovery%3FsceneId%3Dsign_receive_hong_bao%26wx_navbar_transparent%3Dtrue%26needLogin%3Dtrue%26itemId%3D%26scene%3Dscene_two%26pid%3Dmm_128558070_2223700177_111163950042%26member_id%3D128558070&bc_fl_src=taobaolite_dld_mmlm_jiheye"
                     
                 ]
             },
@@ -129,7 +129,7 @@
 
                         "7785 other_0_0_7785_0",
 
-                        "7899 other_0_0_7899_0",
+                        "7899 other_0_0_7899_0"
                         
                     ]
                 }
