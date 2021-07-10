@@ -27,9 +27,11 @@
             },
             "陶特天天领红包":{
                 "type":"urlarr",
+                "wait":3,
+                "endpage":"taobaolite://",
                 "arr":[
-                    "htttp",
-                    "http2"
+                    "htttp://www.baidu.com"
+                    
                 ]
             },
             "❤️淘特 天天赚特币任务 更新2021-07-10❤️":{
