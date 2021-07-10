@@ -1,0 +1,107 @@
+{
+    "activity":{
+
+        "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n有些任务需要饿了么账号绑定淘宝\n不做可以不用管\n",
+        "list":[
+                "❤️淘特 萝卜任务 更新2021-07-10❤️",
+                "美团红包",
+                "饿了么红包",
+                "淘特-天天领红包"
+            
+              
+                
+            ],
+        "mapping" :{
+            "美团红包":{
+                "url":"imeituan://www.meituan.com/web?lch=cps:waimai:3:776c2adbab1063dbf7bb27b032eccb42:weixin194:2:80292&url=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D1%26p%3DOWMpZ-uzIFOVe6JyOONs3dXuqV0qcAf-r-KCvHdXiNeHGrf99tjKfEFmfKD5wE8tIKFZ5trT0sOMBI8PYBI709TQrHSowZ35lT3KWxR5a72vQtwrwa1jUpHSHlsPQ3wBH50kzjqu3xTNw3PB3roiT2P2MWrO42CJ2lWJd7PKSHsq7SN-lPlsxVNr-c3nhOZlzawAIr5UyPJjc9kRfnAhGytXnltosMtnrJ4-9fEOLfYcYn1hYyDi1pO1mZxZYFcHVaTZ7wo6zUcGkJ9ItxKfslK20asctpDoufdkj2gOK66MIO_E0-GFVB9nJtuWIF02y5LhdVrEh5ZhzlUhXuwSs7abZ1dbqqz4iLIK-XMwHWFt8hqiPJDLqN1KPbyuqfK0C-muxSJTCZNQxRHJYI6zQAskG7LvEhXxrmu3vEcbJ4hhFalkXdPf0W5opucJJRXCEr47CL5dm9L95FIVMLqeCJJ5CE_ghZ2nAjHWmMLUIxXFy6IujV9DipHPcMPs8ZmoZ0SpSCfFgFHdEXj0cRllpHsledjfVhcds2gty75ozk5vwCDgaO6ixMXqlH1193CtPpMtUDqH-iLaM2A0gxcmJ3gXk5UWz5vX-oQbH-Yjy0Ql7Mn_OEV_b_qDyBYgyrb7unXIthK-lehqig2yh0Nd0PV85jl3TZYOTtcA3YycoWhilLGW2wcCjY31r1QDkEgP"
+            },
+            "饿了么红包":{
+                "url":"eleme://web?url=https://m.tb.cn/h.4CxfWfY"
+            },
+            "618最后一天 红包全天加码":{
+                "url":"tbopen://m.tb.cn/h.4vzBqLL"
+            },
+            "淘特-天天领红包":{
+                "type":"urlarr",
+                "wait":3,
+                "endpage":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Fsale%2Fact%2Fsign-2020-recovery%3FsceneId%3Dsign_receive_hong_bao%26wx_navbar_transparent%3Dtrue%26needLogin%3Dtrue%26itemId%3D%26scene%3Dscene_two%26pid%3Dmm_128558070_2223700177_111163950042%26bc_fl_src%3Dtaobaolite_dld_mmlm_jiheye",
+                "arr":[
+                    "taobao://m.tb.cn/h.4xH8cBP"
+                    
+            
+                ]
+            },
+            "交流群":{
+                "list":{
+                    "qq":""
+                }
+            },
+            "❤️淘特 萝卜任务 更新2021-07-10❤️":{
+                "type":"task",
+                "key":["萝卜任务"]
+                
+            }
+            
+            
+        }
+                
+    },
+
+    "taskData":{
+           
+             
+
+            "萝卜任务":{
+                "type":"task1",
+              
+                "endpage": "taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage",
+                "main":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage",
+                "endMessage":"饿了么果园任务结束",
+                
+                "task":{
+                    "tag":"taoteluobo",
+                    "scheme":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=",
+                    "baseurl":"https://h5.m.taobao.com/taolive/video.html?disableNav=YES&needLogin=true&wh_kangarooprefetch=true&bizType=bigRobot&subType=default&deliveryId=占位参数1&implId=占位参数2",
+                    "wait":23,
+                    "wait2":"",
+                    "param":{
+                        "随机参数1":[999,888,777]
+                    },
+                    "before":[
+                      
+                         {
+                        "url":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage",
+                        "wait":2
+                        }
+                    ],
+                    "item":[
+                        "11412 other_390_0_11412_0",
+
+                        "11410 other_0_0_11410_0",
+
+                         "10662 other_0_0_10662_0",
+                         "8130 other_0_0_8130_0",
+                         "14832 other_0_0_14832_0",
+                         "8130 other_0_0_8130_2",
+                         "8229 other_0_0_8229_0",
+
+                        "11411 other_0_0_11411_0",
+                        "11411 other_0_0_11411_1",
+                        "11411 other_0_0_11411_2",
+                        
+
+                        "15581 other_390_0_15581_0",
+                        "15592 other_390_0_15592_0",
+
+
+                       
+                        "15577 other_390_0_15577_0"
+                        
+                    ]
+                }
+            }
+
+
+
+    }
+}
