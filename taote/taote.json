@@ -30,7 +30,7 @@
                 "wait":3,
                 "endpage":"taobaolite://",
                 "arr":[
-                    "htttp://www.baidu.com"
+                    "http://www.baidu.com"
                     
                 ]
             },
