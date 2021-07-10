@@ -3,7 +3,7 @@
 
         "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n有些任务需要饿了么账号绑定淘宝\n不做可以不用管\n",
         "list":[
-                "❤️淘特 萝卜零钱任务 更新2021-07-10❤️",
+                "❤️淘特 创业赚大钱 更新2021-07-10❤️",
                 "美团红包",
                 "饿了么红包",
                 "淘特-天天领红包"
@@ -36,9 +36,9 @@
                     "qq":""
                 }
             },
-            "❤️淘特 萝卜零钱任务 更新2021-07-10❤️":{
+            "❤️淘特 创业赚大钱 更新2021-07-10❤️":{
                 "type":"task",
-                "key":["萝卜任务"]
+                "key":["创业"]
                 
             }
             
@@ -51,7 +51,7 @@
            
              
 
-            "萝卜任务":{
+            "创业":{
                 "type":"task1",
               
                 "endpage": "taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage",
@@ -59,7 +59,7 @@
                 "endMessage":"饿了么果园任务结束",
                 
                 "task":{
-                    "tag":"taoteluobo",
+                    "tag":"taotechuangye",
                     "scheme":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=",
                     "baseurl":"https://h5.m.taobao.com/taolive/video.html?disableNav=YES&needLogin=true&wh_kangarooprefetch=true&bizType=superFactory&subType=default&deliveryId=占位参数1&implId=占位参数2",
                     "wait":23,
