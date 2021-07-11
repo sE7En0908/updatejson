@@ -6,7 +6,6 @@
                 "❤️饿了么自动领豆 更新2021-06-17❤️",
                 "美团红包",
                 "饿了么红包",
-                "自动领淘金币"
             
               
                 
@@ -42,73 +41,8 @@
     },
 
     "taskData":{
-            "自动领淘金币":{
-
-                "type":"task1",
-              
-                "endpage": "taobao://web?url=https://m.tb.cn/h.4tJDhjt",
-                "main": "taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
-                "endMessage":"自动领淘金币领能量结束啦",
-                
-                "task":{
-                    "tag":"taojinbi",
-                    "scheme":"tbopen://m.taobao.com/tbopen/index.html?h5Url=",
-                    "baseurl":"https://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=随机参数1&wh_dataservice=false&spm=a217e.17632374&sourceId=占位参数1",
-                    "wait":22,
-                    "param":{
-                        "随机参数1":[71955116,62377409,104736810,229005812,116845644,60790435,68491548,110224300]
-                    },
-                    "before":[
-                    {
-                        "url":"taobao://pages.tmall.com/wow/z/tmtjb/town/home?disableNav=YES",
-                        "wait":3
-                    }
-                    ],
-                    "item":[
-                        "2027551265",
-                        "3173651031",
-                        "767303689",
-                        "439649406",
-                        "3081047815",
-                        "1803764140",
-                        "3055672510",
-                        "304639978"
-                    ]
-                }
-            },
-
-            "自动领淘金币2":{
-                "type":"task1",
-                "endpage": "taobao://web?url=https://m.tb.cn/h.4tJDhjt",
-                "main": "taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
-                "endMessage":"自动领淘金币逛店铺结束啦",
-                
-                "task":{
-                    
-                    "scheme":"tbopen://m.taobao.com/tbopen/index.html?h5Url=",
-                    "baseurl":"https://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=随机参数1&wh_dataservice=false&spm=a217e.17632374&sourceId=占位参数1",
-                    "wait":22,
-                    "param":{
-                        "随机参数1":[71955116,62377409,104736810,229005812,116845644,60790435,68491548,110224300]
-                    },
-                    "before":[
-                    {
-                        "url":"taobao://pages.tmall.com/wow/z/tmtjb/town/home?disableNav=YES",
-                        "wait":3
-                    }
-                    ],
-                    "item":[
-                        "2027551265",
-                        "3173651031",
-                        "767303689",
-                        "439649406",
-                        "3081047815",
-                        "1803764140",
-                        "3055672510",
-                        "304639978"
-                    ]
-                }
-            },
+           
+           
              "饿了么":{
                 "type":"task1",
               
