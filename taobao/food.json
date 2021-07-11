@@ -4,6 +4,7 @@
         "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n\n",
         "list":[
                 "❤️淘宝 美食币 更新2021-07-10❤️",
+                "美食币活动入口",
                 "美团红包",
                 "饿了么红包",
                 "淘特-天天领红包"
@@ -22,6 +23,9 @@
             "淘特-天天领红包":{
                  "url":"taobao://m.tb.cn/h.4xH8cBP"
             
+            },
+            "美食币活动入口":{
+                "url":"taobao://huodong.m.taobao.com/act/snipcodeupdate.html?_ariver_appid=1000473"
             },
             "交流群":{
                 "list":{
