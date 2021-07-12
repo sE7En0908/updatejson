@@ -49,7 +49,7 @@
                     "tag":"elemeguoyuan",
                     "scheme":"eleme://web?url=",
                     "baseurl":"https://tb.ele.me/wow/alsc/mod/占位参数1?missioncollectid=45&missionid=占位参数2&taskfrom=a13.b_activity_kb_m24999&bizscene=daily_atm&taskpageviewasac=2A21315954SAZBWRIL5OEH&spm=a13.b_activity_kb_m24999.0.0",
-                    "wait":20,
+                    "wait":22,
                     "param":{
                         "随机参数1":[999,888,777]
                     },
