@@ -5,7 +5,8 @@
         "list":[
                 "❤️饿了么0元水果任务 更新2021-07-12❤️",
                 "美团红包",
-                "饿了么红包"
+                "饿了么红包",
+                "淘礼金情报群"
             
               
                 
@@ -24,6 +25,9 @@
                 "list":{
                     "qq":""
                 }
+            },
+            "淘礼金情报群":{
+                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=596783999&card_type=group&source=qrcode"
             },
             "❤️饿了么0元水果任务 更新2021-07-12❤️":{
                 "type":"task",
