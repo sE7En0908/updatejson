@@ -42,7 +42,7 @@
                 },
                 
                 "返回":{
-                     "action":"return"
+                     "action":"pop"
                 }
             }
             },
