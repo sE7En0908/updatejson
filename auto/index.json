@@ -32,13 +32,16 @@
             ],
             "mapping" : {
                 "删除任务":{
-                    "action":"delTask"
+                    "action":"setfile",
+                    "type":"delTask"
                 },
                 "添加任务组":{
-                     "action":"addGroup"
+                     "action":"setfile",
+                     "type":"addGroup"
                 },
                 "删除任务组":{
-                    "action":"delGroup"
+                    "action":"setfile",
+                    "type":"delGroup"
                 },
                 
                 "返回":{
