@@ -11,7 +11,7 @@
             "淘特-萝卜领钱任务":{
                 "name":"淘特-萝卜零钱任务",
                 "tasks":["萝卜任务"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/blob/master/taote/bigRobot.json",
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/bigRobot.json",
                
                 "action":"setfile",
                 "type":"addTask"
