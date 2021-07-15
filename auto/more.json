@@ -4,7 +4,6 @@
         "list":[
                 "美团红包",
                 "饿了么红包",
-                "选择任务",
                 "返回"
             
               
@@ -20,12 +19,7 @@
             "返回":{
                 "action":"pop"
             },
-            "选择任务":{
-                "name":"选择任务",
-                "action":"more",
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/auto/more.json"
-
-            }
+            
             
         }
 }
