@@ -53,6 +53,7 @@
                 "action":"runTask"
             },
             "更多":{
+                "name":"更多",
                 "action":"more",
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/auto/more.json"
             }
