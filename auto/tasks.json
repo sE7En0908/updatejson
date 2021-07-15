@@ -2,16 +2,42 @@
 
         "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n 下单和助力任务想不执行的可以联系我取消\n",
         "list":[
+                "淘宝-美食币换美食任务",
                 "淘特-萝卜领钱任务",
+                "淘特-养鸡得鸡蛋任务",
+                "淘特-养猫猫粮猫币任务",
                 "返回"
                 
             ],
         "mapping" :{
-           
+           "淘宝-美食币换美食任务":{
+                "name":"淘宝-美食币换美食任务",
+                "tasks":["猫粮食","猫"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/food.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
             "淘特-萝卜领钱任务":{
-                "name":"淘特-萝卜零钱任务",
-                "tasks":["萝卜任务"],
+                "name":"淘特-萝卜领钱任务",
+                "tasks":["食物"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/bigRobot.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘特-养鸡得鸡蛋任务":{
+                "name":"淘特-养鸡得鸡蛋任务",
+                "tasks":["鸡粮食"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/chicken.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+             "淘特-养猫猫粮猫币任务":{
+                "name":"淘特-养猫猫粮猫币任务",
+                "tasks":["猫粮食","猫"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/taote.json",
                
                 "action":"setfile",
                 "type":"addTask"
