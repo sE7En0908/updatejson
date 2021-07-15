@@ -13,7 +13,8 @@
                 "tasks":["萝卜任务"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/blob/master/taote/bigRobot.json",
                
-                "action":"setfile"
+                "action":"setfile",
+                "type":"addTask"
             },
             "返回":{
                 "action":"pop"
