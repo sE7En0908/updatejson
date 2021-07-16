@@ -77,6 +77,7 @@
                 
                 "task":{
                     "tag":"taoteluobo",
+                    "openMax":1,
                     "scheme":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=",
                     "baseurl":"https://h5.m.taobao.com/taolive/video.html?disableNav=YES&needLogin=true&wh_kangarooprefetch=true&bizType=bigRobot&subType=default&deliveryId=占位参数1&implId=占位参数2",
                     "wait":23,
