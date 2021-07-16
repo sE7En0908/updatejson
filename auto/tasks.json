@@ -12,7 +12,7 @@
         "mapping" :{
            "淘宝-美食币换美食任务":{
                 "name":"淘宝-美食币换美食任务",
-                "tasks":["猫粮食","猫"],
+                "tasks":["食物"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/food.json",
                
                 "action":"setfile",
@@ -20,7 +20,7 @@
             },
             "淘特-萝卜领钱任务":{
                 "name":"淘特-萝卜领钱任务",
-                "tasks":["食物"],
+                "tasks":["萝卜任务"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/bigRobot.json",
                
                 "action":"setfile",
