@@ -70,6 +70,8 @@
 
             "萝卜任务":{
                 "type":"task1",
+
+                "openMax":1,
               
                 "endpage": "taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage",
                 "main":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage",
@@ -77,7 +79,7 @@
                 
                 "task":{
                     "tag":"taoteluobo",
-                    "openMax":1,
+                    
                     "scheme":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=",
                     "baseurl":"https://h5.m.taobao.com/taolive/video.html?disableNav=YES&needLogin=true&wh_kangarooprefetch=true&bizType=bigRobot&subType=default&deliveryId=占位参数1&implId=占位参数2",
                     "wait":23,
