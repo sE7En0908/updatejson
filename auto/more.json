@@ -40,6 +40,7 @@
                 }
             },
             "加我微信":{
+                "action":"copyAndUrl",
                 "select":true,
                 "tip":"微信号已复制到剪切板，\n是否打开微信加好友？",
                 "url":"weixin://",
