@@ -6,6 +6,7 @@
                 "淘特-萝卜领钱任务",
                 "淘特-养鸡得鸡蛋任务",
                 "淘特-养猫猫粮猫币任务",
+                "饿了么-自动领豆任务",
                 "饿了么-果园0元领水果",
                 "饿了么-提款机赚钱",
                 
@@ -60,6 +61,14 @@
                 "name":"饿了么-果园0元领水果",
                 "tasks":["饿了么果园"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/elemeguoyuan.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "饿了么-自动领豆任务":{
+                "name":"饿了么-自动领豆任务",
+                "tasks":["饿了么自动领豆"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/eleme/dou.json",
                
                 "action":"setfile",
                 "type":"addTask"
