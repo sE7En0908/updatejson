@@ -49,7 +49,7 @@
                 "action":"pop"
             },
             "饿了么-提款机赚钱":{
-                "name":"淘特-养猫猫粮猫币任务",
+                "name":"饿了么-提款机赚钱",
                 "tasks":["饿了么提款机"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/elemeatm",
                
@@ -57,7 +57,7 @@
                 "type":"addTask"
             },
             "饿了么-果园0元领水果":{
-                "name":"淘特-养猫猫粮猫币任务",
+                "name":"饿了么-果园0元领水果",
                 "tasks":["饿了么果园"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/elemeguoyuan.json",
                
