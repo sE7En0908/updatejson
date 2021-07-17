@@ -4,6 +4,7 @@
         "list":[
                 "美团红包",
                 "饿了么红包",
+                "淘宝1元购转0元购 每天10点开始 薅羊毛了",
                 "返回"
             
               
@@ -19,6 +20,25 @@
             "返回":{
                 "action":"pop"
             },
+            "淘宝1元购转0元购 每天10点开始 薅羊毛了":{
+                "tip":"\n第一次跳转会领一个红包\n之后直接点一元购买就可以了\n付款时候就是0元\n有些账户可能领到的红包比较小，\n不能0元购\n以最终结果为准\n\n ",
+                "list":[
+                "1元->0元购 每个支付宝账户每周2次"
+                ],
+                "mapping" :{
+                     "1元->0元购 每个支付宝账户每周2次":{
+                        "action":"urlarr",
+                        "wait":3,
+                        "endpage":"alipays://platformapi/startapp?appId=20000067&url=https%3A%2F%2Fm.tb.cn%2Fh.4vC7UCW",
+                        "arr":[
+                            "alipays://platformapi/startapp?appId=2021001140676678"
+                            
+                    
+                        ]
+                    
+                    }
+                }
+            }
             
             
         }
