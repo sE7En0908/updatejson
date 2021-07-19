@@ -1,10 +1,13 @@
 {
 
-        "tip":"欢迎各位加我微信，\n有什么问题可以直接和我反馈",
+        "tip":"为大家准备了一下热卖的苹果配件礼金，\n数量有限，先到先得，\n每日两点更新。\n如果想要更多请加群",
         "list":[
                 
                
-                "加我微信",
+                "任务入口",
+                "苹果配件等礼金",
+                "饿了么红包2",
+                "陶特-红包天天领",
                 "返回"
             
               
@@ -15,38 +18,28 @@
             "返回":{
                 "action":"pop"
             },
-            "淘宝1元购转0元购 每天10点开始 薅羊毛了":{
-                "tip":"\n第一次跳转会领一个红包\n之后直接点一元购买就可以了\n付款时候就是0元\n有些账户可能领到的红包比较小，\n不能0元购\n以最终结果为准\n\n ",
-                "list":[
-                "1元->0元购 每个支付宝账户每周2次",
-                "返回"
-                ],
-                "mapping" :{
-                     "1元->0元购 每个支付宝账户每周2次":{
-                        "action":"urlarr",
-                        "wait":3,
-                        "endpage":"alipays://platformapi/startapp?appId=20000067&url=https%3A%2F%2Fm.tb.cn%2Fh.4vC7UCW",
-                        "arr":[
-                            "alipays://platformapi/startapp?appId=2021001140676678"
-                            
-                    
-                        ]
-                    
-                    },
-                    "返回":{
-                        "action":"pop"
-                    }
-                    
-                }
+            
+            "饿了么红包2":{
+                "url":"eleme://web?url=https://h5.ele.me/ant/qrcode%3Fopen_type%3Dminiapp%26url_id%3D35%26inviterId%3D2200cb%26_ltracker_f%3Dtjyj_app_fuceng"
             },
-            "加我微信":{
-                "action":"copyAndUrl",
-                "select":true,
-                "tip":"微信号已复制到剪切板，\n是否打开微信加好友？",
-                "url":"weixin://",
-                "txt":"ohkefu001"
+            "淘特-天天领红包":{
+                "url":"taobao://m.tb.cn/h.4xH8cBP"
+            },
+            "苹果配件等礼金":{
+                "name":"苹果配件等礼金",
+                "action":"more",
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/auto/lijin.json"
+            },
+            "任务入口":{
+                "tip":"正在添加中，慢慢会加全的",
+                "list":[
+                    "美食币活动入口"
+                ],
+                "mapping":{
+                    "美食币活动入口":{
+                        "url":"taobao://huodong.m.taobao.com/act/snipcodeupdate.html?_ariver_appid=1000473"
+                    }
+                }
             }
-            
-            
         }
 }
