@@ -9,7 +9,8 @@
                 "美团红包",
                 "饿了么红包",
                 "任务设置",
-                "更多"
+              
+                "群组"
             
               
                 
@@ -58,8 +59,44 @@
             "运行任务":{
                 "action":"runTask"
             },
-            "更多":{
-                "name":"更多",
+            "群组":{
+                "tip":"欢迎各位加我微信，\n有什么问题可以直接和我反馈",
+                "list":[
+                        
+                    
+                        "加我微信",
+                        "交流·反馈 qq群",
+                        "淘礼金情报群",
+                        "返回"
+                    
+                    
+                        
+                    ],
+                "mapping" :{
+                
+                    "返回":{
+                        "action":"pop"
+                    },
+                    "加我微信":{
+                        "action":"copyAndUrl",
+                        "select":true,
+                        "tip":"微信号已复制到剪切板，\n是否打开微信加好友？",
+                        "url":"weixin://",
+                        "txt":"ohkefu001"
+                    },
+                    "交流·反馈 qq群":{
+                        "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=208944131&card_type=group&source=qrcode"
+                    },
+                    "淘礼金情报群":{
+                        "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=596783999&card_type=group&source=qrcode"
+                    }
+                    
+            
+                }
+                
+            },
+            "更多优惠信息":{
+                "name":"更多优惠信息",
                 "action":"more",
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/auto/more.json"
             }
