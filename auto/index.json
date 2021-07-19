@@ -93,7 +93,7 @@
                 
             },
             "红包":{
-                "name":"更多优惠信息",
+                "name":"红包",
                 "action":"more",
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/auto/more.json"
             }
