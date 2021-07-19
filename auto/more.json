@@ -33,11 +33,15 @@
             "任务入口":{
                 "tip":"正在添加中，慢慢会加全的",
                 "list":[
-                    "美食币活动入口"
+                    "美食币活动入口",
+                    "返回"
                 ],
                 "mapping":{
                     "美食币活动入口":{
                         "url":"taobao://huodong.m.taobao.com/act/snipcodeupdate.html?_ariver_appid=1000473"
+                    },
+                    "返回":{
+                        "action":"pop"
                     }
                 }
             }
