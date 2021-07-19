@@ -6,8 +6,14 @@
         "天猫超市 德国拜耳蟑螂药":"20元优惠券 1.5元淘礼金 最低 18.4元 到手",
     },
     "mapping":{
-        "闪魔钢化膜 X 11 12全覆盖":"taobao://m.tb.cn/h.4CPFwnP",
-        "罗马仕 usb 数据线":"taobao://m.tb.cn/h.4B5AhQ5",
-        "天猫超市 德国拜耳蟑螂药":"taobao://m.tb.cn/h.4B5AnJj"
+        "闪魔钢化膜 X 11 12全覆盖":{
+            "url":"taobao://m.tb.cn/h.4CPFwnP"
+        },
+        "罗马仕 usb 数据线":{
+            "url":"taobao://m.tb.cn/h.4B5AhQ5"
+        },
+        "天猫超市 德国拜耳蟑螂药":{
+            "url":"taobao://m.tb.cn/h.4B5AnJj"
+        }
     }
 }
