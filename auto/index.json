@@ -6,7 +6,8 @@
                 "任务商店",
                 "运行任务",
                 "任务设置",
-                "红包",
+                "饿了么红包",
+                "其他红包",
                 "群组"
             
               
@@ -92,8 +93,8 @@
                 }
                 
             },
-            "红包":{
-                "name":"红包",
+            "其他红包":{
+                "name":"其他红包",
                 "action":"more",
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/auto/more.json"
             }
