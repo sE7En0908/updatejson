@@ -3,6 +3,7 @@
         "tip":"点击任务即可添加\n需要多组任务或删除任务\n选择首页的任务设置\n----------------------------\n任务列表会不定期增加新任务",
         "list":[
                 "淘宝-美食币换美食任务",
+                "淘宝-小黑盒任务",
                 "淘特-萝卜领钱任务",
                 "淘特-养鸡得鸡蛋任务",
                 "淘特-养猫猫粮猫币任务",
@@ -18,6 +19,14 @@
                 "name":"淘宝-美食币换美食任务",
                 "tasks":["食物"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/food.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘宝-小黑盒任务":{
+                "name":"淘宝-小黑盒任务",
+                "tasks":["黑盒"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/blackbox.json",
                
                 "action":"setfile",
                 "type":"addTask"
