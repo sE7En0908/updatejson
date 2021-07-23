@@ -54,9 +54,11 @@
                         "随机参数1":[999,888,777]
                     },
                     "before":[
-                    {"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1698001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1130001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D234001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1728001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1390001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1150001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1056001","wait":5}
+                    
+                    {"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1130001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D234001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1728001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1390001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1150001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1056001","wait":5}
+
                     ],
-                    "item":["230003","1306001","476001","478001","342001","350001","1036001","344001","480001","912001","236002","250003","228003"]
+                    "item":["230003","1034001","1306001","476001","478001","342001","350001","1036001","344001","480001","912001","236002","250003","228003"]
                 }
             }
     }
