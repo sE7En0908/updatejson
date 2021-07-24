@@ -39,7 +39,7 @@
                 }
             },
             "淘礼金情报群":{
-                "url":"https://card/show_pslcard?src_type=internal&version=1&uin=596783999&card_type=group&source=qrcode"
+                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=596783999&card_type=group&source=qrcode"
             },
             
 
