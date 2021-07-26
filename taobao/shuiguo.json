@@ -66,7 +66,7 @@
               
                 "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
                 "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
-                "endMessage":"奥运任务结束",
+                "endMessage":"种树任务结束",
                 
                 "task":{
                     "tag":"taobaoaoyun",
@@ -85,6 +85,11 @@
                         }
                     ],
                     "item":[
+                        "12322 expo_237_326009_12322_0",
+                        "12322 expo_237_326009_12322_1",
+                        "12322 expo_237_326009_12322_2",
+
+
                        
                         "11640 other_1_307006_11640_0",
 
