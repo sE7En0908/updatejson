@@ -71,7 +71,7 @@
                 "task":{
                     "tag":"taobaoaoyun",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
-                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&sourceType=other&fromToken=xBVj6P9UvoVobWAQTnvT7EUqUZUJ&sceneId=2033&hd_from_id=100095&deliveryId=占位参数1&implId=占位参数2",
+                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&adScene=olympic-task-list&sourceType=other&fromToken=xBVj6P9UvoVobWAQTnvT7EUqUZUJ&sceneId=2033&hd_from_id=100095&deliveryId=占位参数1&implId=占位参数2",
                     "wait":23,
                     "wait2":"",
                     "param":{
