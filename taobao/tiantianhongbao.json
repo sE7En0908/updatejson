@@ -83,10 +83,7 @@
                         "url":"taobao://m.tb.cn/h.4BRnwAi",
                         "wait":2
                         },
-                        {
-                            "url":"taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Ftmallfarm%2Fact%2Fb-browser%3Fwh_biz%3Dtm%26spm%3Dfarm.newfarm.task.browser%26disableNav%3DYES",
-                            "wait":23
-                        }
+                       
                     ],
                     "item":[
 
