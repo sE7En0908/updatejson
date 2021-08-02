@@ -8,6 +8,7 @@
                
                 "美团红包",
                 "饿了么红包",
+                 "8月2-15支付宝天天领红包",
                 "淘特-天天领红包",
                 "淘礼金情报群",
                 "交流·反馈 qq群"
@@ -24,6 +25,9 @@
             },
             "饿了么红包":{
                 "url":"eleme://web?url=https://m.tb.cn/h.4CxfWfY"
+            },
+             "8月2-15支付宝天天领红包":{
+                "url":"alipays://platformapi/startapp?appId=68687715&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fc%2F180020180000047875%2Fpages%2Findex%2Findex.html%3FuserId%3D2088802913327612&userId=2088802913327612&titlePenetrate=YES&chInfo=ch_share__chsub_CopyLink"
             },
            
             "淘特-天天领红包":{
