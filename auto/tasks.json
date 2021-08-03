@@ -5,6 +5,7 @@
                 "淘宝-农场任务",
                 "淘宝-美食币换美食任务",
                 "淘宝-小黑盒任务",
+                "天猫-天天领红包",
                 "淘特-萝卜领钱任务",
                 "淘特-养鸡得鸡蛋任务",
                 "淘特-养猫猫粮猫币任务",
@@ -16,6 +17,14 @@
                 
             ],
         "mapping" :{
+            "天猫-天天领红包":{
+                "name":"天猫-天天领红包",
+                "tasks":["天天红包"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/tiantianhongbao.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
            "淘宝-美食币换美食任务":{
                 "name":"淘宝-美食币换美食任务",
                 "tasks":["食物"],
