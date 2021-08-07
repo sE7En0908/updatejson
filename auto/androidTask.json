@@ -13,6 +13,12 @@
             {
                 "title":"淘特-天天领红包",
                 "url":"taobao://m.tb.cn/h.4xH8cBP"
+            },
+             {
+                "title":"QQ群",
+                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=208944131&card_type=group&source=qrcode",
+                "name":"QQ"
+                
             }
     ],
     "task":[
