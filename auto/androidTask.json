@@ -6,48 +6,57 @@
              {
                 "name":"淘宝-农场任务",
                 "tasks":["种树"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/shuiguo.json"
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/shuiguo.json",
+                "scheme":"taobao"
                
             },
             {
                 "name":"淘宝-美食币换美食任务",
                 "tasks":["食物"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/food.json"
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/food.json",
+                "scheme":"taobao"
             },
             {
                 "name":"淘宝-小黑盒任务",
                 "tasks":["黑盒"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/blackbox.json"
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/blackbox.json",
+                "scheme":"taobao"
             },
              {
                 "name":"饿了么-提款机赚钱",
                 "tasks":["饿了么提款机"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/elemeatm"
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/elemeatm",
+                "scheme":"eleme"
             },
             {
                 "name":"饿了么-果园0元领水果",
                 "tasks":["饿了么果园"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/elemeguoyuan.json"
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/elemeguoyuan.json",
+                "scheme":"eleme"
             },
             {
                 "name":"饿了么-自动领豆任务",
                 "tasks":["饿了么自动领豆"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/eleme/dou.json"
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/eleme/dou.json",
+                "scheme":"eleme"
             },
             {
                 "name":"淘特-萝卜领钱任务",
                 "tasks":["萝卜任务"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/bigRobot.json"
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/bigRobot.json",
+                "scheme":"taobaolite"
             },
             {
                 "name":"淘特-养鸡得鸡蛋任务",
                 "tasks":["鸡粮食"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/chicken.json"
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/chicken.json",
+                "scheme":"taobaolite"
             },
              {
                 "name":"淘特-养猫猫粮猫币任务",
                 "tasks":["猫粮食","猫"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/taote.json"
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/taote.json",
+                "scheme":"taobaolite"
             }
            
             
