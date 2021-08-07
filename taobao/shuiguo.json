@@ -68,8 +68,8 @@
             "种树":{
                 "type":"task1",
               
-                "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
-                "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
+                "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
+                "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
                 "endMessage":"种树任务结束",
                 
                 "task":{
