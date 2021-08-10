@@ -80,19 +80,27 @@
                         "商品定位":[168657383,71955116,62377409,104736810,229005812,116845644,60790435,68491548,110224300]
                     },
                     "before":[
-                      
+                         {
+                        "url":"taobao://m.tb.cn/h.4BRnwAi",
+                        "wait":2
+                        },
+                        {"url":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com","wait":2},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=157096010&wh_dataservice=false&sourceId=2891951486","wait":17},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=255135168&wh_dataservice=false&sourceId=3372144204","wait":17},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=591910968&wh_dataservice=false&sourceId=4290240542","wait":17},{"url":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com","wait":2},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=127048312&wh_dataservice=false&sourceId=2593899404","wait":17},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=59569208&wh_dataservice=false&sourceId=321635346","wait":17},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=104490918&wh_dataservice=false&sourceId=771607960","wait":17},{"url":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com","wait":2},
+                        {"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=169176678&wh_dataservice=false&sourceId=3837764657","wait":17},{"url":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com","wait":2}
+                    
                       ],
                     "item":[
 
-                        "15971 other_0_369015_15971_0",
-
-                        "15974 other_0_308002_15974_0",
+                        
 
                         "15975 other_0_308003_15975_0",
                         "16261 expo_0_303001_16261_0",
                         "17435 other_1_472001_17435_0",
 
-                        "14628 other_0_1_14628_0"
+                        "14628 other_0_1_14628_0",
+                        
+                        "15971 other_0_369015_15971_0",
+
+                        "15974 other_0_308002_15974_0"
 
 
                      
