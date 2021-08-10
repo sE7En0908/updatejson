@@ -2,6 +2,7 @@
 
         "tip":"点击任务即可添加\n需要多组任务或删除任务\n选择首页的任务设置\n----------------------------\n",
         "list":[
+                "淘宝-淘金币务",
                 "淘宝-农场任务",
                 "淘宝-美食币换美食任务",
                 "淘宝-小黑盒任务",
@@ -105,6 +106,14 @@
                 "name":"淘宝-签到",
                 "tasks":["淘宝签到"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/qindao.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘宝-淘金币务":{
+                "name":"淘宝-淘金币务",
+                "tasks":["淘金币"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/jinbi.json",
                
                 "action":"setfile",
                 "type":"addTask"
