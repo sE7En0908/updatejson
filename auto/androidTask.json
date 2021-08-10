@@ -49,6 +49,14 @@
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/blackbox.json",
                 "scheme":"taobao://"
             },
+            {
+                "name":"淘宝-签到",
+                "tasks":["淘宝签到"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/qindao.json",
+               
+                "scheme":"taobao://"
+            },
+            
              {
                 "name":"饿了么-提款机赚钱",
                 "tasks":["饿了么提款机"],
