@@ -30,6 +30,12 @@
             }
     ],
     "task":[
+            {
+                "name":"淘宝-淘金币务",
+                "tasks":["淘金币"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/jinbi.json",
+                "scheme":"taobao://"
+            },
              {
                 "name":"淘宝-农场任务",
                 "tasks":["种树"],
