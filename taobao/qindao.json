@@ -80,6 +80,7 @@
 
             "淘宝签到":{
                 "type":"task1",
+                "open":"taobao://",
               
                 "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
                 "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
