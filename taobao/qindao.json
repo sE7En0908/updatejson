@@ -90,7 +90,7 @@
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
                     "baseurl":"https://pages.tmall.com/wow/z/mit/hbqd/welfare4",
                     "wait":23,
-                    "wait2":"",
+                    "wait2":15,
                     "param":{
                         "随机参数1":[529907386]
                     },
