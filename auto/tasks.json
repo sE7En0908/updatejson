@@ -5,6 +5,7 @@
                 "淘宝-农场任务",
                 "淘宝-美食币换美食任务",
                 "淘宝-小黑盒任务",
+                "淘宝-签到",
                 "天猫-天天领红包",
                 "淘特-萝卜领钱任务",
                 "淘特-养鸡得鸡蛋任务",
@@ -96,6 +97,14 @@
                 "name":"淘宝-农场任务",
                 "tasks":["种树"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/shuiguo.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘宝-签到":{
+                "name":"淘宝-签到",
+                "tasks":["淘宝签到"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/qindao.json",
                
                 "action":"setfile",
                 "type":"addTask"
