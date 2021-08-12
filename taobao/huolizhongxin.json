@@ -74,7 +74,7 @@
                     "tag":"huolizhongxin",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
                     "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&adScene=olympic-task-list&sourceType=other&fromToken=xBVj6P9UvoVobWAQTnvT7EUqUZUJ&sceneId=1148&hd_from_id=100095&deliveryId=占位参数1&implId=占位参数2",
-                    "wait":5,
+                    "wait":20,
                     "wait2":"",
                     "param":{
                         "商品定位":[168657383,71955116,62377409,104736810,229005812,116845644,60790435,68491548,110224300]
@@ -97,7 +97,9 @@
 
 
                         "9515 other_0_76027_9515_0",
-                        "12612 other_0_143004_12612_0"
+                        "12612 other_0_143004_12612_0",
+
+                        "9479 linked_0_0_9479_0"
 
                        
                     
