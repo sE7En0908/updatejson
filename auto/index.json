@@ -3,7 +3,7 @@
 
         "tip":"第一步：点击任务商店添加任务\n第二步：重新运行选择运行任务\n----------------------\n 如果需要多组任务或者删除任务\n选择任务设置\n----------------------\n淘金币是新版任务，任务少，奖励高，如果你的任务多说明官方还没升级到你",
         "list":[
-                "任务商店-新加入淘金币、签到、农场",
+                "任务商店-新加入活力中心、发财鸭、聚划算",
                 "运行任务",
                 "任务设置",
                 "饿了么红包",
@@ -38,8 +38,8 @@
             "8月2-15支付宝天天领红包":{
                 "url":"alipays://platformapi/startapp?appId=68687715&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fc%2F180020180000047875%2Fpages%2Findex%2Findex.html%3FuserId%3D2088802913327612&userId=2088802913327612&titlePenetrate=YES&chInfo=ch_share__chsub_CopyLink"
             },
-            "任务商店-新加入淘金币、签到、农场":{
-                "name":"任务商店-新加入淘金币、签到、农场",
+            "任务商店-新加入活力中心、发财鸭、聚划算":{
+                "name":"任务商店-新加入活力中心、发财鸭、聚划算",
                 "action":"more",
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/auto/tasks.json"
             },
