@@ -5,6 +5,7 @@
                 "淘宝-活力中心任务",
                 "淘宝-聚划算任务",
                 "淘宝-淘金币务",
+                "淘宝-淘金币（旧版，十多个任务那种）",
                 "淘宝-农场任务",
                 "淘宝-美食币换美食任务",
                 "淘宝-小黑盒任务",
@@ -146,6 +147,14 @@
                 "name":"淘宝-淘金币务",
                 "tasks":["淘金币"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/jinbi.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
+            "淘宝-淘金币（旧版，十多个任务那种）":{
+                "name":"淘宝-淘金币（旧版，十多个任务那种）",
+                "tasks":["淘金币旧"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/jinbiOld.json",
                
                 "action":"setfile",
                 "type":"addTask"
