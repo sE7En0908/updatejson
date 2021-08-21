@@ -50,6 +50,20 @@
                
             },
             {
+                "name":"淘宝-聚划算",
+                "tasks":["聚划算"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/juhuasuan.json",
+                "scheme":"taobao://"
+               
+            },
+            {
+                "name":"淘宝-活力中心",
+                "tasks":["活力中心"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/huolizhongxin.json",
+                "scheme":"taobao://"
+               
+            },
+            {
                 "name":"淘宝-美食币换美食任务",
                 "tasks":["食物"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/food.json",
