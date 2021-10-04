@@ -84,11 +84,8 @@
                          {
                         "url":"taobao://m.tb.cn/h.fW7L5Qi",
                         "wait":2
-                        },
-                         {
-                        "url":"taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fshop.m.taobao.com%2Fshop%2Fshop_index.htm%3FshopId%3D168657383%26shop_id%3D168657383%26adScene%3Ddaily-211629%26sourceType%3Dother%26fromToken%3DxBVj6P9UvoVobWAQTnvT7EUqUZUJ%26sceneId%3D107%26hd_from_id%3D100027%26deliveryId%3D13770%26implId%3Dother_0_239009_13770_0",
-                        "wait":25
                         }
+                        
                         
                     ],
                     "item":[
