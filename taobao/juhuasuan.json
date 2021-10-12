@@ -73,7 +73,7 @@
                 "task":{
                     "tag":"juhuasuan",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
-                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&adScene=daily-211629&sourceType=other&wh_hckj=pha&wh_biz=tm&zhangyu_from_env=jhsmain&fromToken=xBVj6P9UvoVobWAQTnvT7EUqUZUJ&sceneId=107&hd_from_id=100027&deliveryId=占位参数1&implId=占位参数2",
+                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&disableNav=YES&wh_hckj=pha&wh_biz=tm&zhangyu_from_env=jhsmain&hd_from_id=100027&fromToken=OrM8n2PcbbKbvzYNcPaCjAfVUJUrUj&implId=占位参数2&deliveryId=占位参数1&sceneId=107",
                     "wait":20,
                     "wait2":"",
                     "param":{
