@@ -3,7 +3,7 @@
 
         "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n有些任务需要饿了么账号绑定淘宝\n不做可以不用管\n\n",
         "list":[
-                "❤️饿了么自动领豆 更新2021-08-11❤️",
+                "❤️饿了么自动领豆 更新2021-10-12❤️",
                 "美团红包",
                 "饿了么红包",
                 "交流·反馈 qq群",
@@ -31,7 +31,7 @@
                 "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=596783999&card_type=group&source=qrcode"
             },
             
-            "❤️饿了么自动领豆 更新2021-08-11❤️":{
+            "❤️饿了么自动领豆 更新2021-10-12❤️":{
                  "type":"task",
                 "key":["饿了么自动领豆"]
             }
@@ -57,10 +57,10 @@
                         "随机参数1":[999,888,777]
                     },
                     "before":[
-                  {"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1390001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1138001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1966001","wait":5},{"url":"eleme://home","wait":1},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1728001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D234001","wait":5},{"url":"eleme://home","wait":1},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1150001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1056001","wait":5},{"url":"eleme://home","wait":1},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1130001","wait":5}  ,{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1698001","wait":5}
+                  {"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1390001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1138001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1966001","wait":5},{"url":"eleme://home","wait":1},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1728001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D234001","wait":5},{"url":"eleme://home","wait":1},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1150001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1056001","wait":5},{"url":"eleme://home","wait":1},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1130001","wait":5}  ,{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1698001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D2768001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D2442001","wait":5}
                   
                   ],
-                    "item":["230003","350001","344001","228003","1036001","1306001","476001","250003","342001","478001","236002","912001","250003","230003","2210003","1036001","2578002","2442001"]
+                    "item":["230003","350001","344001","228003","1036001","1306001","476001","250003","342001","478001","236002","912001","250003","230003","2210003","1036001","2578002","2484001","2774001"]
                 }
             }
     }
