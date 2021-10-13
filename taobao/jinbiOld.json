@@ -4,7 +4,7 @@
         "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n------------------------------\n此淘金币为多任务的人使用\n任务只有三四个的\n请用另一个淘金币捷径",
         "list":[
                 
-                "❤️淘宝-淘金币 更新2021-08-19❤️",
+                "❤️淘宝-淘金币 更新2021-10-13❤️",
                
                 "美团红包",
                 "饿了么红包",
@@ -48,7 +48,7 @@
            
 
             
-            "❤️淘宝-淘金币 更新2021-08-19❤️":{
+            "❤️淘宝-淘金币 更新2021-10-13❤️":{
                 "type":"task",
                 "key":["淘金币旧"]
                 
@@ -73,7 +73,7 @@
                 "task":{
                     "tag":"jinbiold",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
-                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&adScene=daily-251865&sourceType=other&fromToken=Jnb1GposJnbjVGKefODwSnxoikUPUR&sceneId=1946&hd_from_id=100089&deliveryId=占位参数1&implId=占位参数2",
+                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&fromToken=Dq8KJwLdpFllDwqARJf9ZgSOMeU9UdU2U8&sceneId=1946&hd_from_id=100089&deliveryId=占位参数1&implId=占位参数2",
                     "wait":18,
                     "wait2":"",
                     "param":{
@@ -93,21 +93,21 @@
 
                         "14628 other_0_1_14628_1",
 
-                        "14659 other_0_301002_14659_1",
+                        "17435 other_0_472001_17435_0",
                         
                         "17712 other_0_454012_17712_0",
 
                         
                         
-                        "17435 other_0_472001_17435_0",
+                        "14629 other_0_527001_14629_0",
 
-                        "14629 expo_0_303001_14629_0",
+                        "14578 other_0_289001_14578_0",
 
-                        "16618 cloudsail_0_140965004860001_16618_0",
+                        "17542 cloudsail_73_164803502110001_17542_0",
 
-                        "14630 other_0_301001_14630_0",
+                        "14630 other_1_301001_14630_0",
 
-                        "16618 other_0_408018_14574_0",
+                        "14632 other_1_308001_14632_0",
 
                         "14647 other_0_305001_14647_0",
 
@@ -117,9 +117,15 @@
 
                         "15534 other_0_372001_15534_0",    
 
-                        "14654 other_0_306003_14654_0",   
+                        "18586 other_0_306003_18586_0",   
                         "16111 other_0_375036_16111_0",   
-                        "14575 other_0_402034_14575_0"   
+                        "14565 tpp_0_2978398582_14565_0",
+
+                        "14556 tpp_0_330748661469_14556_0",   
+
+                        "16457 other_0_481001_16457_0"
+
+                
 
                      
                        
