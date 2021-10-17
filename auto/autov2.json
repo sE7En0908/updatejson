@@ -67,6 +67,10 @@
                     "action":"setfile",
                     "type":"delGroup"
                 },
+                 "选择自动化任务组":{
+                     "action":"setfile",
+                    "type":"autoGroup"
+                 },
                 
                 "返回":{
                      "action":"pop"
