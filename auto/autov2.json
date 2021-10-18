@@ -42,6 +42,7 @@
             "任务设置":{
                 "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n 下单和助力任务想不执行的可以联系我取消\n",
                "list":[
+                "添加新任务",
                 "删除任务",
                 "添加任务组",
                 "删除任务组",
@@ -52,8 +53,8 @@
                 "返回"
             ],
             "mapping" : {
-                "任务商店-新加入 旧版淘金币":{
-                "name":"任务商店-新加入 旧版淘金币",
+                "添加新任务":{
+                "name":"添加新任务",
                 "action":"more",
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/auto/tasks.json"
                 },
