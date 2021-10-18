@@ -11,12 +11,28 @@
                 "淘特-天天领红包 09-07",
 
                 "淘礼金情报群",
-                "交流·反馈 qq群"
+                "交流·反馈 qq群",
+                "任务设置"
             
               
                 
             ],
         "mapping" :{
+            "任务设置":{
+                "list":[
+                    "多账号",
+                    "暗"
+                ],
+                "mapping":{
+                    "多账号":{
+                        "list":[
+                            "1",
+                            "2"
+                        ]
+                    },
+                    "暗":{}
+                }
+            },
             "交流·反馈 qq群":{
                         "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=208944131&card_type=group&source=qrcode"
                     },
