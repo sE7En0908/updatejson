@@ -1,9 +1,8 @@
 {
     "activity":{
 
-        "tip":"第一步：点击任务商店添加任务\n第二步：重新运行选择运行任务\n----------------------\n 如果需要多组任务或者删除任务\n选择任务设置\n----------------------\n淘金币现在有两个版本，任务多的下载旧版",
+        "tip":"第一步：点击任务设置添加任务\n第二步：重新运行选择运行任务\n----------------------\n 如果需要多组任务或者删除任务\n选择任务设置\n----------------------\n淘金币现在有两个版本，任务多的下载旧版",
         "list":[
-                "任务商店-新加入 旧版淘金币",
                 "运行任务",
                 "任务设置",
                 "饿了么红包",
@@ -38,11 +37,7 @@
             "8月2-15支付宝天天领红包":{
                 "url":"alipays://platformapi/startapp?appId=68687715&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fc%2F180020180000047875%2Fpages%2Findex%2Findex.html%3FuserId%3D2088802913327612&userId=2088802913327612&titlePenetrate=YES&chInfo=ch_share__chsub_CopyLink"
             },
-            "任务商店-新加入 旧版淘金币":{
-                "name":"任务商店-新加入 旧版淘金币",
-                "action":"more",
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/auto/tasks.json"
-            },
+            
             
             "任务设置":{
                 "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n 下单和助力任务想不执行的可以联系我取消\n",
@@ -57,6 +52,11 @@
                 "返回"
             ],
             "mapping" : {
+                "任务商店-新加入 旧版淘金币":{
+                "name":"任务商店-新加入 旧版淘金币",
+                "action":"more",
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/auto/tasks.json"
+                },
                 "删除任务":{
                     "action":"setfile",
                     "type":"delTask"
