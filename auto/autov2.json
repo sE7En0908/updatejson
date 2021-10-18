@@ -95,7 +95,6 @@
                         
                         "双十一助力 qq群",
                         "双十一助力 微信群",
-                        "交流·反馈 微信群",
                         "交流·反馈 qq群",
                         "交流·反馈 微信群",
                         
@@ -118,6 +117,17 @@
                     },
                     "交流·反馈 qq群":{
                         "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=208944131&card_type=group&source=qrcode"
+                    },
+                    "双十一助力 qq群":{
+                        "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=292599024&card_type=group&source=qrcode"
+                    },
+                    "双十一助力 微信群":{
+                        "action":"qrcode",
+                        "qrcode":"abc"
+                    },
+                    "交流·反馈 微信群":{
+                        "action":"qrcode",
+                        "qrcode":"abc"
                     },
                     "淘礼金情报群":{
                         "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=596783999&card_type=group&source=qrcode"
