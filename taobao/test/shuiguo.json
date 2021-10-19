@@ -96,8 +96,8 @@
             "种树":{
                 "type":"task1",
               
-                "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
-                "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
+                "endpage": "https://m.taobao.com",
+                "main":"https://m.taobao.com",
                 "endMessage":"种树任务结束",
                 
                 "task":{
@@ -112,11 +112,11 @@
                     "before":[
                       
                          {
-                        "url":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.tb.cn/h.fW7L5Qi",
+                        "url":"https://m.tb.cn/h.fW7L5Qi",
                         "wait":2
                         },
                         {
-                            "url":"taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Ftmallfarm%2Fact%2Fb-browser%3Fwh_biz%3Dtm%26spm%3Dfarm.newfarm.task.browser%26disableNav%3DYES",
+                            "url":"https://pages.tmall.com/wow/tmallfarm/act/b-browser?wh_biz=tm&spm=farm.newfarm.task.browser&disableNav=YES",
                             "wait":23
                         }
                     ],
