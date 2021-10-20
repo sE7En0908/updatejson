@@ -2,6 +2,8 @@
 
         "tip":"点击任务即可添加\n需要多组任务或删除任务\n选择首页的任务设置\n----------------------------\n",
         "list":[
+
+                "淘宝-双十一喵糖",
                 "淘宝-活力中心任务",
                 "淘宝-聚划算任务",
                 "淘宝-淘金币务",
@@ -28,6 +30,14 @@
                 
             ],
         "mapping" :{
+            "淘宝-双十一喵糖":{
+                "name":"淘宝-双十一喵糖",
+                "tasks":["双十一养猫"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/cat.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
             "淘特-发财鸭":{
                 "name":"淘特-发财鸭",
                 "tasks":["发财鸭"],
