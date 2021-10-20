@@ -97,6 +97,7 @@
                 "type":"task1",
               
                 "endpage": "https://m.taobao.com",
+                "startpage":"https://m.tb.cn/h.fW7L5Qi",
                 "main":"https://m.taobao.com",
                 "endMessage":"种树任务结束",
                 "more":{
@@ -117,10 +118,6 @@
                     },
                     "before":[
                       
-                         {
-                        "url":"https://m.tb.cn/h.fW7L5Qi",
-                        "wait":2
-                        },
                         {
                             "url":"https://pages.tmall.com/wow/tmallfarm/act/b-browser?wh_biz=tm&spm=farm.newfarm.task.browser&disableNav=YES",
                             "wait":23
