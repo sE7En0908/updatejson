@@ -68,7 +68,7 @@
             "双十一养猫":{
                 "type":"task1",
               
-                "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
+                "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.tb.cn%2Fh.f4o2cyj",
                 "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
                 "endMessage":"双十一养猫任务结束",
                 
@@ -130,7 +130,13 @@
 
                         "19971 other_28_536007_19971_0",
 
-                        "19717 cloudsail_8_167784004930001_19717_0"
+                        "19717 cloudsail_8_167784004930001_19717_0",
+
+                        "19961 other_7_586007_19961_0",
+
+                        "20199 live_2_331650217265_20199_0",
+
+                        "19971 other_29_536007_19971_1"
                        
                        
 
