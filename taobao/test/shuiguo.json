@@ -99,6 +99,12 @@
                 "endpage": "https://m.taobao.com",
                 "main":"https://m.taobao.com",
                 "endMessage":"种树任务结束",
+                "more":{
+                    "moreScheme":"tmall://page.tm/appLink?&action=ali.open.nav&h5Url=",
+                    "moreMain":"https://www.tmall.com/",
+                    "moreEndPage":"https://www.tmall.com/",
+                    "scheme":"tmall://"
+                },
                 
                 "task":{
                     "tag":"taobaonongchang",
@@ -106,7 +112,6 @@
                     "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&disableNav=YES&wh_hckj=pha&wh_biz=tm&zhangyu_from_env=jhsmain&hd_from_id=100027&fromToken=OrM8n2PcbbKbvzYNcPaCjAfVUJUrUj&implId=占位参数2&deliveryId=占位参数1&sceneId=107",
                     "wait":23,
                     "wait2":"",
-                    "moreScheme": "tmall://page.tm/appLink?&action=ali.open.nav&h5Url=",
                     "param":{
                         "商品定位":[168657383,71955116,62377409,104736810,229005812,116845644,60790435,68491548,110224300]
                     },
