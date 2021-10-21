@@ -12,7 +12,7 @@
             },
             {
                 "title":"QQ群",
-                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=208944131&card_type=group&source=qrcode",
+                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=617186271&card_type=group&source=qrcode",
                 "name":"QQ"
                 
             },
@@ -22,7 +22,7 @@
             },
             {
                 "title":"饿了么红包",
-                "url":"eleme://web?url=https://m.tb.cn/h.fffGwIO"
+                "url":"eleme://web?url=https://m.tb.cn/h.f4reRVa"
             },
             {
                 "title":"淘特-天天领红包",
