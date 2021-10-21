@@ -4,7 +4,7 @@
         "tip":"请在网络好的地方执行\n--------------------\n有些任务可能失败 需要手动\n---------------------\n",
         "list":[
                 
-                "❤️运行 淘宝-双十一喵糖 更新2021-10-20❤️",
+                "❤️运行 淘宝-双十一看商品自动化 能量红包18元❤️",
                
                 "美团红包",
                 "饿了么红包",
@@ -50,9 +50,9 @@
            
 
             
-            "❤️运行 淘宝-双十一喵糖 更新2021-10-20❤️":{
+            "❤️运行 淘宝-双十一看商品自动化 能量红包18元❤️":{
                 "type":"task",
-                "key":["双十一养猫"]
+                "key":["双十一红包"]
                 
             }
             
@@ -65,15 +65,15 @@
            
              
 
-            "双十一养猫":{
+            "双十一红包":{
                 "type":"task1",
               
                 "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.tb.cn%2Fh.f4o2cyj",
                 "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
-                "endMessage":"双十一养猫任务结束",
+                "endMessage":"双十一红包任务结束",
                 
                 "task":{
-                    "tag":"yangmao1111",
+                    "tag":"yangmaohongbao1111",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
                     "baseurl":"占位参数1",
                     "wait":23,
