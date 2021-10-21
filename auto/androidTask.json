@@ -31,6 +31,12 @@
     ],
     "task":[
             {
+                "name":"淘宝-双十一喵糖",
+                "tasks":["双十一养猫"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/cat.json",
+                "scheme":"taobao://"
+            },
+            {
                 "name":"淘宝-淘金币务",
                 "tasks":["淘金币"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/jinbi.json",
@@ -75,26 +81,7 @@
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/blackbox.json",
                 "scheme":"taobao://"
             },
-            {
-                "name":"淘宝-签到",
-                "tasks":["淘宝签到"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/qindao.json",
-               
-                "scheme":"taobao://"
-            },
-            
-             {
-                "name":"饿了么-提款机赚钱",
-                "tasks":["饿了么提款机"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/elemeatm",
-                "scheme":"eleme://web?url=https://m.tb.cn/h.fZq2xDN"
-            },
-            {
-                "name":"饿了么-果园0元领水果",
-                "tasks":["饿了么果园"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/elemeguoyuan.json",
-                "scheme":"eleme://web?url=https://m.tb.cn/h.fZq2xDN"
-            },
+           
             {
                 "name":"饿了么-自动领豆任务",
                 "tasks":["饿了么自动领豆"],
