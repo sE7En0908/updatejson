@@ -16,7 +16,7 @@
             ],
         "mapping" :{
             "双十一助力 qq群":{
-                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=756124530&card_type=group&source=qrcode"
+                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=292599024&card_type=group&source=qrcode"
             },
             "交流·反馈 qq群":{
                         "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=617186271&card_type=group&source=qrcode"
