@@ -54,6 +54,12 @@
                 "type":"task",
                 "key":["双十一养猫"]
                 
+            },
+
+            "运行不带店铺浏览的":{
+                "type":"task",
+                "key":["不带商店任务"]
+                
             }
             
             
@@ -73,7 +79,7 @@
                 "endMessage":"双十一养猫任务结束",
                 
                 "task":{
-                    "tag":"yangmao1111",
+                    "tag":"yangmao111111",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
                     "baseurl":"taobao://商品定位.m.tmall.com/?adScene=202012-ad-card-wall-1&fromToken=2pGOkzEU77BPNDklsYgESNYKHXhdUWUD&spm=a217e.xzrwy.1.1&sceneId=2368&sourceType=other&hd_from_id=100136&deliveryId=占位参数1&implId=占位参数2",
                     "wait":23,
@@ -89,7 +95,6 @@
                       ],
                     "item":[
                     "19933 other_8_586007_19933_0",
-					"18734 other_51_526005_18734_0",
 					"19093 other_29_507006_19093_0",
 					"19938 other_8_561007_19938_0",
 					"18721 other_51_485001_18721_0",
@@ -123,17 +128,7 @@
 					"20165 cloudsail_3_167066504390001_20165_1",
 					"20165 cloudsail_3_167066504390001_20165_2",
 					"20165 cloudsail_3_167066504390001_20165_3",
-					"20165 cloudsail_3_167066504390001_20165_4",
-
-                    "19933 other_8_586007_19933_0",
-					"18734 other_51_526005_18734_0",
-					"19093 other_29_507006_19093_0",
-					"19938 other_8_561007_19938_0",
-					"18721 other_51_485001_18721_0",
-					"19094 other_30_536007_19094_0",
-					"20195 live_3_332685410803_20195_0",
-					"19000 ald.res.19312519_29_149754_19000_0",
-					"20161 ald.res.19312519_3_149397_20161_0"
+					"20165 cloudsail_3_167066504390001_20165_4"
                        
 
 
@@ -148,7 +143,7 @@
 
 
 
-            "任务组1":{
+            "不带商店任务":{
                 "type":"task1",
               
                 "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.tb.cn%2Fh.f4o2cyj",
@@ -156,9 +151,9 @@
                 "endMessage":"双十一养猫任务结束",
                 
                 "task":{
-                    "tag":"yangmao1111222",
+                    "tag":"yangmao111112",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
-                    "baseurl":"taobao://lancome.m.tmall.com/?adScene=202012-ad-card-wall-1&fromToken=2pGOkzEU77BPNDklsYgESNYKHXhdUWUD&spm=a217e.xzrwy.1.1&sceneId=2368&sourceType=other&hd_from_id=100136&deliveryId=占位参数1&implId=占位参数2",
+                    "baseurl":"taobao://商品定位.m.tmall.com/?adScene=202012-ad-card-wall-1&fromToken=2pGOkzEU77BPNDklsYgESNYKHXhdUWUD&spm=a217e.xzrwy.1.1&sceneId=2368&sourceType=other&hd_from_id=100136&deliveryId=占位参数1&implId=占位参数2",
                     "wait":23,
                     "wait2":"",
                     "param":{
@@ -171,43 +166,14 @@
                         }
                       ],
                     "item":[
-                    
-					"19714 cloudsail_10_167837001650001_19714_0",
-					"20163 cloudsail_3_169185003470001_20163_0",
-					"20163 cloudsail_3_169185003470001_20163_1",
-					"20163 cloudsail_3_169185003470001_20163_2",
-					"20163 cloudsail_3_169185003470001_20163_3",
-					"20163 cloudsail_3_169185003470001_20163_4",
-					"20163 cloudsail_3_169185003470001_20163_5",
-					"20163 cloudsail_3_169185003470001_20163_6",
-					"20163 cloudsail_3_169185003470001_20163_7",
-					"20163 cloudsail_3_169185003470001_20163_8",
-					"20163 cloudsail_3_169185003470001_20163_9",
-					"20164 cloudsail_3_169036502550001_20164_0",
-					"20164 cloudsail_3_169036502550001_20164_1",
-					"20164 cloudsail_3_169036502550001_20164_2",
-					"20164 cloudsail_3_169036502550001_20164_3",
-					"20164 cloudsail_3_169036502550001_20164_4",
-					"20164 cloudsail_3_169036502550001_20164_5",
-					"20164 cloudsail_3_169036502550001_20164_6",
-					"20164 cloudsail_3_169036502550001_20164_7",
-					"20164 cloudsail_3_169036502550001_20164_8",
-					"20164 cloudsail_3_169036502550001_20164_9",
-					"20165 cloudsail_3_167066504390001_20165_0",
-					"20165 cloudsail_3_167066504390001_20165_1",
-					"20165 cloudsail_3_167066504390001_20165_2",
-					"20165 cloudsail_3_167066504390001_20165_3",
-					"20165 cloudsail_3_167066504390001_20165_4",
-
                     "19933 other_8_586007_19933_0",
-					"18734 other_51_526005_18734_0",
 					"19093 other_29_507006_19093_0",
 					"19938 other_8_561007_19938_0",
 					"18721 other_51_485001_18721_0",
 					"19094 other_30_536007_19094_0",
 					"20195 live_3_332685410803_20195_0",
 					"19000 ald.res.19312519_29_149754_19000_0",
-					"20161 ald.res.19312519_3_149397_20161_0"
+					"20161 ald.res.19312519_3_149397_20161_0"  
                        
 
 
