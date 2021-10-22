@@ -1,0 +1,117 @@
+{
+    "activity":{
+
+        "tip":"请在网络好的地方执行\n--------------------\n有些任务可能失败 需要手动\n---------------------\n",
+        "list":[
+                
+                "❤️淘宝-双十一喵糖自动化 更新2021-10-20❤️",
+               
+                "美团红包",
+                "饿了么红包",
+                "双十一助力 qq群",
+                "交流·反馈 qq群"
+            
+              
+                
+            ],
+        "mapping" :{
+            "双十一助力 qq群":{
+                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=292599024&card_type=group&source=qrcode"
+            },
+            "交流·反馈 qq群":{
+                        "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=208944131&card_type=group&source=qrcode"
+                    },
+            "美团红包":{
+                "url":"imeituan://www.meituan.com/web?lch=cps:waimai:3:776c2adbab1063dbf7bb27b032eccb42:weixin194:2:80292&url=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D1%26p%3DOWMpZ-uzIFOVe6JyOONs3dXuqV0qcAf-r-KCvHdXiNeHGrf99tjKfEFmfKD5wE8tIKFZ5trT0sOMBI8PYBI709TQrHSowZ35lT3KWxR5a72vQtwrwa1jUpHSHlsPQ3wBH50kzjqu3xTNw3PB3roiT2P2MWrO42CJ2lWJd7PKSHsq7SN-lPlsxVNr-c3nhOZlzawAIr5UyPJjc9kRfnAhGytXnltosMtnrJ4-9fEOLfYcYn1hYyDi1pO1mZxZYFcHVaTZ7wo6zUcGkJ9ItxKfslK20asctpDoufdkj2gOK66MIO_E0-GFVB9nJtuWIF02y5LhdVrEh5ZhzlUhXuwSs7abZ1dbqqz4iLIK-XMwHWFt8hqiPJDLqN1KPbyuqfK0C-muxSJTCZNQxRHJYI6zQAskG7LvEhXxrmu3vEcbJ4hhFalkXdPf0W5opucJJRXCEr47CL5dm9L95FIVMLqeCJJ5CE_ghZ2nAjHWmMLUIxXFy6IujV9DipHPcMPs8ZmoZ0SpSCfFgFHdEXj0cRllpHsledjfVhcds2gty75ozk5vwCDgaO6ixMXqlH1193CtPpMtUDqH-iLaM2A0gxcmJ3gXk5UWz5vX-oQbH-Yjy0Ql7Mn_OEV_b_qDyBYgyrb7unXIthK-lehqig2yh0Nd0PV85jl3TZYOTtcA3YycoWhilLGW2wcCjY31r1QDkEgP"
+            },
+            "饿了么红包":{
+                "url":"eleme://web?url=https://m.tb.cn/h.fVl1DQi"
+            },
+           "8月2-15支付宝天天领红包":{
+                "url":"alipays://platformapi/startapp?appId=68687715&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fc%2F180020180000047875%2Fpages%2Findex%2Findex.html%3FuserId%3D2088802913327612&userId=2088802913327612&titlePenetrate=YES&chInfo=ch_share__chsub_CopyLink"
+            },
+            "淘特-天天领红包":{
+                 "url":"taobao://m.tb.cn/h.fcElrTQ"
+            
+            },
+            "美食币活动入口":{
+                "url":"taobao://huodong.m.taobao.com/act/snipcodeupdate.html?_ariver_appid=1000473"
+            },
+            "交流群":{
+                "list":{
+                    "qq":""
+                }
+            },
+            "淘礼金情报群":{
+                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=596783999&card_type=group&source=qrcode"
+            },
+            
+
+           
+
+            
+            "❤️淘宝-双十一喵糖自动化 更新2021-10-20❤️":{
+                "type":"task",
+                "key":["双十一养猫"]
+                
+            }
+            
+            
+        }
+                
+    },
+
+    "taskData":{
+           
+             
+
+            "双十一养猫":{
+                "type":"task1",
+              
+                "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
+                "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
+                "endMessage":"双十一养猫任务结束",
+                
+                "task":{
+                    "tag":"yangmao1111",
+                    "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
+                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&fromToken=Dq8KJwLdpFllDwqARJf9ZgSOMeU9UdU2U8&sceneId=2385&hd_from_id=100089&deliveryId=占位参数1&implId=占位参数2&adScene=2021d11-task-list",
+                    "wait":18,
+                    "wait2":"",
+                    "param":{
+                        "商品定位":[168657383,71955116,62377409,104736810,229005812,116845644,60790435,68491548,110224300]
+                    },
+                    "before":[
+                         {
+                        "url":"taobao://m.tb.cn/h.fVk6vtq",
+                        "wait":2
+                        }
+                      ],
+                    "item":[
+
+
+                       "19933 other_8_586007_19933_0",
+					"18734 other_51_526005_18734_0",
+					"19093 other_29_507006_19093_0",
+					"19938 other_8_561007_19938_0",
+					"18721 other_51_485001_18721_0",
+					"19094 other_30_536007_19094_0",
+					"20195 live_3_332685410803_20195_0",
+					"19000 ald.res.19312519_29_149754_19000_0",
+					"20161 ald.res.19312519_3_149397_20161_0"
+                       
+                       
+
+
+                     
+                       
+                       
+                        
+                    ]
+                }
+            }
+
+
+
+    }
+}
