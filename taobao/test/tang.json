@@ -5,7 +5,6 @@
         "list":[
                 
                 "❤️运行 淘宝-双十一喵糖 更新2021-10-21❤️",
-                "运行不带店铺浏览的",
                
                 "美团红包",
                 "饿了么红包",
@@ -82,11 +81,11 @@
                 "task":{
                     "tag":"yangmao111111",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
-                    "baseurl":"taobao://商品定位.m.tmall.com/?adScene=202012-ad-card-wall-1&fromToken=2pGOkzEU77BPNDklsYgESNYKHXhdUWUD&spm=a217e.xzrwy.1.1&sceneId=2368&sourceType=other&hd_from_id=100136&deliveryId=占位参数1&implId=占位参数2",
+                    "baseurl":"taobao://商品定位.m.tmall.com/?adScene=202012-ad-card-wall-1&fromToken=AER9xMEiKKwMAa8DCJYacrzgCYU1UaUV&sceneId=2368&sourceType=other&hd_from_id=100136&deliveryId=占位参数1&implId=占位参数2&spm=a217e.xzrwy.1.1",
                     "wait":23,
                     "wait2":"",
                     "param":{
-                        "商品定位":["nike"]
+                        "商品定位":["nike","xiaomi","anta","adidas","chanel","dior","biotherm","oppo"]
                     },
                     "before":[
                          {
@@ -141,50 +140,6 @@
                 }
             },
 
-
-
-
-            "不带商店任务":{
-                "type":"task1",
-              
-                "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.tb.cn%2Fh.f4o2cyj",
-                "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
-                "endMessage":"双十一养猫任务结束",
-                
-                "task":{
-                    "tag":"yangmao111112",
-                    "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
-                    "baseurl":"taobao://商品定位.m.tmall.com/?adScene=202012-ad-card-wall-1&fromToken=2pGOkzEU77BPNDklsYgESNYKHXhdUWUD&spm=a217e.xzrwy.1.1&sceneId=2368&sourceType=other&hd_from_id=100136&deliveryId=占位参数1&implId=占位参数2",
-                    "wait":23,
-                    "wait2":"",
-                    "param":{
-                        "商品定位":["nike"]
-                    },
-                    "before":[
-                         {
-                        "url":"taobao://m.tb.cn/h.fVk6vtq",
-                        "wait":2
-                        }
-                      ],
-                    "item":[
-                    "19933 other_8_586007_19933_0",
-					"19093 other_29_507006_19093_0",
-					"19938 other_8_561007_19938_0",
-					"18721 other_51_485001_18721_0",
-					"19094 other_30_536007_19094_0",
-					"20195 live_3_332685410803_20195_0",
-					"19000 ald.res.19312519_29_149754_19000_0",
-					"20161 ald.res.19312519_3_149397_20161_0"  
-                       
-
-
-                     
-                       
-                       
-                        
-                    ]
-                }
-            }
 
 
 
