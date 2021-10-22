@@ -75,7 +75,7 @@
                 "task":{
                     "tag":"yangmao1111",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
-                    "baseurl":"taobao://商品定位.m.tmall.com/?adScene=202012-ad-card-wall-1&fromToken=2V8W5YPi77BBjX0bUY7giNovs1UdUWUD&spm=a217e.xzrwy.1.1&sceneId=2385&sourceType=other&hd_from_id=100136&deliveryId=占位参数1&implId=占位参数2",
+                    "baseurl":"taobao://商品定位.m.tmall.com/?adScene=202012-ad-card-wall-1&fromToken=2V8W5YPi77BBjX0bUY7giNovs1UdUWUD&spm=a217e.xzrwy.1.1&sceneId=2385&sourceType=other&hd_from_id=100136&deliveryId=占位参数1&implId=占位参数2&spm=a217e.xzrwy.1.1&sourceType=other&shopSourceChannel=tao_ji_mu%3A4117002",
                     "wait":23,
                     "wait2":"",
                     "param":{
