@@ -75,7 +75,7 @@
                 "task":{
                     "tag":"yangmao1111",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
-                    "baseurl":"taobao://lancome.m.tmall.com/?shop_id=115862174&shopSourceChannel=tao_ji_mu%3A4117002&adScene=202012-ad-card-wall-1&fromToken=2pGOkzEU77BPNDklsYgESNYKHXhdUWUD&spm=a217e.xzrwy.1.1&sceneId=2368&sourceType=other&hd_from_id=100136&deliveryId=占位参数1&implId=占位参数2",
+                    "baseurl":"taobao://lancome.m.tmall.com/?adScene=202012-ad-card-wall-1&fromToken=2pGOkzEU77BPNDklsYgESNYKHXhdUWUD&spm=a217e.xzrwy.1.1&sceneId=2368&sourceType=other&hd_from_id=100136&deliveryId=占位参数1&implId=占位参数2",
                     "wait":23,
                     "wait2":"",
                     "param":{
