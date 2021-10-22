@@ -4,17 +4,15 @@
         "tip":"请在网络好的地方执行\n--------------------\n淘宝改参数了，做完浏览店铺任务不能领取，等弄好再开放\n---------------------\n",
         "list":[
                 
-                "❤️运行 淘宝-双十一喵糖 更新2021-10-20❤️",
-               
-                "美团红包",
-                "饿了么红包",
-                "双十一助力 qq群",
-                "交流·反馈 qq群"
+                "更新捷径"
             
               
                 
             ],
         "mapping" :{
+            "更新捷径":{
+                "url":"https://www.icloud.com/shortcuts/e115ccdfee324a2cac82050297f8eb41"
+            },
             "双十一助力 qq群":{
                 "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=292599024&card_type=group&source=qrcode"
             },
