@@ -1,0 +1,21 @@
+{
+
+    "swiper":{},
+    "menu":[
+       
+    ],
+    "task":[
+            
+           
+             {
+                "name":"淘宝-农场任务",
+                "tasks":["种树"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/shuiguo.json",
+                "scheme":"taobao://"
+               
+            }
+           
+           
+            
+]
+}
