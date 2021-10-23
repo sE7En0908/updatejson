@@ -1,4 +1,107 @@
 {
 
-
+    "swiper":{},
+    "menu":[
+        {
+                "action":"copyAndUrl",
+                "title":"微信",
+                "url":"weixin://",
+                "name":"wechat",
+                "txt":"ohkefu001"
+                
+            },
+            {
+                "title":"QQ群",
+                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=617186271&card_type=group&source=qrcode",
+                "name":"QQ"
+                
+            },
+         {
+                "title":"美团红包",
+                "url":"imeituan://www.meituan.com/web?lch=cps:waimai:3:776c2adbab1063dbf7bb27b032eccb42:weixin194:2:80292&url=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D1%26p%3DOWMpZ-uzIFOVe6JyOONs3dXuqV0qcAf-r-KCvHdXiNeHGrf99tjKfEFmfKD5wE8tIKFZ5trT0sOMBI8PYBI709TQrHSowZ35lT3KWxR5a72vQtwrwa1jUpHSHlsPQ3wBH50kzjqu3xTNw3PB3roiT2P2MWrO42CJ2lWJd7PKSHsq7SN-lPlsxVNr-c3nhOZlzawAIr5UyPJjc9kRfnAhGytXnltosMtnrJ4-9fEOLfYcYn1hYyDi1pO1mZxZYFcHVaTZ7wo6zUcGkJ9ItxKfslK20asctpDoufdkj2gOK66MIO_E0-GFVB9nJtuWIF02y5LhdVrEh5ZhzlUhXuwSs7abZ1dbqqz4iLIK-XMwHWFt8hqiPJDLqN1KPbyuqfK0C-muxSJTCZNQxRHJYI6zQAskG7LvEhXxrmu3vEcbJ4hhFalkXdPf0W5opucJJRXCEr47CL5dm9L95FIVMLqeCJJ5CE_ghZ2nAjHWmMLUIxXFy6IujV9DipHPcMPs8ZmoZ0SpSCfFgFHdEXj0cRllpHsledjfVhcds2gty75ozk5vwCDgaO6ixMXqlH1193CtPpMtUDqH-iLaM2A0gxcmJ3gXk5UWz5vX-oQbH-Yjy0Ql7Mn_OEV_b_qDyBYgyrb7unXIthK-lehqig2yh0Nd0PV85jl3TZYOTtcA3YycoWhilLGW2wcCjY31r1QDkEgP"
+            },
+            {
+                "title":"饿了么红包",
+                "url":"eleme://web?url=https://m.tb.cn/h.f4reRVa"
+            },
+            {
+                "title":"淘特-天天领红包",
+                "url":"taobao://m.tb.cn/h.4AyK862"
+            }
+    ],
+    "task":[
+            
+            {
+                "name":"淘宝-淘金币务",
+                "tasks":["淘金币"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/jinbi.json",
+                "scheme":"taobao://"
+            },
+            {
+                "name":"淘宝-淘金币务(旧版，十多个任务那种)",
+                "tasks":["淘金币旧"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/jinbiOld.json",
+                "scheme":"taobao://"
+            },
+             {
+                "name":"淘宝-农场任务",
+                "tasks":["种树"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/shuiguo.json",
+                "scheme":"taobao://"
+               
+            },
+            {
+                "name":"淘宝-聚划算",
+                "tasks":["聚划算"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/juhuasuan.json",
+                "scheme":"taobao://"
+               
+            },
+            {
+                "name":"淘宝-活力中心",
+                "tasks":["活力中心"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/huolizhongxin.json",
+                "scheme":"taobao://"
+               
+            },
+            {
+                "name":"淘宝-美食币换美食任务",
+                "tasks":["食物"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/food.json",
+                "scheme":"taobao://"
+            },
+            {
+                "name":"淘宝-小黑盒任务",
+                "tasks":["黑盒"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/blackbox.json",
+                "scheme":"taobao://"
+            },
+           
+            {
+                "name":"饿了么-自动领豆任务",
+                "tasks":["饿了么自动领豆"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/eleme/dou.json",
+                "scheme":"eleme://web?url=https://m.tb.cn/h.fZq2xDN"
+            },
+            {
+                "name":"淘特-萝卜领钱任务",
+                "tasks":["萝卜任务"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/bigRobot.json",
+                "scheme":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage"
+            },
+            {
+                "name":"淘特-养鸡得鸡蛋任务",
+                "tasks":["鸡粮食"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/chicken.json",
+                "scheme":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage"
+            },
+             {
+                "name":"淘特-养猫猫粮猫币任务",
+                "tasks":["猫粮食","猫"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/taote.json",
+                "scheme":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage"
+            }
+           
+            
+]
 }
