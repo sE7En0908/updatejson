@@ -13,8 +13,13 @@
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/shuiguo.json",
                 "scheme":"taobao://"
                
+            },
+           {
+                "name":"淘宝-美食币换美食任务",
+                "tasks":["食物"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/food.json",
+                "scheme":"taobao://"
             }
-           
            
             
 ]
