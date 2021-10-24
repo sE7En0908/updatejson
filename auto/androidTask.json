@@ -19,6 +19,26 @@
                 "tasks":["食物"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/food.json",
                 "scheme":"taobao://"
+            },
+            {
+                "name":"饿了么-自动领豆任务",
+                "tasks":["饿了么自动领豆"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/eleme/dou.json",
+                "scheme":"eleme://web?url=https://m.tb.cn/h.fZq2xDN"
+            },
+            {
+                "name":"淘宝-聚划算",
+                "tasks":["聚划算"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/juhuasuan.json",
+                "scheme":"taobao://"
+               
+            },
+            {
+                "name":"淘宝-活力中心",
+                "tasks":["活力中心"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/huolizhongxin.json",
+                "scheme":"taobao://"
+               
             }
            
             
