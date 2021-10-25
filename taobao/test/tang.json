@@ -91,6 +91,10 @@
                          {
                         "url":"taobao://m.tb.cn/h.fVk6vtq",
                         "wait":2
+                        },
+                        {
+                            "url":"taobao://pages.tmall.com/wow/z/hdwk/20211111/pk20211111?disableNav=YES&qd_from=zfbbanner&bc_fl_src=zfb_banner&qd_dice=aliPayTaskBanner&async=false&idfa=00000000-0000-0000-0000-000000000000&surge_ssr=true&afcflow=unkown",
+                            "wait":2
                         }
                       ],
                     "item":[
