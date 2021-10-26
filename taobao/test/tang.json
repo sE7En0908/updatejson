@@ -95,10 +95,6 @@
                         {
                             "url":"taobao://pages.tmall.com/wow/z/hdwk/20211111/pk20211111?disableNav=YES&qd_from=zfbbanner&bc_fl_src=zfb_banner&qd_dice=aliPayTaskBanner&async=false&idfa=00000000-0000-0000-0000-000000000000&surge_ssr=true&afcflow=unkown",
                             "wait":3
-                        },
-                        {
-                            "url":"taobao://pages.tmall.com/wow/a/act/tmall/32985/pha?wh_bizStageId=2678&pha=true&disableNav=YES&wh_act_nativebar=2&hd_from_id=100136&fromToken=PKe2G97tBBOM0rMQu9res5qpcjUrU6U8&implId=other_13_588002_19934_0&deliveryId=19934&sceneId=2368",
-                            "wait":23
                         }
                       ],
                     "item":[
