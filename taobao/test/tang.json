@@ -95,6 +95,10 @@
                         {
                             "url":"taobao://pages.tmall.com/wow/z/hdwk/20211111/pk20211111?disableNav=YES&qd_from=zfbbanner&bc_fl_src=zfb_banner&qd_dice=aliPayTaskBanner&async=false&idfa=00000000-0000-0000-0000-000000000000&surge_ssr=true&afcflow=unkown",
                             "wait":3
+                        },
+                        {
+                            "url":"taobao://pages.tmall.com/wow/a/act/tmall/32985/pha?wh_bizStageId=2678&pha=true&disableNav=YES&wh_act_nativebar=2&hd_from_id=100136&fromToken=PKe2G97tBBOM0rMQu9res5qpcjUrU6U8&implId=other_13_588002_19934_0&deliveryId=19934&sceneId=2368",
+                            "wait":23
                         }
                       ],
                     "item":[
@@ -132,16 +136,15 @@
                        
 
 					"19093 other_29_507006_19093_0",
-					"18721 other_51_485001_18721_0",
-					"19094 other_30_536007_19094_0",
+                    
+					"19094 other_0_536007_19094_0",
 					
 
-                    "18721 other_52_534001_18721_0",
+                    "18721 other_0_534001_18721_0",
 
-                    "19933 other_12_586007_19933_0",
+                    "20666 other_1_485001_20666_0"
 
 
-                    "19938 other_9_561007_19938_0"
                      
                        
                        
