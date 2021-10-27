@@ -74,7 +74,7 @@
                     "tag":"juhuasuan",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
                     "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&disableNav=YES&wh_hckj=pha&wh_biz=tm&zhangyu_from_env=jhsmain&hd_from_id=100027&fromToken=OrM8n2PcbbKbvzYNcPaCjAfVUJUrUj&implId=占位参数2&deliveryId=占位参数1&sceneId=107",
-                    "wait":20,
+                    "wait":22,
                     "wait2":"",
                     "param":{
                         "商品定位":[168657383,71955116,62377409,104736810,229005812,116845644,60790435,68491548,110224300]
