@@ -1,0 +1,154 @@
+{
+    "activity":{
+
+        "tip":"请在网络好的地方执行\n--------------------\n任务异常正常现象不用管\n---------------------\n显示已发放是因为手动做过这个任务了\n--------------------------",
+        "list":[
+                
+                "❤️运行 淘宝-双十一喵糖 更新2021-11-02❤️",
+               
+                "美团红包",
+                "饿了么红包",
+                "双十一助力 qq群",
+                "交流·反馈 qq群"
+            
+              
+                
+            ],
+        "mapping" :{
+            "双十一助力 qq群":{
+                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=495665626&card_type=group&source=qrcode"
+            },
+            "交流·反馈 qq群":{
+                        "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=560582502&card_type=group&source=qrcode"
+                    },
+            "美团红包":{
+                "url":"imeituan://www.meituan.com/web?lch=cps:waimai:3:776c2adbab1063dbf7bb27b032eccb42:weixin194:2:80292&url=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D1%26p%3DOWMpZ-uzIFOVe6JyOONs3dXuqV0qcAf-r-KCvHdXiNeHGrf99tjKfEFmfKD5wE8tIKFZ5trT0sOMBI8PYBI709TQrHSowZ35lT3KWxR5a72vQtwrwa1jUpHSHlsPQ3wBH50kzjqu3xTNw3PB3roiT2P2MWrO42CJ2lWJd7PKSHsq7SN-lPlsxVNr-c3nhOZlzawAIr5UyPJjc9kRfnAhGytXnltosMtnrJ4-9fEOLfYcYn1hYyDi1pO1mZxZYFcHVaTZ7wo6zUcGkJ9ItxKfslK20asctpDoufdkj2gOK66MIO_E0-GFVB9nJtuWIF02y5LhdVrEh5ZhzlUhXuwSs7abZ1dbqqz4iLIK-XMwHWFt8hqiPJDLqN1KPbyuqfK0C-muxSJTCZNQxRHJYI6zQAskG7LvEhXxrmu3vEcbJ4hhFalkXdPf0W5opucJJRXCEr47CL5dm9L95FIVMLqeCJJ5CE_ghZ2nAjHWmMLUIxXFy6IujV9DipHPcMPs8ZmoZ0SpSCfFgFHdEXj0cRllpHsledjfVhcds2gty75ozk5vwCDgaO6ixMXqlH1193CtPpMtUDqH-iLaM2A0gxcmJ3gXk5UWz5vX-oQbH-Yjy0Ql7Mn_OEV_b_qDyBYgyrb7unXIthK-lehqig2yh0Nd0PV85jl3TZYOTtcA3YycoWhilLGW2wcCjY31r1QDkEgP"
+            },
+            "饿了么红包":{
+                "url":"eleme://web?url=https://m.tb.cn/h.fVl1DQi"
+            },
+           "8月2-15支付宝天天领红包":{
+                "url":"alipays://platformapi/startapp?appId=68687715&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fc%2F180020180000047875%2Fpages%2Findex%2Findex.html%3FuserId%3D2088802913327612&userId=2088802913327612&titlePenetrate=YES&chInfo=ch_share__chsub_CopyLink"
+            },
+            "淘特-天天领红包":{
+                 "url":"taobao://m.tb.cn/h.fcElrTQ"
+            
+            },
+            "美食币活动入口":{
+                "url":"taobao://huodong.m.taobao.com/act/snipcodeupdate.html?_ariver_appid=1000473"
+            },
+            "交流群":{
+                "list":{
+                    "qq":""
+                }
+            },
+            "淘礼金情报群":{
+                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=756124530&card_type=group&source=qrcode"
+            },
+            
+
+           
+
+            
+            "❤️运行 淘宝-双十一喵糖 更新2021-11-02❤️":{
+                "type":"task",
+                "key":["双十一养猫"]
+                
+            },
+
+            "运行不带店铺浏览的":{
+                "type":"task",
+                "key":["不带商店任务"]
+                
+            }
+            
+            
+        }
+                
+    },
+
+    "taskData":{
+           
+             
+
+            "双十一养猫":{
+                "type":"task1",
+              
+                "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.tb.cn%2Fh.f4o2cyj",
+                "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
+                "endMessage":"双十一养猫任务结束",
+                
+                "task":{
+                    "tag":"yangmao111111",
+                    "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
+                    "baseurl":"taobao://商品定位.m.tmall.com/?adScene=202012-ad-card-wall-1&fromToken=AER9xMEiKKwMAa8DCJYacrzgCYU1UaUV&sceneId=2368&sourceType=other&hd_from_id=100136&deliveryId=占位参数1&implId=占位参数2&spm=a217e.xzrwy.1.1",
+                    "wait":23,
+                    "wait2":"",
+                    "param":{
+                        "商品定位":["nike","xiaomi","anta","adidas","chanel","dior","biotherm","oppo"]
+                    },
+                    "before":[
+                         {
+                        "url":"taobao://m.tb.cn/h.f5pC5D2",
+                        "wait":2
+                        },
+                        {
+                            "url":"taobao://pages.tmall.com/wow/z/hdwk/20211111/pk20211111?disableNav=YES&qd_from=zfbbanner&bc_fl_src=zfb_banner&qd_dice=aliPayTaskBanner&async=false&idfa=00000000-0000-0000-0000-000000000000&surge_ssr=true&afcflow=unkown",
+                            "wait":3
+                        }
+                      ],
+                    "item":[
+                       
+
+                    "19714 cloudsail_10_167837001650001_19714_0",
+					"20163 cloudsail_3_169185003470001_20163_0",
+					"20163 cloudsail_3_169185003470001_20163_1",
+					"20163 cloudsail_3_169185003470001_20163_2",
+					"20163 cloudsail_3_169185003470001_20163_3",
+					"20163 cloudsail_3_169185003470001_20163_4",
+					"20163 cloudsail_3_169185003470001_20163_5",
+					"20163 cloudsail_3_169185003470001_20163_6",
+					"20163 cloudsail_3_169185003470001_20163_7",
+					"20163 cloudsail_3_169185003470001_20163_8",
+					"20163 cloudsail_3_169185003470001_20163_9",
+
+                    "20823 cloudsail_1_178375500440001_20823_0",
+                    "20823 cloudsail_1_178375500440001_20823_1",
+                    "20823 cloudsail_1_178375500440001_20823_2",
+                    "20823 cloudsail_1_178375500440001_20823_3",
+
+                    
+
+
+                    
+
+
+
+
+                       
+
+					"19093 other_29_507006_19093_0",
+                    
+					"19094 other_0_536007_19094_0",
+					
+
+                    "20666 other_1_485001_20666_0",
+
+                    "18721 other_0_534001_18721_0",
+
+                    "20775 other_4_590009_20775_0"
+
+
+                     
+                       
+                       
+                        
+                    ]
+                }
+            }
+
+
+
+
+    }
+}
