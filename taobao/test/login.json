@@ -81,7 +81,7 @@
                 "task":{
                     "tag":"yangmao111111",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
-                    "baseurl":"taobao://商品定位.m.tmall.com/?adScene=202012-ad-card-wall-1&fromToken=AER9xMEiKKwMAa8DCJYacrzgCYU1UaUV&sceneId=2368&sourceType=other&hd_from_id=100136&deliveryId=占位参数1&implId=占位参数2&spm=a217e.xzrwy.1.1",
+                    "baseurl":"taobao://商品定位.m.tmall.com/?adScene=202012-ad-card-wall-1&sceneId=2368&sourceType=other&hd_from_id=100136&deliveryId=占位参数1&implId=占位参数2&spm=a217e.xzrwy.1.1",
                     "wait":23,
                     "wait2":"",
                     "param":{
@@ -100,43 +100,14 @@
                     "item":[
                        
 
-                    "19714 cloudsail_10_167837001650001_19714_0",
-					"20163 cloudsail_3_169185003470001_20163_0",
-					"20163 cloudsail_3_169185003470001_20163_1",
-					"20163 cloudsail_3_169185003470001_20163_2",
-					"20163 cloudsail_3_169185003470001_20163_3",
-					"20163 cloudsail_3_169185003470001_20163_4",
-					"20163 cloudsail_3_169185003470001_20163_5",
-					"20163 cloudsail_3_169185003470001_20163_6",
-					"20163 cloudsail_3_169185003470001_20163_7",
-					"20163 cloudsail_3_169185003470001_20163_8",
-					"20163 cloudsail_3_169185003470001_20163_9",
+                    "18721 other_65_509003_18721_0",
+					"18732 other_65_528003_18732_0",
 
-                    "20823 cloudsail_1_178375500440001_20823_0",
-                    "20823 cloudsail_1_178375500440001_20823_1",
-                    "20823 cloudsail_1_178375500440001_20823_2",
-                    "20823 cloudsail_1_178375500440001_20823_3",
+                    "19094 other_44_536007_19094_0",
 
-                    
-
-
-                    
-
-
-
-
-                       
-
-					"19093 other_29_507006_19093_0",
-                    
-					"19094 other_0_536007_19094_0",
-					
-
-                    "20666 other_1_485001_20666_0",
-
-                    "18721 other_0_534001_18721_0",
-
-                    "20775 other_4_590009_20775_0"
+                    "20904 cloudsail_1_167265501890001_20904_0",
+                    "20904 cloudsail_1_167265501890001_20904_1",
+					"20904 cloudsail_1_167265501890001_20904_2"
 
 
                      
