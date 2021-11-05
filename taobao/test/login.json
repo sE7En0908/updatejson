@@ -57,7 +57,7 @@
                 
             },
             "去网页登录-需要同一账户":{
-                "url":"https://login.m.taobao.com/login.htm?redirectURL=https%3A%2F%2Fmain.m.taobao.com%2Fmytaobao%2Findex.html"
+                "url":"https://login.m.taobao.com/login.htm?redirectURL=https%3A%2F%2Fhome.m.taobao.com%2F"
             },
 
             "运行不带店铺浏览的":{
