@@ -10,6 +10,7 @@
                 "饿了么红包",
                 "双十一助力 qq群",
                 "交流·反馈 qq群",
+                "图文教程"
                 
             
               
@@ -59,9 +60,15 @@
             "去网页登录-需要同一账户":{
                 "url":"https://login.m.taobao.com/login.htm?redirectURL=https%3A%2F%2Fhome.m.taobao.com%2F"
             },
+            
 
             "运行不带店铺浏览的":{
                 "type":"task",
+                "key":["不带商店任务"]
+                
+            },
+            "图文教程":{
+                "type":"help",
                 "key":["不带商店任务"]
                 
             }
