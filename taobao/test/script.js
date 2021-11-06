@@ -152,7 +152,7 @@ console.log(t)
             }
           }
 
-          if (out.items.length === 0 ){
+          if (out.items.length === 0 && runNum !== 0 ){
 
             //停止通知
             if(!isNext){
