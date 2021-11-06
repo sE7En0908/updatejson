@@ -152,14 +152,15 @@ console.log(t)
             }
           }
 
-          if (out.items.length === 0 && runNum !== 0 ){
+          if (out.items.length === 0  ){
 
             //停止通知
-            if(!isNext){
+            if(!isNext || runNum === 0){
               console.log('打开 tb end')
               Safari.open("shortcuts://run-shortcut?name=%E5%8F%8C%E5%8D%81%E4%B8%80%E5%96%B5%E7%B3%96%E7%99%BB%E5%BD%95%E7%89%88&input=text&text=end")
               return
             }
+            
             await next();
 
           }
