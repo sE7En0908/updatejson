@@ -80,6 +80,9 @@
                     "key":["不带商店任务"]
                         
                     },
+                    "安装Scriptable":{
+                        "url":"https://apps.apple.com/cn/app/scriptable/id1405459188"
+                    },
                   "运行任务":{
                      "type":"script",
                      "key":["不带商店任务"]
