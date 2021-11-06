@@ -81,10 +81,12 @@ console.log(t)
 
         alert.title= "请仔细阅读"
 
-        alert.message = "由于活动任务不做\n--------------------\n不会出新的任务\n---------------------\n所以需要手动把那个游戏任务完成之后点继续\n--------------------------"
+        alert.message = "由于互动游戏任务不做\n--------------------\n不会出新的任务\n---------------------\n所以需要手动把那个游戏任务完成之后点继续\n--------------------------"
 
         alert.addAction("继续做剩余任务")
         alert.addAction("剩下我要手动")
+
+        alert2.message = "由于互动游戏任务不做\n--------------------\n不会出新的任务\n---------------------\n所以需要手动把那个游戏任务完成之后点继续\n--------------------------"
 
 
         alert2.addAction("去把互动任务做了")
@@ -157,6 +159,7 @@ console.log(t)
             //停止通知
             if(!isNext || runNum === 0){
               console.log('打开 tb end')
+              notification("这个账号的任务结束了，请换账号再做吧")
               Safari.open("shortcuts://run-shortcut?name=%E5%8F%8C%E5%8D%81%E4%B8%80%E5%96%B5%E7%B3%96%E7%99%BB%E5%BD%95%E7%89%88&input=text&text=end")
               return
             }
