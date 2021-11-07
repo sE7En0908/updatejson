@@ -81,7 +81,7 @@
             "双十一争霸赛":{
                 "type":"task1",
               
-                "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.tb.cn%2Fh.f4o2cyj",
+                "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.tb.cn%2Fh.fgNy0dG",
                 "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
                 "endMessage":"双十一争霸赛任务结束",
                 
@@ -96,8 +96,8 @@
                     },
                     "before":[
                          {
-                        "url":"taobao://m.tb.cn/h.fgNy0dG",
-                        "wait":2
+                        "url":"taobao://m.tb.cn/h.f4o2cyj",
+                        "wait":5
                         }
                       ],
                     "item":[
