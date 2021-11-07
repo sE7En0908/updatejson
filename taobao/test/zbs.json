@@ -85,7 +85,7 @@
                     "tag":"zhengba111111",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
                     "baseurl":"占位参数1",
-                    "wait":23,
+                    "wait":4,
                     "wait2":"",
                     "param":{
                         "商品定位":["nike","xiaomi","anta","adidas","chanel","dior","biotherm","oppo"]
