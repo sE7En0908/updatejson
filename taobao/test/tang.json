@@ -8,12 +8,16 @@
                 "美团红包",
                 "饿了么红包",
                 "双十一助力 qq群",
-                "tb双十一王者争霸赛任务捷径下载"
+                "tb双十一王者争霸赛任务捷径下载",
+                "更多捷径关注公众号 九条爱吃鱼"
             
               
                 
             ],
         "mapping" :{
+            "更多捷径关注公众号 九条爱吃鱼":{
+                "url":"https://mp.weixin.qq.com/s/S9vnpL6hn5sjJnhiXb9yFg"
+            },
              "tb双十一王者争霸赛任务捷径下载":{
                 "url":"https://www.icloud.com/shortcuts/acfe6decd9c5404cae57bf455f543e43"
             },
