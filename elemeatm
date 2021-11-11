@@ -54,21 +54,10 @@
                         "随机参数1":[999,888,777]
                     },
                     "before":[
-                       {
-                           "url":"eleme://web?url=https%3A%2F%2Ftb.ele.me%2Fwow%2Falsc%2Fmod%2Fd5db9f950c16cb44b7ca4d65%3Fmissioncollectid%3D45%26missionid%3D816001%26taskfrom%3Da13.b_activity_kb_m24999%26bizscene%3Ddaily_atm%26taskpageviewasac%3D2A21315954SAZBWRIL5OEH%26spm%3Da13.b_activity_kb_m24999.0.0",
-                            "wait":3
-                       }
+                      
                     ],
                     "item":[
-                        "f04b783a2a695cf978e7ddb8 2604001",
-                        
-                        "3204bf691877885984a887c6 2634001",
-
-                        
-                        "dbda9763d29d1ae92997eeb5 428001",
-
-                        "d5db9f950c16cb44b7ca4d65 1596002",
-                        "f04b783a2a695cf978e7ddb8 2070001"
+                       
                     ]
                 }
             }
