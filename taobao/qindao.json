@@ -108,10 +108,21 @@
                         {
                            "url": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
                            "wait":3
+                        },
+                        {
+                           "url": "taobao://pages.tmall.com/wow/z/mit/hbqd/welfare4",
+                           "wait":20
+                        },
+                        {
+                           "url": "taobao://",
+                           "wait":20
+                        },
+                        {
+                           "url": "taobao://",
+                           "wait":15
                         }
                     ],
                     "item":[
-                        "1"
                     ]
                 }
             }
