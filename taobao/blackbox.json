@@ -70,7 +70,7 @@
                     "tag":"taobaoblack",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
                     "baseurl":"taobao://tarpa.tmall.com/wow/ark-pub/common/1050299e/tpl?wh_sid=948b1eb87661ea36&sceneId=1396&deliveryId=占位参数1&implId=占位参数2&hd_from_id=100101",
-                    "wait":23,
+                    "wait":12,
                     "wait2":"",
                     "param":{
                         "随机参数1":[529907386]
