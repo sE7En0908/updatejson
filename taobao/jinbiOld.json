@@ -73,7 +73,7 @@
                 "task":{
                     "tag":"jinbiold",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
-                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&fromToken=gQz98LQF112qYEgbf6G7UvZ0FKUQUlUk&sceneId=1946&hd_from_id=100089&deliveryId=占位参数1&implId=占位参数2",
+                    "baseurl":"https://pages.tmall.com/wow/a/act/tmall/dailygroup/796/wupr?wh_pid=daily-251865&fromToken=PaP776GUBBr0WvMaT9XDS97rHjUrU6U8&implId=占位参数2&deliveryId=占位参数1&sceneId=1946&hd_from_id=100089&spm=a217e.xzrwy.tasklist-pentaprism.占位参数1",
                     "wait":18,
                     "wait2":"",
                     "param":{
@@ -84,8 +84,7 @@
                         "url":"taobao://m.tb.cn/h.fVk6vtq",
                         "wait":2
                         },
-                        {"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=157096010&wh_dataservice=false&sourceId=2891951486","wait":17},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=255135168&wh_dataservice=false&sourceId=3372144204","wait":17},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=591910968&wh_dataservice=false&sourceId=4290240542","wait":17},{"url":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com","wait":2},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=127048312&wh_dataservice=false&sourceId=2593899404","wait":17},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=59569208&wh_dataservice=false&sourceId=321635346","wait":17},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=104490918&wh_dataservice=false&sourceId=771607960","wait":17},{"url":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com","wait":2},
-                        {"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=169176678&wh_dataservice=false&sourceId=3837764657","wait":17},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=452775482&wh_dataservice=false&sourceId=2978398582","wait":17},{"url":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com","wait":2}
+                        
                     
                       ],
                     "item":[
