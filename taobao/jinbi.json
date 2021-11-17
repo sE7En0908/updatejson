@@ -72,7 +72,7 @@
                 "task":{
                     "tag":"jinbi",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
-                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&fromToken=Dq8KJwLdpFllDwqARJf9ZgSOMeU9UdU2U8&sceneId=1946&hd_from_id=100089&deliveryId=占位参数1&implId=占位参数2",
+                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&fromToken=gQz98LQF112qYEgbf6G7UvZ0FKUQUlUk&sceneId=1946&hd_from_id=100089&deliveryId=占位参数1&implId=占位参数2",
                     "wait":18,
                     "wait2":"",
                     "param":{
