@@ -80,7 +80,7 @@
                     },
                     "before":[
                          {
-                        "url":"taobao://m.tb.cn/h.fVk6vtq",
+                        "url":"taobao://m.tb.cn/h.fhHeaGP",
                         "wait":2
                         },
                         {"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=157096010&wh_dataservice=false&sourceId=2891951486","wait":17},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=255135168&wh_dataservice=false&sourceId=3372144204","wait":17},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=591910968&wh_dataservice=false&sourceId=4290240542","wait":17},{"url":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com","wait":2},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=127048312&wh_dataservice=false&sourceId=2593899404","wait":17},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=59569208&wh_dataservice=false&sourceId=321635346","wait":17},{"url":"taobao://pages.tmall.com/wow/z/tmtjb/tjbshop/coin_shops_task?wh_biz=tm&disableNav=YES&shopId=104490918&wh_dataservice=false&sourceId=771607960","wait":17},{"url":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com","wait":2},
