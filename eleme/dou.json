@@ -58,7 +58,7 @@
                     },
                     "before":[
                         
-                        {"url":"eleme://web?url=https%3A%2F%2Fh5.ele.me%2Fant%2Fqrcode2%3Fopen_type%3Dminiapp%26url_id%3D35%26inviterId%3D2200cb%26actId%3D1%26_ltracker_f%3Dhjb_app_grzx%26chInfo%3Dch_app_chsub_Photo","wait":3},
+                        {"url":"eleme://web?url=https%3A%2F%2Fh5.ele.me%2Fant%2Fqrcode3%3Fopen_type%3Dminiapp%26url_id%3D675%26inviterId%3D8af1867a%26actId%3D1%26_ltracker_f%3Dhjb_app_grzx%26chInfo%3Dch_app_chsub_Photo","wait":3},
                         
                         {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D1390001","wait":5},
                         
