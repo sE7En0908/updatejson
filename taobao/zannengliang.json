@@ -1,35 +1,23 @@
 {
     "activity":{
 
-        "tip":"王者争霸赛请\n--------------------\n先点击活动入口\n---------------------\n进入加入队伍\n---------------------\n再点击运行",
+        "tip":"年货节攒福气换红包任务",
         "list":[
                 
-                "❤️运行攒能量和王者争霸赛❤️",
+                "❤️运行攒福气浏览商品任务❤️",
                 "活动入口",
                 "美团红包",
                 "饿了么红包",
-                "双十一助力 qq群"
+                "助力 qq群"
             
               
                 
             ],
         "mapping" :{
             "活动入口":{
-                "list":[
-                    "王者争霸赛",
-                    "攒能量红包"
-                ],
-                "mapping":{
-                    "王者争霸赛":{
-                        "url":"taobao://m.tb.cn/h.fgNy0dG"
-                    },
-                    "攒能量红包":{
-                        "url":"taobao://m.tb.cn/h.fULHnoU"
-                    }
-                }
-               
+                "url":"taobao://m.tb.cn/h.fgNy0dG"
             },
-            "双十一助力 qq群":{
+            "助力 qq群":{
                 "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=292599024&card_type=group&source=qrcode"
             },
             "交流·反馈 qq群":{
@@ -64,9 +52,9 @@
            
 
             
-            "❤️运行攒能量和王者争霸赛❤️":{
+            "❤️运行攒福气浏览商品任务❤️":{
                 "type":"task",
-                "key":["双十一红包"]
+                "key":["年货节红包"]
                 
             }
             
@@ -79,15 +67,15 @@
            
              
 
-            "双十一红包":{
+            "年货节红包":{
                 "type":"task1",
               
                 "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.tb.cn%2Fh.fULHnoU",
                 "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
-                "endMessage":"双十一红包任务结束",
+                "endMessage":"年货节红包任务结束",
                 
                 "task":{
-                    "tag":"yangmaohongbao1111",
+                    "tag":"nianhuojie1111",
                     "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
                     "baseurl":"占位参数1",
                     "wait":5,
