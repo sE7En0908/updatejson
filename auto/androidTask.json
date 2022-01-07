@@ -9,7 +9,7 @@
             },
             {
                 "title":"饿了么红包",
-                "url":"eleme://web?url=https://m.tb.cn/h.f6UzIPI"
+                "url":"eleme://web?url=https://m.tb.cn/h.fkVgNQX"
             }
     ],
     "task":[
@@ -17,8 +17,50 @@
                 "name":"饿了么-自动领豆任务",
                 "tasks":["饿了么自动领豆"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/eleme/dou.json",
-                "scheme":"eleme://web?url=https://m.tb.cn/h.fZq2xDN"
+                "scheme":"eleme://web?url=https://m.tb.cn/h.fkVgNQX"
+            },
+           
+             {
+                "name":"淘宝-农场任务",
+                "tasks":["种树"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/shuiguo.json",
+                "scheme":"taobao://"
+               
+            },
+            {
+                "name":"淘宝-美食币换美食任务",
+                "tasks":["食物"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/food.json",
+                "scheme":"taobao://"
+            },
+            {
+                "name":"淘宝-小黑盒任务",
+                "tasks":["黑盒"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/blackbox.json",
+                "scheme":"taobao://"
+            },
+            
+          
+           
+            {
+                "name":"淘特-萝卜领钱任务",
+                "tasks":["萝卜任务"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/bigRobot.json",
+                "scheme":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage"
+            },
+            {
+                "name":"淘特-养鸡得鸡蛋任务",
+                "tasks":["鸡粮食"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/chicken.json",
+                "scheme":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage"
+            },
+             {
+                "name":"淘特-养猫猫粮猫币任务",
+                "tasks":["猫粮食","猫"],
+                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/taote.json",
+                "scheme":"taobaolite://m.ltao.com/open/index.html?action=ali.open.nav&h5Url=taobaolite%3A%2F%2Fm.ltao.com%2Fhomepage%23mallPage"
             }
+           
             
             
 ]
