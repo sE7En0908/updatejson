@@ -60,30 +60,22 @@
                         
                         {"url":"eleme://web?url=https%3A%2F%2Fh5.ele.me%2Fant%2Fqrcode3%3Fopen_type%3Dminiapp%26url_id%3D675%26inviterId%3Dd5e4ad22%26actId%3D1%26_ltracker_f%3Dhjb_app_grzx%26chInfo%3Dch_app_chsub_Photo","wait":3},
                         
-                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D1390001","wait":5},
-                        
-                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D1138001","wait":5},
-                          {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D3126001","wait":5},
-                    {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D3260001","wait":5},
-                        {"url":"eleme://home","wait":3},
-                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D234001","wait":5},
-
-                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D1150001","wait":5},
-                        
-                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D1056001","wait":5},
-                        {"url":"eleme://home","wait":3},
-                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D1130001","wait":5},
-                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D1698001","wait":5},
-                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D2768001","wait":5},
-                        {"url":"eleme://home","wait":3},
-                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D2442001","wait":5},
-                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D978001","wait":5},
-                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D3266001","wait":5}
+                        {"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D3226001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D234001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1390001","wait":5},{"url":"eleme://home","wait":1},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1130001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D4012001","wait":5},{"url":"eleme://home","wait":1},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D4142001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D3350001","wait":5},{"url":"eleme://home","wait":1},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D3260001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D1150001","wait":5},{"url":"eleme://home","wait":1},{"url":"eleme://web?url=https%3A%2F%2Fapi.mjt520.shop%2Fstatic%2Fhtml%2Felm.html%3Ftype%3DSIMPLESIGNIN%26id%3D4048002","wait":5}
                        
                     ],
-                    "item":["476001","250003","2774001","342001","3092002","2484001","1036001","228003","1306001","236002","2020001","3110002",
+                    "item":[
+                        "476001",
+                         "342001",
+                         "3092002",
+                         "2484001",
+                         "228003",
+                         "236002",
+                         "2020001",
+                         "3110002",
+
+                        "4018001",
+                        "3340001"
                     
-                        "3226001","1036001","2020001"
                     ]
                 }
             }
