@@ -66,17 +66,8 @@
                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4098001","wait":5}
                        ],
                     "item":[
-                        "476001",
-                         "342001",
-                         "3092002",
-                         "2484001",
-                         "228003",
-                         "236002",
-                         "2020001",
-                         "3110002",
-
-                        "4018001",
-                        "3340001"
+                        "4512001",
+                        "476001"
                     
                     ]
                 }
