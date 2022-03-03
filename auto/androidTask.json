@@ -9,7 +9,7 @@
             },
             {
                 "title":"饿了么红包",
-                "url":"eleme://web?url=https://m.tb.cn/h.f9myG2D"
+                "url":"eleme://web?url=https://m.tb.cn/h.fnMG4L9"
             }
     ],
     "task":[
@@ -17,7 +17,7 @@
                 "name":"饿了么-自动领豆任务",
                 "tasks":["饿了么自动领豆"],
                 "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/eleme/dou.json",
-                "scheme":"eleme://web?url=https://m.tb.cn/h.f9myG2D"
+                "scheme":"eleme://web?url=https://m.tb.cn/h.fnMG4L9"
             },
            
              {
