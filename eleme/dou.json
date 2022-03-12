@@ -71,6 +71,8 @@
                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4182001","wait":5},{"url":"eleme://home","wait":1},
                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4644001","wait":5},
                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D234001","wait":5},
+
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4900001","wait":5},
                        {"url":"eleme://home","wait":1}
                        ],
                     "item":[
@@ -79,6 +81,7 @@
                         "4810001",
                         "4808001",
                         "1034001",
+                        "4886001",
                         "476001"
                         
                     
