@@ -105,14 +105,17 @@
                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4932001","wait":5},
                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4648001","wait":5},
                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4604001","wait":5},
-                       {"url":"eleme://home","wait":1}
+                       {"url":"eleme://home","wait":1},
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4970001","wait":5},
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D3500001","wait":5}
+                
                      
                     ],
                     "item":[
       
                         "4812001 888",
-                        "4810001 888",
-                        "4808001 888",
+                       
+                        
                         "1034001 888",
                         "4886001 888",
                         "4912001 888",
