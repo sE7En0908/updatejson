@@ -51,7 +51,7 @@
                 "task":{
                     "tag":"eleme",
                     "scheme":"eleme://web?url=",
-                    "baseurl":"https://service-7wsy5jm7-1257225808.sh.apigw.tencentcs.com/release/el?type=PAGEVIEW&id=占位参数1",
+                    "baseurl":"https://service-7wsy5jm7-1257225808.sh.apigw.tencentcs.com/release/el?type=PAGEVIEW&id=占位参数1&mid=占位参数2",
                     "wait":24,
                     "param":{
                         "随机参数1":[999,888,777]
@@ -60,15 +60,41 @@
                         
                         {"url":"eleme://web?url=https%3A%2F%2Fh5.ele.me%2Fant%2Fqrcode3%3Fopen_type%3Dminiapp%26url_id%3D675%26inviterId%3Dd5e4ad22%26actId%3D1%26_ltracker_f%3Dhjb_app_grzx%26chInfo%3Dch_app_chsub_Photo","wait":3},
                         
+
+
+                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D3030001%26mid%3D170","wait":3},
+
+
+
+
+
+
+
+
                        
-                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D3226001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D234001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D1390001","wait":5},{"url":"eleme://home","wait":1},{"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D1130001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4012001","wait":5},{"url":"eleme://home","wait":1},{"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4142001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D3350001","wait":5},{"url":"eleme://home","wait":1},{"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D3260001","wait":5},{"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D1150001","wait":5},{"url":"eleme://home","wait":1},{"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4048002","wait":5},
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D3226001","wait":5},
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D234001","wait":5},
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D1390001","wait":5},
+                       {"url":"eleme://home","wait":1},
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D1130001","wait":5},
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4012001","wait":5},
+                       {"url":"eleme://home","wait":1},
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4142001","wait":5},
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D3350001","wait":5},
+                       {"url":"eleme://home","wait":1},
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D3260001","wait":5},
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D1150001","wait":5},
+                       {"url":"eleme://home","wait":1},
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4048002","wait":5},
                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D3266001","wait":5},
-                       {"url":"eleme://web?url=https%3A%2F%2Fh5.ele.me%2Frestapi%2Fbiz.svip_scene%2Fsvip%2Fengine%2FxSupply%3Fparams%5B%5D%3D%257B%2522tagCode%2522%3A%2522223166%2522%2C%2522extra%2522%3A%257B%2522missionDefId%2522%3A3030001%2C%2522missionCollectionId%2522%3A170%2C%2522missionType%2522%3A%2522SIMPLESIGNIN%2522%257D%257D%26bizCode%3Dbiz_code_main%26longitude%3D118.15848541259766%26latitude%3D26.438573837280273","wait":3},
-                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4098001","wait":5},{"url":"eleme://home","wait":1},
+                       
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4098001","wait":5},
+                       {"url":"eleme://home","wait":1},
                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4242001","wait":5},
                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4206001","wait":5},
                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4192001","wait":5},
-                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4182001","wait":5},{"url":"eleme://home","wait":1},
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4182001","wait":5},
+                       {"url":"eleme://home","wait":1},
                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4644001","wait":5},
                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D234001","wait":5},
                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4642001","wait":5},
@@ -84,17 +110,29 @@
                     ],
                     "item":[
       
-                        "4812001",
-                        "4810001",
-                        "4808001",
-                        "1034001",
-                        "4886001",
-                        "4912001",
-                        "4926001",
-                        "3780001",
-                        "4988001",
-                        "4924001",
-                        "476001"
+                        "4812001 888",
+                        "4810001 888",
+                        "4808001 888",
+                        "1034001 888",
+                        "4886001 888",
+                        "4912001 888",
+                        "4926001 888",
+                        "3780001 888",
+                        "4988001 888",
+                        "4924001 888",
+                        "476001 888",
+
+
+
+
+
+                        "4506001 95",
+                        "3062001 95",
+                        "4504001 95",
+                        "4544001 95",
+                        "4326003 95",
+                        "4546001 95",
+                        "4548001 95"
                         
                     
                         
