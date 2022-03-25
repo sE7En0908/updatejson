@@ -28,7 +28,7 @@
             "淘宝-双十一喵糖":{
                 "name":"淘宝-双十一喵糖",
                 "tasks":["双十一养猫"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/cat.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/cat.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -36,7 +36,7 @@
             "淘特-发财鸭":{
                 "name":"淘特-发财鸭",
                 "tasks":["发财鸭"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/duck.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taote/duck.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -44,7 +44,7 @@
             "淘宝-活力中心任务":{
                 "name":"淘宝-活力中心任务",
                 "tasks":["活力中心"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/huolizhongxin.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/huolizhongxin.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -52,7 +52,7 @@
             "淘宝-聚划算任务":{
                 "name":"淘宝-聚划算任务",
                 "tasks":["聚划算"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/juhuasuan.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/juhuasuan.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -60,7 +60,7 @@
             "天猫-天天领红包":{
                 "name":"天猫-天天领红包",
                 "tasks":["天天红包"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/tiantianhongbao.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/tiantianhongbao.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -68,7 +68,7 @@
            "淘宝-美食币换美食任务":{
                 "name":"淘宝-美食币换美食任务",
                 "tasks":["食物"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/food.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/food.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -76,7 +76,7 @@
             "淘宝-小黑盒任务":{
                 "name":"淘宝-小黑盒任务",
                 "tasks":["黑盒"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/blackbox.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/blackbox.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -84,7 +84,7 @@
             "淘特-萝卜领钱任务":{
                 "name":"淘特-萝卜领钱任务",
                 "tasks":["萝卜任务"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/bigRobot.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taote/bigRobot.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -92,7 +92,7 @@
             "淘特-养鸡得鸡蛋任务":{
                 "name":"淘特-养鸡得鸡蛋任务",
                 "tasks":["鸡粮食"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/chicken.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taote/chicken.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -100,7 +100,7 @@
              "淘特-养猫猫粮猫币任务":{
                 "name":"淘特-养猫猫粮猫币任务",
                 "tasks":["猫粮食","猫"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taote/taote.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taote/taote.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -111,7 +111,7 @@
             "饿了么-提款机赚钱":{
                 "name":"饿了么-提款机赚钱",
                 "tasks":["饿了么提款机"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/elemeatm",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/elemeatm",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -119,7 +119,7 @@
             "饿了么-果园0元领水果":{
                 "name":"饿了么-果园0元领水果",
                 "tasks":["饿了么果园"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/elemeguoyuan.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/elemeguoyuan.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -127,7 +127,7 @@
             "饿了么-自动领豆任务":{
                 "name":"饿了么-自动领豆任务",
                 "tasks":["饿了么自动领豆"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/eleme/dou.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/eleme/dou.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -135,7 +135,7 @@
             "淘宝-农场任务":{
                 "name":"淘宝-农场任务",
                 "tasks":["种树"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/shuiguo.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/shuiguo.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -143,7 +143,7 @@
             "淘宝-签到":{
                 "name":"淘宝-签到",
                 "tasks":["淘宝签到"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/qindao.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/qindao.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -151,7 +151,7 @@
             "淘宝-淘金币务":{
                 "name":"淘宝-淘金币务",
                 "tasks":["淘金币"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/jinbi.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/jinbi.json",
                
                 "action":"setfile",
                 "type":"addTask"
@@ -159,7 +159,7 @@
             "淘宝-淘金币（旧版，十多个任务那种）":{
                 "name":"淘宝-淘金币（旧版，十多个任务那种）",
                 "tasks":["淘金币旧"],
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/taobao/jinbiOld.json",
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/jinbiOld.json",
                
                 "action":"setfile",
                 "type":"addTask"
