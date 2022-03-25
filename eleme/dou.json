@@ -107,8 +107,13 @@
                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4604001","wait":5},
                        {"url":"eleme://home","wait":1},
                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4970001","wait":5},
-                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D3500001","wait":5}
+                       {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D3500001","wait":5},
+                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D5178001","wait":5},
+                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D4894001","wait":5},
+                        {"url":"eleme://web?url=https%3A%2F%2Fservice-7wsy5jm7-1257225808.sh.apigw.tencentcs.com%2Frelease%2Fel%3Ftype%3DSIMPLESIGNIN%26id%3D5178001","wait":5},
                 
+
+                        {"url":"eleme://home","wait":1}
                      
                     ],
                     "item":[
@@ -124,6 +129,9 @@
                         "4988001 888",
                         "4924001 888",
                         "476001 888",
+                        "5040001 888",
+
+                        "4926001 888",
 
 
 
@@ -135,6 +143,8 @@
                         "4544001 95",
                         "4326003 95",
                         "4546001 95",
+                        "4556001 95",
+                        "5018001 95",
                         "4548001 95"
                         
                     
