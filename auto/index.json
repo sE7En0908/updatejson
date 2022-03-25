@@ -41,7 +41,7 @@
             "任务商店-新加入 旧版淘金币":{
                 "name":"任务商店-新加入 旧版淘金币",
                 "action":"more",
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/auto/tasks.json"
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/auto/tasks.json"
             },
             
             "任务设置":{
@@ -114,7 +114,7 @@
             "其他红包":{
                 "name":"其他红包",
                 "action":"more",
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/auto/more.json"
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/auto/more.json"
             }
         }
                 
