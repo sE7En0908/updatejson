@@ -54,7 +54,7 @@
                 "添加新任务":{
                 "name":"添加新任务",
                 "action":"more",
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/auto/autov2.json"
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/auto/tasks.json"
                 },
                 "删除任务":{
                     "action":"setfile",
