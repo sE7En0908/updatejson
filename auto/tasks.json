@@ -7,7 +7,8 @@
                 "淘宝-活力中心任务",
                 "淘宝-聚划算任务",
                 "淘宝-农场任务",
-                "淘宝-美食币换美食任务",
+                
+                "淘宝-薅羊毛赚话费任务",
                 "淘宝-小黑盒任务",
                 "淘宝-签到",
 
@@ -25,6 +26,14 @@
                 
             ],
         "mapping" :{
+            "淘宝-薅羊毛赚话费任务":{
+                "name":"淘宝-薅羊毛赚话费任务",
+                "tasks":["双十一养猫"],
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/cat.json",
+               
+                "action":"setfile",
+                "type":"addTask"
+            },
             "淘宝-双十一喵糖":{
                 "name":"淘宝-双十一喵糖",
                 "tasks":["双十一养猫"],
