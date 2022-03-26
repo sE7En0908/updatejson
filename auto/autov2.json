@@ -7,7 +7,7 @@
                 "任务设置",
                 "饿了么红包",
                 "美团红包",
-                "双十一助力群"
+                "交流·反馈 qq群"
             
               
                 
@@ -88,6 +88,7 @@
             "运行任务":{
                 "action":"runTask"
             },
+            "交流·反馈 qq群":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=560582502&card_type=group&source=qrcode",
             "双十一助力群":{
                 "tip":"",
                 "list":[
