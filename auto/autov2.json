@@ -286,7 +286,7 @@
             },
             "淘宝-薅羊毛赚话费任务":{
                 "name":"淘宝-薅羊毛赚话费任务",
-                "tasks":["双十一养猫"],
+                "tasks":["赚话费"],
                 "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/huafei.json",
                
                 "action":"setfile",
