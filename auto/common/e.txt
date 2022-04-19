@@ -1,7 +1,7 @@
 function run () {
 
     var data = [];
-    var More = 1;
+    var More = configValue ? configValue : 1;
     var elmScheme = {
       scheme:"eleme://web?url=",
       main:"eleme://home",
@@ -91,7 +91,9 @@ function run () {
 
       })
     })
-
+    if (runNum > 0 && runNum != 1){
+      data = data.splice(runNum - 1,data.length);
+    }
     var dd = {
       succes: 'ok',
       data:data
