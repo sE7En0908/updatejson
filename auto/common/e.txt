@@ -21,7 +21,7 @@ function run () {
       end:""
     }
     var schemes = {
-      1:[elmScheme],
+      1:[zfbScheme],
       2:[elmScheme,taobaoScheme],
       3:[elmScheme,taobaoScheme,zfbScheme]
     }
