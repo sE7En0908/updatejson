@@ -11,7 +11,7 @@ function run () {
     var taobaoScheme = {
       scheme:"taobao://m.taobao.com/tbopen/index.html?h5Url=",
       main:"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
-      start: "taobao://m.taobao.com/tbopen/index.html?h5Url=https://h5.ele.me/svip/task-list",
+      start: "taobao://huodong.m.taobao.com/act/snipcodeupdate.html?_ariver_appid=8251537&cpp=1&x_object_type=miniapp&_main_process=true",
       end:""
     }
     var zfbScheme = {
