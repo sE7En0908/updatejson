@@ -24,7 +24,7 @@ function run () {
       end:""
     }
     var schemes = {
-      1:[taobaoScheme],
+      1:[dtScheme],
       2:[tmScheme,dtScheme],
       3:[taobaoScheme,tmScheme,dtScheme]
     }
