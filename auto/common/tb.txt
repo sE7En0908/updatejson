@@ -1,0 +1,116 @@
+function run () {
+    var pvStr = 'fLClNoX';
+    var data = [];
+    var More = configValue ? configValue : 1;
+
+    var taobaoScheme = {
+      scheme:"taobao",
+      main:"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
+      start: "taobao//m.tb.cn/h." + pvStr,
+      end:""
+    }
+    var tmScheme = {
+      scheme:"tmall",
+      main:"tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https%3A%2F%2Fwww.tmall.com%2F",
+      start: "tmall://m.tb.cn/h." + pvStr,
+      end:""
+    }
+    var dtScheme = {
+      scheme:"taobaoliveshare",
+      main:"taobaoliveshare://m.taobaolive.com/home.html",
+      start: "taobaoliveshare://m.tb.cn/h." + pvStr,
+      end:""
+    }
+    var schemes = {
+      1:[taobaoScheme],
+      2:[tmScheme,dtScheme],
+      3:[taobaoScheme,tmScheme,dtScheme]
+    }
+    var scheme = schemes[More]
+    var taskList = DATA.activity.taskList
+
+
+    taskList = taskList.map((v) => DATA.taskData[v]);
+
+    scheme.map((s) => {
+
+      taskList.map((oneTask) => {
+
+        var itme = oneTask.task.item;
+        var before = oneTask.task.before;
+        var baseUrl = oneTask.task.baseurl
+        var wait = oneTask.task.wait
+        var paramObj = oneTask.task.param
+        //start
+        if (s?.start){
+          data.push({
+            url:s.start,
+            wait:5
+          })
+        }
+
+
+        //before
+        before.map((v) => {
+          data.push({
+            url:s.scheme + v.url,
+            wait:v.wait
+          })
+        })
+        data.push({
+          url:s.main,
+          wait:5
+        })
+
+        //任务
+        itme.map((v,i) => {
+
+          var str = v;
+          var params = str.split(' ');
+          var url = baseUrl;
+
+
+          for (var key in paramObj){
+
+            var paramArr = paramObj[key]
+            var reg = new RegExp(`${key}`,'g')
+            var str = paramArr[Math.floor((Math.random()*paramArr.length))]
+            url = url.replace(reg,str);
+          }
+          //替换参数2
+          params.map((v,i) => {
+            if (v){
+              var num = i+1;
+              var reg = new RegExp(`占位参数${num}`,'g')
+              url = url.replace(reg,v);
+            }
+          });
+
+          data.push({
+            url:s.scheme + url,
+            wait:wait
+          })
+
+          if (i%3 === 0 && i !== 0){
+            data.push({
+              url:s.main,
+              wait:5
+            })
+          }
+        })
+
+
+      })
+    })
+
+    if (runNum > 0 && runNum != 1){
+      data = data.splice(runNum - 1,data.length);
+    }
+
+    var dd = {
+      succes: 'ok',
+      data:data
+    };
+
+    return JSON.stringify(dd);
+  };
