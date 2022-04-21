@@ -6,7 +6,7 @@ function run () {
     var taobaoScheme = {
       scheme:"taobao",
       main:"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
-      start: "taobao//m.tb.cn/h." + pvStr,
+      start: "taobao://m.tb.cn/h." + pvStr,
       end:"",
       
     }
