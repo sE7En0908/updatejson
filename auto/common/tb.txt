@@ -7,13 +7,15 @@ function run () {
       scheme:"taobao",
       main:"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
       start: "taobao//m.tb.cn/h." + pvStr,
-      end:""
+      end:"",
+      
     }
     var tmScheme = {
-      scheme:"tmall",
+      scheme:"tmall://page.tm/appLink?&action=ali.open.nav&h5Url=",
       main:"tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https%3A%2F%2Fwww.tmall.com%2F",
-      start: "tmall://m.tb.cn/h." + pvStr,
-      end:""
+      start: "tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https://m.tb.cn/h." + pvStr,
+      end:"",
+      type:"url"
     }
     var dtScheme = {
       scheme:"taobaoliveshare",
@@ -53,7 +55,7 @@ function run () {
         //before
         before.map((v) => {
           data.push({
-            url:s.scheme + v.url,
+            url: s.type ? s.scheme + encodeURIComponent('https' + v.url):s.scheme + v.url,
             wait:v.wait
           })
         })
@@ -87,7 +89,7 @@ function run () {
           });
 
           data.push({
-            url:s.scheme + url,
+            url:s.type ? s.scheme + encodeURIComponent('https' + url):s.scheme + url,
             wait:wait
           })
 
