@@ -93,7 +93,7 @@ function run () {
             wait:wait
           })
 
-          if (i%3 === 0 && i !== 0){
+          if (i%2 === 0 && i !== 0){
             data.push({
               url:s.main,
               wait:5
