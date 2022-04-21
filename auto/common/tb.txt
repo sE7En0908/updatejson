@@ -24,8 +24,8 @@ function run () {
       end:""
     }
     var schemes = {
-      1:[dtScheme],
-      2:[tmScheme,dtScheme],
+      1:[taobaoScheme],
+      2:[tmScheme,taobaoScheme],
       3:[taobaoScheme,tmScheme,dtScheme]
     }
     var scheme = schemes[More]
