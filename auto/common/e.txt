@@ -17,7 +17,7 @@ function run () {
     var zfbScheme = {
       scheme:"alipays://platformapi/startapp?appId=20000067&url=",
       main:"alipays://platformapi/startapp?appId=20000001",
-      start: "alipays://platformapi/startapp?appId=20000067&url=https%3A%2F%2Fh5.ele.me%2Fsvip%2Ftask-list",
+      start: "alipays://platformapi/startapp?appId=20000120",
       end:""
     }
     var schemes = {
