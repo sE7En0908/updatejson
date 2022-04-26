@@ -23,7 +23,9 @@ function run () {
     var schemes = {
       1:[elmScheme],
       2:[elmScheme,taobaoScheme],
-      3:[elmScheme,taobaoScheme,zfbScheme]
+      3:[elmScheme,taobaoScheme,zfbScheme],
+      4:[zfbScheme],
+      5:[taobaoScheme]
     }
     var scheme = schemes[More]
     var taskList = DATA.activity.taskList
