@@ -38,7 +38,7 @@ function run () {
         var itme = oneTask.task.item;
         var before = oneTask.task.before;
         //start
-        if (s?.start){
+        if ( s && s.start){
           data.push({
             url:s.start,
             wait:5
