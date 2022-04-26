@@ -44,7 +44,7 @@ function run () {
         var wait = oneTask.task.wait
         var paramObj = oneTask.task.param
         //start
-        if (s?.start){
+        if (s && s.start){
           data.push({
             url:s.start,
             wait:5
