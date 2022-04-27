@@ -1,8 +1,9 @@
 {
     "activity":{
 
-        "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n",
+        "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n此版本不再更新，尽快下新版本",
         "list":[
+                "新版本，新增多账号点我更新",
                 
                 "❤️淘宝-农场 2022-04-27更新❤️",
                
@@ -16,6 +17,9 @@
                 
             ],
         "mapping" :{
+             "新版本，新增多账号点我更新":{
+                "url":"https://www.icloud.com/shortcuts/f3f1a19c04e04b0ba18fdef41974aff6"
+            },
             "交流·反馈 qq群":{
                         "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=560582502&card_type=group&source=qrcode"
                     },
