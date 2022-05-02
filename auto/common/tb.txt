@@ -1,5 +1,5 @@
 function run () {
-    var pvStr = 'fLClNoX';
+    var pvStr = 'frhQDlg';
     var data = [];
     var More = configValue ? configValue : 1;
 
