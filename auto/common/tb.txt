@@ -1,5 +1,6 @@
 function run () {
     var pvStr = 'ftxU6u6';
+    var endStr = 'fH9oFm7';
     var data = [];
     var More = configValue ? configValue : 1;
 
@@ -7,21 +8,21 @@ function run () {
       scheme:"taobao",
       main:"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
       start: "taobao://m.tb.cn/h." + pvStr,
-      end:"",
+      end:"taobao://m.tb.cn/h." + endStr,
       
     }
     var tmScheme = {
       scheme:"tmall://page.tm/appLink?&action=ali.open.nav&h5Url=",
       main:"tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https%3A%2F%2Fwww.tmall.com%2F",
       start: "tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https://m.tb.cn/h." + pvStr,
-      end:"",
+      end:"tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https://m.tb.cn/h." + endStr,
       type:"url"
     }
     var dtScheme = {
       scheme:"taobaoliveshare",
       main:"taobaoliveshare://m.taobaolive.com/home.html",
       start: "taobaoliveshare://m.tb.cn/h." + pvStr,
-      end:""
+      end:"taobaoliveshare://m.tb.cn/h." + endStr,
     }
     var schemes = {
       1:[taobaoScheme],
@@ -49,6 +50,12 @@ function run () {
         if (s && s.start){
           data.push({
             url:s.start,
+            wait:5
+          })
+        }
+        if (s && s.end){
+          data.push({
+            url:s.end,
             wait:5
           })
         }
