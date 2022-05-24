@@ -107,7 +107,7 @@ function runTask() {
       }
 
 
-      if (urlItem.length !== 0 && DB.run == 1 && nowToken){
+      if (urlItem.length !== 1 && DB.run == 1 && nowToken){
 
         var baseUrl = oneTask.task.baseurl
         itme.map((v,i) => {
