@@ -31,7 +31,7 @@ function runTask() {
       var items = []
       var urlItem = []
       var baseUrl = scheme.scheme + ckUrl;
-     
+
       for (var item of data.data?.model) {
         if (item.progress.needTimes !== '0') {
           var num = item.progress.needTimes * 1
@@ -53,7 +53,7 @@ function runTask() {
                 b.pop();
                 nowImplId = b.join('_') + '_' +(index*1 + i)
                 DB.items.push(`${deliveryId} ${nowImplId}`)
-                var url = scheme.scheme + baseUrl + `&implId=${nowImplId}&deliveryId=${deliveryId}&fromToken=${fromToken}`
+                var url =  baseUrl + `&implId=${nowImplId}&deliveryId=${deliveryId}&fromToken=${fromToken}`
 
                 for (var key in paramObj){
 
@@ -69,7 +69,7 @@ function runTask() {
               }
             }else {
               DB.items.push(`${deliveryId} ${implId}`)
-              var url = scheme.scheme + baseUrl + `&implId=${implId}&deliveryId=${deliveryId}&fromToken=${fromToken}`
+              var url =  baseUrl + `&implId=${implId}&deliveryId=${deliveryId}&fromToken=${fromToken}`
               for (var key in paramObj){
 
                 var paramArr = paramObj[key]
@@ -169,7 +169,6 @@ function runTask() {
     }
 
   }
-
 
 function run () {
     var ck = cookies.replace(/\s+/g,"");
