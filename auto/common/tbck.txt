@@ -1,3 +1,4 @@
+
 function runTask() {
 
     var pvStr = 'ftxU6u6';
@@ -31,7 +32,7 @@ function runTask() {
       var items = []
       var urlItem = []
       var baseUrl = scheme.scheme + ckUrl;
-
+      nowToken = item.taskParams.fromToken;
       for (var item of data.data?.model) {
         if (item.progress.needTimes !== '0') {
           var num = item.progress.needTimes * 1
@@ -43,7 +44,7 @@ function runTask() {
 
           if(!DB.keys[deliveryId]){
             DB.keys[deliveryId] = true;
-            nowToken = fromToken;
+            
             //获取key
 
             if (num > 1){
@@ -107,14 +108,14 @@ function runTask() {
       }
 
 
-      if (urlItem.length !== 1 && DB.run == 1 && nowToken){
+      if (urlItem.length !== 0 && DB.run == 1 && nowToken){
 
-        var baseUrl = oneTask.task.baseurl
+        var baseUrl = oneTask.task.ckitemUrl
         itme.map((v,i) => {
 
           var str = v;
           var params = str.split(' ');
-          var url = baseUrl;
+          var url = baseUrl + '&fromToken=' + nowToken;
 
 
           for (var key in paramObj){
@@ -169,6 +170,8 @@ function runTask() {
     }
 
   }
+
+
 
 function run () {
     var ck = cookies.replace(/\s+/g,"");
