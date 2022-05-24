@@ -171,6 +171,7 @@ function runTask() {
   }
 
 function run () {
+    var tag = ALLDATA.tag
     var ck = cookies.replace(/\s+/g,"");
     var t = getCookie(ck,"_m_h5_tk");
     if (t){
@@ -178,7 +179,7 @@ function run () {
         succes: 'ok',
         data:{
           ck:ck,
-          url:`https://service-qd1gmnyf-1257225808.sh.apigw.tencentcs.com/release/getUrl?t=${t}&k=jn`
+          url:`https://service-qd1gmnyf-1257225808.sh.apigw.tencentcs.com/release/getUrl?t=${t}&k=${tag}`
         }
       };
 
