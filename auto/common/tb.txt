@@ -62,11 +62,17 @@ function run () {
 
 
         //before
-        before.map((v) => {
+        before.map((v,i) => {
           data.push({
             url: s.type ? s.scheme + encodeURIComponent('https' + v.url):s.scheme + v.url,
             wait:v.wait
           })
+          if (i%2 === 0){
+            data.push({
+              url:s.main,
+              wait:5
+            })
+          }
         })
         data.push({
           url:s.main,
