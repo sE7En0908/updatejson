@@ -1,0 +1,199 @@
+function runTask() {
+
+    var pvStr = 'ftxU6u6';
+    var endStr = 'fH9oFm7';
+
+    var taobaoScheme = {
+      scheme:"taobao",
+      main:"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
+      start: "taobao://m.tb.cn/h." + pvStr,
+      end:"taobao://m.tb.cn/h." + endStr,
+
+    }
+
+    var scheme = taobaoScheme;
+    if (!DB){
+      DB = {
+        run:0,
+        keys:{},
+        items:[],
+      }
+    }
+    DB.run = DB.run + 1;
+    var taskList = ALLDATA.activity.taskList
+    var oneTask = ALLDATA.taskData[taskList[0]];
+    var itme = oneTask.task.ckItem;
+    var ckUrl = oneTask.task.ckurl
+    var wait = oneTask.task.wait
+    var paramObj = oneTask.task.param
+    var nowToken = ""
+    if (data.ret && data.ret[0] == "SUCCESS::调用成功" && data.data?.model) {
+      var items = []
+      var urlItem = []
+      var baseUrl = scheme.scheme + ckUrl;
+
+      for (var item of data.data?.model) {
+        if (item.progress.needTimes !== '0') {
+          var num = item.progress.needTimes * 1
+          var index = item.progress.times
+
+          var deliveryId = item.taskParams.deliveryId
+          var implId = item.taskParams.implId
+          var fromToken = item.taskParams.fromToken
+
+          if(!DB.keys[deliveryId]){
+            DB.keys[deliveryId] = true;
+            nowToken = fromToken;
+            //获取key
+
+            if (num > 1){
+              for (var i = 0; i < num ; i++){
+                var nowImplId = implId
+                var b = nowImplId.split('_');
+                b.pop();
+                nowImplId = b.join('_') + '_' +(index*1 + i)
+                DB.items.push(`${deliveryId} ${nowImplId}`)
+                var url = scheme.scheme + baseUrl + `&implId=${nowImplId}&deliveryId=${deliveryId}&fromToken=${fromToken}`
+
+                for (var key in paramObj){
+
+                  var paramArr = paramObj[key]
+                  var reg = new RegExp(`${key}`,'g')
+                  var str = paramArr[Math.floor((Math.random()*paramArr.length))]
+                  url = url.replace(reg,str);
+                }
+                urlItem.push({
+                  url:url,
+                  wait:wait
+                })
+              }
+            }else {
+              DB.items.push(`${deliveryId} ${implId}`)
+              var url = scheme.scheme + baseUrl + `&implId=${implId}&deliveryId=${deliveryId}&fromToken=${fromToken}`
+              for (var key in paramObj){
+
+                var paramArr = paramObj[key]
+                var reg = new RegExp(`${key}`,'g')
+                var str = paramArr[Math.floor((Math.random()*paramArr.length))]
+                url = url.replace(reg,str);
+              }
+              urlItem.push({
+                url:url,
+                wait:wait
+              })
+            }
+
+
+
+          }
+
+
+        }
+      }
+      var urlD = [ ]
+      if (DB.run == 1){
+        urlD.push({
+            url:scheme.start,
+            wait:5
+          })
+        urlD.push({
+          url:scheme.end,
+          wait:5
+        })
+        urlD.push({
+          url:scheme.main,
+          wait:5
+        })
+      }
+
+
+      if (urlItem.length !== 0 && DB.run == 1 && nowToken){
+
+        var baseUrl = oneTask.task.baseurl
+        itme.map((v,i) => {
+
+          var str = v;
+          var params = str.split(' ');
+          var url = baseUrl;
+
+
+          for (var key in paramObj){
+
+            var paramArr = paramObj[key]
+            var reg = new RegExp(`${key}`,'g')
+            var str = paramArr[Math.floor((Math.random()*paramArr.length))]
+            url = url.replace(reg,str);
+          }
+          //替换参数2
+          params.map((v,i) => {
+            if (v){
+              var num = i+1;
+              var reg = new RegExp(`占位参数${num}`,'g')
+              url = url.replace(reg,v);
+            }
+          });
+
+          urlItem.push({
+            url:scheme.type ? scheme.scheme + encodeURIComponent('https' + url):scheme.scheme + url,
+            wait:wait
+          })
+
+        })
+      }
+
+      urlItem.map((v,i) => {
+        urlD.push(v)
+        if (i !== 0 && i % 2 === 0){
+          urlD.push({
+            url:scheme.main,
+            wait:5
+          })
+        }
+      })
+
+      var dd = {
+        succes: 'ok',
+        data:urlD,
+        db:DB,
+      };
+      if (nowToken){
+        dd.token = nowToken;
+      }
+      if (urlItem.length === 0){
+        dd.end = scheme.end;
+      }
+
+      return JSON.stringify(dd);
+    }else {
+      return ;
+    }
+
+  }
+
+function run () {
+    var ck = cookies.replace(/\s+/g,"");
+    var t = getCookie(ck,"_m_h5_tk");
+    if (t){
+      var dd = {
+        succes: 'ok',
+        data:{
+          ck:ck,
+          url:`https://service-qd1gmnyf-1257225808.sh.apigw.tencentcs.com/release/getUrl?t=${t}&k=jn`
+        }
+      };
+
+      return JSON.stringify(dd);
+    }
+    return ""
+
+  }
+
+  function getCookie(cookie,name) {
+    let cookieArr = cookie.split(";");
+    let obj = {}
+    cookieArr.forEach((i) => {
+      let arr = i.split("=");
+      obj[arr[0]] =arr[1];
+    });
+    return obj[name]
+  }
