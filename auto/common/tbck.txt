@@ -31,7 +31,7 @@ function runTask() {
       var items = []
       var urlItem = []
       var baseUrl = scheme.scheme + ckUrl;
-      nowToken = item.taskParams.fromToken;
+     
       for (var item of data.data?.model) {
         if (item.progress.needTimes !== '0') {
           var num = item.progress.needTimes * 1
@@ -40,7 +40,7 @@ function runTask() {
           var deliveryId = item.taskParams.deliveryId
           var implId = item.taskParams.implId
           var fromToken = item.taskParams.fromToken
-
+          nowToken = fromToken;
           if(!DB.keys[deliveryId]){
             DB.keys[deliveryId] = true;
 
