@@ -23,7 +23,7 @@ function runTask() {
     var taskList = ALLDATA.activity.taskList
     var oneTask = ALLDATA.taskData[taskList[0]];
     var itme = oneTask.task.ckItem;
-    var outItme = oneTask.task.outItme;
+    var outItme = oneTask.task.outItem ? oneTask.task.outItem : [];
     var ckUrl = oneTask.task.ckurl
     var wait = oneTask.task.wait
     var paramObj = oneTask.task.param
