@@ -1,0 +1,28 @@
+function run () {
+    var tag = "tm618"
+    var ck = cookies.replace(/\s+/g,"");
+    var t = getCookie(ck,"_m_h5_tk");
+    if (t){
+      var dd = {
+        succes: 'ok',
+        data:{
+          ck:ck,
+          url:`https://service-qd1gmnyf-1257225808.sh.apigw.tencentcs.com/release/getUrl?t=${t}&k=${tag}`
+        }
+      };
+
+      return JSON.stringify(dd);
+    }
+    return ""
+
+  }
+
+  function getCookie(cookie,name) {
+    let cookieArr = cookie.split(";");
+    let obj = {}
+    cookieArr.forEach((i) => {
+      let arr = i.split("=");
+      obj[arr[0]] =arr[1];
+    });
+    return obj[name]
+  }
