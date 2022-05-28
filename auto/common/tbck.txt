@@ -23,6 +23,7 @@ function runTask() {
     var taskList = ALLDATA.activity.taskList
     var oneTask = ALLDATA.taskData[taskList[0]];
     var itme = oneTask.task.ckItem;
+    var outItme = oneTask.task.ckItem;
     var ckUrl = oneTask.task.ckurl
     var wait = oneTask.task.wait
     var paramObj = oneTask.task.param
@@ -45,8 +46,8 @@ function runTask() {
             DB.keys[deliveryId] = true;
 
             //获取key
-
-            if (num > 1){
+            if (!(outItme.includes(deliveryId))){
+                 if (num > 1){
               for (var i = 0; i < num ; i++){
                 var nowImplId = implId
                 var b = nowImplId.split('_');
@@ -83,7 +84,10 @@ function runTask() {
               })
             }
 
+            
+            }
 
+           
 
           }
 
