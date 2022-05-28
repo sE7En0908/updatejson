@@ -28,12 +28,12 @@ function runTask() {
     var wait = oneTask.task.wait
     var paramObj = oneTask.task.param
     var nowToken = ""
-    if (data.ret && data.ret[0] == "SUCCESS::调用成功" && data.data?.model) {
+    if (data.ret && data.ret[0] == "SUCCESS::调用成功" && data.data && data.data.model) {
       var items = []
       var urlItem = []
       var baseUrl = scheme.scheme + ckUrl;
 
-      for (var item of data.data?.model) {
+      for (var item of data.data.model) {
         if (item.progress.needTimes !== '0') {
           var num = item.progress.needTimes * 1
           var index = item.progress.times
