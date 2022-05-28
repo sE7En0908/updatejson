@@ -111,7 +111,7 @@ function runTask() {
       }
 
 
-      if (urlItem.length !== 0 && DB.run == 1 && nowToken){
+      if (DB.run == 1 && nowToken){
 
         var baseUrl = oneTask.task.ckitemUrl
         itme.map((v,i) => {
