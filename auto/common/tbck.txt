@@ -1,7 +1,7 @@
 function runTask() {
 
     var pvStr = 'ftxU6u6';
-    var endStr = 'fH9oFm7';
+    var endStr = 'ftgLBza';
 
     var taobaoScheme = {
       scheme:"taobao",
