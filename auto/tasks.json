@@ -26,10 +26,10 @@
                 "action":"setfile",
                 "type":"addTask"
             },
-            "淘宝-双十一喵糖":{
-                "name":"淘宝-双十一喵糖",
-                "tasks":["双十一养猫"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/cat.json",
+            "淘宝-拍卖币":{
+                "name":"淘宝-拍卖币",
+                "tasks":["拍卖币"],
+                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/pm.json",
                
                 "action":"setfile",
                 "type":"addTask"
