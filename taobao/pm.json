@@ -1,0 +1,119 @@
+{
+    "activity":{
+
+        "tip":"请在网络好的地方执行\n有些任务可能失败 需要手动\n",
+        "list":[
+                
+                "❤️淘宝-拍卖币❤️",
+               
+                "美团红包",
+                "饿了么红包",
+                "交流·反馈 qq群"
+            
+              
+                
+            ],
+        "mapping" :{
+            "交流·反馈 qq群":{
+                        "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=617186271&card_type=group&source=qrcode"
+                    },
+            "美团红包":{
+                "url":"imeituan://www.meituan.com/web?lch=cps:waimai:3:776c2adbab1063dbf7bb27b032eccb42:weixin194:2:80292&url=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D1%26p%3DOWMpZ-uzIFOVe6JyOONs3dXuqV0qcAf-r-KCvHdXiNeHGrf99tjKfEFmfKD5wE8tIKFZ5trT0sOMBI8PYBI709TQrHSowZ35lT3KWxR5a72vQtwrwa1jUpHSHlsPQ3wBH50kzjqu3xTNw3PB3roiT2P2MWrO42CJ2lWJd7PKSHsq7SN-lPlsxVNr-c3nhOZlzawAIr5UyPJjc9kRfnAhGytXnltosMtnrJ4-9fEOLfYcYn1hYyDi1pO1mZxZYFcHVaTZ7wo6zUcGkJ9ItxKfslK20asctpDoufdkj2gOK66MIO_E0-GFVB9nJtuWIF02y5LhdVrEh5ZhzlUhXuwSs7abZ1dbqqz4iLIK-XMwHWFt8hqiPJDLqN1KPbyuqfK0C-muxSJTCZNQxRHJYI6zQAskG7LvEhXxrmu3vEcbJ4hhFalkXdPf0W5opucJJRXCEr47CL5dm9L95FIVMLqeCJJ5CE_ghZ2nAjHWmMLUIxXFy6IujV9DipHPcMPs8ZmoZ0SpSCfFgFHdEXj0cRllpHsledjfVhcds2gty75ozk5vwCDgaO6ixMXqlH1193CtPpMtUDqH-iLaM2A0gxcmJ3gXk5UWz5vX-oQbH-Yjy0Ql7Mn_OEV_b_qDyBYgyrb7unXIthK-lehqig2yh0Nd0PV85jl3TZYOTtcA3YycoWhilLGW2wcCjY31r1QDkEgP"
+            },
+            "饿了么红包":{
+                "url":"eleme://web?url=https://m.tb.cn/h.fHjEo2X"
+            },
+           "8月2-15支付宝天天领红包":{
+                "url":"alipays://platformapi/startapp?appId=68687715&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fc%2F180020180000047875%2Fpages%2Findex%2Findex.html%3FuserId%3D2088802913327612&userId=2088802913327612&titlePenetrate=YES&chInfo=ch_share__chsub_CopyLink"
+            },
+            "淘特-天天领红包":{
+                 "url":"taobao://m.tb.cn/h.fcElrTQ"
+            
+            },
+            "美食币活动入口":{
+                "url":"taobao://huodong.m.taobao.com/act/snipcodeupdate.html?_ariver_appid=1000473"
+            },
+            "交流群":{
+                "list":{
+                    "qq":""
+                }
+            },
+            "淘礼金情报群":{
+                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=596783999&card_type=group&source=qrcode"
+            },
+            
+
+           
+
+            
+            "❤️淘宝-拍卖币❤️":{
+                "type":"task",
+                "key":["拍卖币"]
+                
+            }
+            
+            
+        }
+                
+    },
+
+    "taskData":{
+           
+             
+
+            "拍卖币":{
+                "type":"task1",
+              
+                "endpage": "taobao://m.tb.cn/h.fHSuQIL",
+                "main":"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
+                "endMessage":"奥运任务结束",
+                
+                "task":{
+                    "tag":"paimai",
+                    "scheme":"taobao://m.taobao.com/tbopen/index.html?h5Url=",
+                    "baseurl":"https://shop.m.taobao.com/shop/shop_index.htm?shopId=商品定位&shop_id=商品定位&disableNav=YES&wh_biz=tm&hd_from_id=100086&fromToken=OrM8n2PcbbKbvzYNcPaCjAfVUJUrUj&implId=占位参数2&deliveryId=占位参数1&sceneId=1560",
+                    "wait":23,
+                    "wait2":"",
+                    "param":{
+                        "商品定位":[62377409,104736810,229005812,116845644,60790435,68491548,110224300]
+                    },
+                    "before":[
+                      
+                         {
+                        "url":"taobao://m.tb.cn/h.ftjmVN6",
+                        "wait":2
+                        }
+                    ],
+                    "item":[
+                        "22529 other_154_673016_22529_0",
+                       "22464 other_155_874006_22464_0",
+                       "28680 other_8_885027_28680_0",
+                       "26063 other_76_800012_26063_0",
+                       "26227 other_61_807001_26227_0",
+                       "26679 other_47_852004_26679_0",
+                       "26877 other_42_869002_26877_0",
+                       "27006 other_39_873002_27006_0",
+                       "24474 other_120_754024_24474_0",
+                       "22207 other_166_663003_22207_0",
+                       "28264 auctionruby_14_4096_28264_0",
+                       "28264 auctionruby_14_4096_28264_1",
+                       "28264 auctionruby_14_4096_28264_2",
+                       "28264 auctionruby_14_4096_28264_3",
+                       "28264 auctionruby_14_4096_28264_4",
+                        "27327 other_33_879025_27327_0",
+
+                        "28923 other_2_926006_28923_0",
+                        "28681 other_8_908021_28681_0",
+                        "28905 other_0_911003_28905_0",
+                        "28457 other_12_885026_28457_0",
+                        "22499 other_159_902009_22499_0",
+                        "28664 other_1_889039_28664_0"
+                    
+                    ]
+                }
+            }
+
+
+
+    }
+}
