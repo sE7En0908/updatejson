@@ -1,6 +1,6 @@
 function run () {
-    var pvStr = 'ftxU6u6';
-    var endStr = 'fHSuQIL';
+    var pvStr = 'fDSVrOk';
+    var endStr = 'fDSVrOk';
     var data = [];
     var More = configValue ? configValue : 1;
 
@@ -8,21 +8,21 @@ function run () {
       scheme:"taobao",
       main:"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
       start: "taobao://m.tb.cn/h." + pvStr,
-      end:"taobao://m.tb.cn/h." + endStr,
+      end:"taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
       
     }
     var tmScheme = {
       scheme:"tmall://page.tm/appLink?&action=ali.open.nav&h5Url=",
       main:"tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https%3A%2F%2Fwww.tmall.com%2F",
       start: "tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https://m.tb.cn/h." + pvStr,
-      end:"tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https://m.tb.cn/h." + endStr,
+      end:"tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https%3A%2F%2Fwww.tmall.com%2F",
       type:"url"
     }
     var dtScheme = {
       scheme:"taobaoliveshare",
       main:"taobaoliveshare://m.taobaolive.com/home.html",
       start: "taobaoliveshare://m.tb.cn/h." + pvStr,
-      end:"taobaoliveshare://m.tb.cn/h." + endStr,
+      end:"taobaoliveshare://m.taobaolive.com/home.html",
     }
     var schemes = {
       1:[taobaoScheme],
