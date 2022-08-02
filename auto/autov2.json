@@ -1,307 +1,303 @@
 {
-    "activity":{
-
-        "tip":"第一步：点击任务设置添加任务\n第二步：重新运行选择运行任务\n----------------------\n 如果需要多组任务或者删除任务\n选择任务设置\n----------------------\n其他操作可以加群或公众号查看\n-----------------------\n公众号：九条爱吃鱼",
-        "list":[
-                "运行任务",
-                "任务设置",
-                "饿了么红包",
-                "美团红包",
-                "交流·反馈 qq群"
-            
-              
-                
-            ],
-        "mapping" :{
-
-            "帮我pdd助力😁":{
-                        "action":"copyAndUrl",
-                        
-                        "tip":"微信号已复制到剪切板，\n是否打开微信加好友？",
-                        "url":"pinduoduo://",
-                        "txt":"🍶WnCPCF🤣ivvmKt2😁感谢U啦(ૢ˃ꌂ˂⁎)"
-                    },
-
-            "淘特-领红包":{
-                "url":"taobao://m.tb.cn/h.fcElrTQ"
-            },        
-
-
-            "美团红包":{
-                "url":"imeituan://www.meituan.com/web?lch=cps:waimai:3:776c2adbab1063dbf7bb27b032eccb42:weixin194:2:80292&url=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D1%26p%3DOWMpZ-uzIFOVe6JyOONs3dXuqV0qcAf-r-KCvHdXiNeHGrf99tjKfEFmfKD5wE8tIKFZ5trT0sOMBI8PYBI709TQrHSowZ35lT3KWxR5a72vQtwrwa1jUpHSHlsPQ3wBH50kzjqu3xTNw3PB3roiT2P2MWrO42CJ2lWJd7PKSHsq7SN-lPlsxVNr-c3nhOZlzawAIr5UyPJjc9kRfnAhGytXnltosMtnrJ4-9fEOLfYcYn1hYyDi1pO1mZxZYFcHVaTZ7wo6zUcGkJ9ItxKfslK20asctpDoufdkj2gOK66MIO_E0-GFVB9nJtuWIF02y5LhdVrEh5ZhzlUhXuwSs7abZ1dbqqz4iLIK-XMwHWFt8hqiPJDLqN1KPbyuqfK0C-muxSJTCZNQxRHJYI6zQAskG7LvEhXxrmu3vEcbJ4hhFalkXdPf0W5opucJJRXCEr47CL5dm9L95FIVMLqeCJJ5CE_ghZ2nAjHWmMLUIxXFy6IujV9DipHPcMPs8ZmoZ0SpSCfFgFHdEXj0cRllpHsledjfVhcds2gty75ozk5vwCDgaO6ixMXqlH1193CtPpMtUDqH-iLaM2A0gxcmJ3gXk5UWz5vX-oQbH-Yjy0Ql7Mn_OEV_b_qDyBYgyrb7unXIthK-lehqig2yh0Nd0PV85jl3TZYOTtcA3YycoWhilLGW2wcCjY31r1QDkEgP"
-            },
-            "饿了么红包":{
-                "url":"eleme://web?url=https://m.tb.cn/h.fHjEo2X"
-            },
-            "8月2-15支付宝天天领红包":{
-                "url":"alipays://platformapi/startapp?appId=68687715&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fc%2F180020180000047875%2Fpages%2Findex%2Findex.html%3FuserId%3D2088802913327612&userId=2088802913327612&titlePenetrate=YES&chInfo=ch_share__chsub_CopyLink"
-            },
-            
-            
-            "任务设置":{
-                "tip":"自动化任务组可以每天定时做任务\n------------------------\n如果不会操作可以加群或者关注公众号\n------------------------- \n公众号：九条爱吃鱼\n",
-               "list":[
-                "添加新任务",
-                "删除任务",
-                "添加任务组",
-                "删除任务组",
-                "选择自动化任务组",
-                "设置运行时亮度，通知，静音",
-                
-                "返回"
-            ],
-            "mapping" : {
-                "添加新任务":{
-                "name":"添加新任务",
-                "action":"more",
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/auto/tasks.json"
-                },
-                "删除任务":{
-                    "action":"setfile",
-                    "type":"delTask"
-                },
-                "添加任务组":{
-                     "action":"setfile",
-                     "type":"addGroup"
-                },
-                "删除任务组":{
-                    "action":"setfile",
-                    "type":"delGroup"
-                },
-                 "选择自动化任务组":{
-                     "action":"setfile",
-                    "type":"autoGroup"
-                 },
-                 "设置运行时亮度，通知，静音":{
-                    "action":"setfile",
-                    "type":"setConfig"
-                 },
-                "设置多账号或快速模式":{
-                    "action":"setfile",
-                    "type":"setModule"
-                 },
-                "返回":{
-                     "action":"pop"
-                }
-            }
-            },
-            "运行任务":{
-                "action":"runTask"
-            },
-            "交流·反馈 qq群":{
-                "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=560582502&card_type=group&source=qrcode"
-            },
-            "双十一助力群":{
-                "tip":"",
-                "list":[
-                        
-                        "双十一助力 qq群",
-                        "交流·反馈 qq群",
-                        
-                        "返回"
-                    
-                    
-                        
-                    ],
-                "mapping" :{
-                
-                    "返回":{
-                        "action":"pop"
-                    },
-                    "加我微信":{
-                        "action":"copyAndUrl",
-                        "select":true,
-                        "tip":"微信号已复制到剪切板，\n是否打开微信加好友？",
-                        "url":"weixin://",
-                        "txt":"ohkefu001"
-                    },
-                    "交流·反馈 qq群":{
-                        "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=560582502&card_type=group&source=qrcode"
-                    },
-                    "双十一助力 qq群":{
-                        "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=292599024&card_type=group&source=qrcode"
-                    },
-                    "双十一助力 微信群":{
-                        "action":"qrcode",
-                        "qrcode":"abc"
-                    },
-                    "交流·反馈 微信群":{
-                        "action":"qrcode",
-                        "qrcode":"abc"
-                    },
-                    "淘礼金情报群":{
-                        "url":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=596783999&card_type=group&source=qrcode"
-                    }
-                    
-            
-                }
-                
-            },
-            "其他红包":{
-                "name":"其他红包",
-                "action":"more",
-                "url":"https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/auto/more.json"
-            }
-        }
-                
+  "activity" : {
+    "list" : [
+      "运行任务",
+      "任务设置",
+      "饿了么红包",
+      "美团红包",
+      "交流·反馈 qq群"
+    ],
+    "mapping" : {
+      "8月2-15支付宝天天领红包" : {
+        "url" : "alipays://platformapi/startapp?appId=68687715&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fc%2F180020180000047875%2Fpages%2Findex%2Findex.html%3FuserId%3D2088802913327612&userId=2088802913327612&titlePenetrate=YES&chInfo=ch_share__chsub_CopyLink"
+      },
+      "交流·反馈 qq群" : {
+        "url" : "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=560582502&card_type=group&source=qrcode"
+      },
+      "任务设置" : {
+        "list" : [
+          "添加新任务",
+          "删除任务",
+          "添加任务组",
+          "删除任务组",
+          "选择自动化任务组",
+          "设置运行时亮度，通知，静音",
+          "返回"
+        ],
+        "mapping" : {
+          "删除任务" : {
+            "action" : "setfile",
+            "type" : "delTask"
+          },
+          "删除任务组" : {
+            "action" : "setfile",
+            "type" : "delGroup"
+          },
+          "添加任务组" : {
+            "action" : "setfile",
+            "type" : "addGroup"
+          },
+          "添加新任务" : {
+            "action" : "more",
+            "name" : "添加新任务",
+            "url" : "https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/auto/tasks.json"
+          },
+          "设置多账号或快速模式" : {
+            "action" : "setfile",
+            "type" : "setModule"
+          },
+          "设置运行时亮度，通知，静音" : {
+            "action" : "setfile",
+            "type" : "setConfig"
+          },
+          "返回" : {
+            "action" : "pop"
+          },
+          "选择自动化任务组" : {
+            "action" : "setfile",
+            "type" : "autoGroup"
+          }
+        },
+        "tip" : "自动化任务组可以每天定时做任务\n------------------------\n如果不会操作可以加群或者关注公众号\n------------------------- \n公众号：九条爱吃鱼\n"
+      },
+      "其他红包" : {
+        "action" : "more",
+        "name" : "其他红包",
+        "url" : "https://gitee.com/www.linghaishenghuo.com/updatejson/raw/master/auto/more.json"
+      },
+      "双十一助力群" : {
+        "list" : [
+          "双十一助力 qq群",
+          "交流·反馈 qq群",
+          "返回"
+        ],
+        "mapping" : {
+          "交流·反馈 qq群" : {
+            "url" : "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=560582502&card_type=group&source=qrcode"
+          },
+          "交流·反馈 微信群" : {
+            "action" : "qrcode",
+            "qrcode" : "abc"
+          },
+          "加我微信" : {
+            "action" : "copyAndUrl",
+            "select" : true,
+            "tip" : "微信号已复制到剪切板，\n是否打开微信加好友？",
+            "txt" : "ohkefu001",
+            "url" : "weixin://"
+          },
+          "双十一助力 qq群" : {
+            "url" : "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=292599024&card_type=group&source=qrcode"
+          },
+          "双十一助力 微信群" : {
+            "action" : "qrcode",
+            "qrcode" : "abc"
+          },
+          "淘礼金情报群" : {
+            "url" : "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=596783999&card_type=group&source=qrcode"
+          },
+          "返回" : {
+            "action" : "pop"
+          }
+        },
+        "tip" : ""
+      },
+      "帮我pdd助力😁" : {
+        "action" : "copyAndUrl",
+        "tip" : "微信号已复制到剪切板，\n是否打开微信加好友？",
+        "txt" : "🍶WnCPCF🤣ivvmKt2😁感谢U啦(ૢ˃ꌂ˂⁎)",
+        "url" : "pinduoduo://"
+      },
+      "淘特-领红包" : {
+        "url" : "taobao://m.tb.cn/h.fcElrTQ"
+      },
+      "美团红包" : {
+        "url" : "imeituan://www.meituan.com/web?lch=cps:waimai:3:776c2adbab1063dbf7bb27b032eccb42:weixin194:2:80292&url=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D1%26p%3DOWMpZ-uzIFOVe6JyOONs3dXuqV0qcAf-r-KCvHdXiNeHGrf99tjKfEFmfKD5wE8tIKFZ5trT0sOMBI8PYBI709TQrHSowZ35lT3KWxR5a72vQtwrwa1jUpHSHlsPQ3wBH50kzjqu3xTNw3PB3roiT2P2MWrO42CJ2lWJd7PKSHsq7SN-lPlsxVNr-c3nhOZlzawAIr5UyPJjc9kRfnAhGytXnltosMtnrJ4-9fEOLfYcYn1hYyDi1pO1mZxZYFcHVaTZ7wo6zUcGkJ9ItxKfslK20asctpDoufdkj2gOK66MIO_E0-GFVB9nJtuWIF02y5LhdVrEh5ZhzlUhXuwSs7abZ1dbqqz4iLIK-XMwHWFt8hqiPJDLqN1KPbyuqfK0C-muxSJTCZNQxRHJYI6zQAskG7LvEhXxrmu3vEcbJ4hhFalkXdPf0W5opucJJRXCEr47CL5dm9L95FIVMLqeCJJ5CE_ghZ2nAjHWmMLUIxXFy6IujV9DipHPcMPs8ZmoZ0SpSCfFgFHdEXj0cRllpHsledjfVhcds2gty75ozk5vwCDgaO6ixMXqlH1193CtPpMtUDqH-iLaM2A0gxcmJ3gXk5UWz5vX-oQbH-Yjy0Ql7Mn_OEV_b_qDyBYgyrb7unXIthK-lehqig2yh0Nd0PV85jl3TZYOTtcA3YycoWhilLGW2wcCjY31r1QDkEgP"
+      },
+      "运行任务" : {
+        "action" : "runTask"
+      },
+      "饿了么红包" : {
+        "url" : "eleme://web?url=https://m.tb.cn/h.fHjEo2X"
+      }
     },
-    "taskUrls":{
-            "淘宝-拍卖币":{
-                "name":"淘宝-拍卖币",
-                "tasks":["拍卖币"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/pm.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-
-            "淘宝-双十一喵糖":{
-                "name":"淘宝-双十一喵糖",
-                "tasks":["双十一养猫"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/cat.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "淘特-发财鸭":{
-                "name":"淘特-发财鸭",
-                "tasks":["发财鸭"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taote/duck.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "淘宝-活力中心任务":{
-                "name":"淘宝-活力中心任务",
-                "tasks":["活力中心"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/huolizhongxin.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "淘宝-聚划算任务":{
-                "name":"淘宝-聚划算任务",
-                "tasks":["聚划算"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/juhuasuan.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "天猫-天天领红包":{
-                "name":"天猫-天天领红包",
-                "tasks":["天天红包"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/tiantianhongbao.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-           "淘宝-美食币换美食任务":{
-                "name":"淘宝-美食币换美食任务",
-                "tasks":["食物"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/food.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "淘宝-小黑盒任务":{
-                "name":"淘宝-小黑盒任务",
-                "tasks":["黑盒"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/blackbox.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "淘特-萝卜领钱任务":{
-                "name":"淘特-萝卜领钱任务",
-                "tasks":["萝卜任务"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taote/bigRobot.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "淘特-养鸡得鸡蛋任务":{
-                "name":"淘特-养鸡得鸡蛋任务",
-                "tasks":["鸡粮食"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taote/chicken.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-             "淘特-养猫猫粮猫币任务":{
-                "name":"淘特-养猫猫粮猫币任务",
-                "tasks":["猫粮食","猫"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taote/taote.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "返回":{
-                "action":"pop"
-            },
-            "饿了么-提款机赚钱":{
-                "name":"饿了么-提款机赚钱",
-                "tasks":["饿了么提款机"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/elemeatm",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "饿了么-果园0元领水果":{
-                "name":"饿了么-果园0元领水果",
-                "tasks":["饿了么果园"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/elemeguoyuan.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "饿了么-自动领豆任务":{
-                "name":"饿了么-自动领豆任务",
-                "tasks":["饿了么自动领豆"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/eleme/dou.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "淘宝-农场任务":{
-                "name":"淘宝-农场任务",
-                "tasks":["种树"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/shuiguo.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "淘宝-签到":{
-                "name":"淘宝-签到",
-                "tasks":["淘宝签到"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/qindao.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "淘宝-淘金币务":{
-                "name":"淘宝-淘金币务",
-                "tasks":["淘金币"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/jinbi.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "淘宝-淘金币（旧版，十多个任务那种）":{
-                "name":"淘宝-淘金币（旧版，十多个任务那种）",
-                "tasks":["淘金币旧"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/jinbiOld.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            "淘宝-薅羊毛赚话费任务":{
-                "name":"淘宝-薅羊毛赚话费任务",
-                "tasks":["赚话费"],
-                "url":"https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taobao/huafei.json",
-               
-                "action":"setfile",
-                "type":"addTask"
-            },
-            
+    "tip" : "第一步：点击任务设置添加任务\n第二步：重新运行选择运行任务\n----------------------\n 如果需要多组任务或者删除任务\n选择任务设置\n----------------------\n其他操作可以加群或公众号查看\n-----------------------\n公众号：九条爱吃鱼"
+  },
+  "taskUrls" : {
+    "天猫-天天领红包" : {
+      "action" : "setfile",
+      "name" : "天猫-天天领红包",
+      "tasks" : [
+        "天天红包"
+      ],
+      "type" : "addTask",
+      "url" : "https://raw.githubusercontent.com/sE7En0908/updatejson/master/taobao/tiantianhongbao.json"
+    },
+    "淘宝-农场任务" : {
+      "action" : "setfile",
+      "name" : "淘宝-农场任务",
+      "tasks" : [
+        "种树"
+      ],
+      "type" : "addTask",
+      "url" : "https://raw.githubusercontent.com/sE7En0908/updatejson/master/taobao/shuiguo.json"
+    },
+    "淘宝-双十一喵糖" : {
+      "action" : "setfile",
+      "name" : "淘宝-双十一喵糖",
+      "tasks" : [
+        "双十一养猫"
+      ],
+      "type" : "addTask",
+      "url" : "https://raw.githubusercontent.com/sE7En0908/updatejson/master/taobao/cat.json"
+    },
+    "淘宝-小黑盒任务" : {
+      "action" : "setfile",
+      "name" : "淘宝-小黑盒任务",
+      "tasks" : [
+        "黑盒"
+      ],
+      "type" : "addTask",
+      "url" : "https://raw.githubusercontent.com/sE7En0908/updatejson/master/taobao/blackbox.json"
+    },
+    "淘宝-拍卖币" : {
+      "action" : "setfile",
+      "name" : "淘宝-拍卖币",
+      "tasks" : [
+        "拍卖币"
+      ],
+      "type" : "addTask",
+      "url" : "https://raw.githubusercontent.com/sE7En0908/updatejson/master/taobao/pm.json"
+    },
+    "淘宝-活力中心任务" : {
+      "action" : "setfile",
+      "name" : "淘宝-活力中心任务",
+      "tasks" : [
+        "活力中心"
+      ],
+      "type" : "addTask",
+      "url" : "https://raw.githubusercontent.com/sE7En0908/updatejson/master/taobao/huolizhongxin.json"
+    },
+    "淘宝-淘金币（旧版，十多个任务那种）" : {
+      "action" : "setfile",
+      "name" : "淘宝-淘金币（旧版，十多个任务那种）",
+      "tasks" : [
+        "淘金币旧"
+      ],
+      "type" : "addTask",
+      "url" : "https://raw.githubusercontent.com/sE7En0908/updatejson/master/taobao/jinbiOld.json"
+    },
+    "淘宝-淘金币务" : {
+      "action" : "setfile",
+      "name" : "淘宝-淘金币务",
+      "tasks" : [
+        "淘金币"
+      ],
+      "type" : "addTask",
+      "url" : "https://raw.githubusercontent.com/sE7En0908/updatejson/master/taobao/jinbi.json"
+    },
+    "淘宝-签到" : {
+      "action" : "setfile",
+      "name" : "淘宝-签到",
+      "tasks" : [
+        "淘宝签到"
+      ],
+      "type" : "addTask",
+      "url" : "https://raw.githubusercontent.com/sE7En0908/updatejson/master/taobao/qindao.json"
+    },
+    "淘宝-美食币换美食任务" : {
+      "action" : "setfile",
+      "name" : "淘宝-美食币换美食任务",
+      "tasks" : [
+        "食物"
+      ],
+      "type" : "addTask",
+      "url" : "https://raw.githubusercontent.com/sE7En0908/updatejson/master/taobao/food.json"
+    },
+    "淘宝-聚划算任务" : {
+      "action" : "setfile",
+      "name" : "淘宝-聚划算任务",
+      "tasks" : [
+        "聚划算"
+      ],
+      "type" : "addTask",
+      "url" : "https://raw.githubusercontent.com/sE7En0908/updatejson/master/taobao/juhuasuan.json"
+    },
+    "淘宝-薅羊毛赚话费任务" : {
+      "action" : "setfile",
+      "name" : "淘宝-薅羊毛赚话费任务",
+      "tasks" : [
+        "赚话费"
+      ],
+      "type" : "addTask",
+      "url" : "https://raw.githubusercontent.com/sE7En0908/updatejson/master/taobao/huafei.json"
+    },
+    "淘特-养猫猫粮猫币任务" : {
+      "action" : "setfile",
+      "name" : "淘特-养猫猫粮猫币任务",
+      "tasks" : [
+        "猫粮食",
+        "猫"
+      ],
+      "type" : "addTask",
+      "url" : "https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taote/taote.json"
+    },
+    "淘特-养鸡得鸡蛋任务" : {
+      "action" : "setfile",
+      "name" : "淘特-养鸡得鸡蛋任务",
+      "tasks" : [
+        "鸡粮食"
+      ],
+      "type" : "addTask",
+      "url" : "https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taote/chicken.json"
+    },
+    "淘特-发财鸭" : {
+      "action" : "setfile",
+      "name" : "淘特-发财鸭",
+      "tasks" : [
+        "发财鸭"
+      ],
+      "type" : "addTask",
+      "url" : "https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taote/duck.json"
+    },
+    "淘特-萝卜领钱任务" : {
+      "action" : "setfile",
+      "name" : "淘特-萝卜领钱任务",
+      "tasks" : [
+        "萝卜任务"
+      ],
+      "type" : "addTask",
+      "url" : "https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/taote/bigRobot.json"
+    },
+    "返回" : {
+      "action" : "pop"
+    },
+    "饿了么-提款机赚钱" : {
+      "action" : "setfile",
+      "name" : "饿了么-提款机赚钱",
+      "tasks" : [
+        "饿了么提款机"
+      ],
+      "type" : "addTask",
+      "url" : "https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/elemeatm"
+    },
+    "饿了么-果园0元领水果" : {
+      "action" : "setfile",
+      "name" : "饿了么-果园0元领水果",
+      "tasks" : [
+        "饿了么果园"
+      ],
+      "type" : "addTask",
+      "url" : "https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/elemeguoyuan.json"
+    },
+    "饿了么-自动领豆任务" : {
+      "action" : "setfile",
+      "name" : "饿了么-自动领豆任务",
+      "tasks" : [
+        "饿了么自动领豆"
+      ],
+      "type" : "addTask",
+      "url" : "https://jiutiao.coding.net/p/shortcuts/d/updatejson/git/raw/master/eleme/dou.json"
     }
-}
+  }
+  }
